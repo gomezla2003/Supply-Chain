@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Premier Categories" language="en" table="x_sthc_supply_chai_premier_categories">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Premier Categories</label>
+            <language>en</language>
+            <name>x_sthc_supply_chai_premier_categories</name>
+            <plural>Premier Categories</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-04-12 17:56:07</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>76188cf3dbddd70096b17d8bbf96191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Premier Categories</sys_name>
+            <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+            <sys_update_name>sys_documentation_x_sthc_supply_chai_premier_categories__en</sys_update_name>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-04-12 17:56:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

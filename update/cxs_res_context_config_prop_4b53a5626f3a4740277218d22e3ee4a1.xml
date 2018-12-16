@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cxs_res_context_config_prop">
+    <cxs_res_context_config_prop action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <choices/>
+        <cxs_res_context_config/>
+        <default_value>IR_AND_OR_QUERY</default_value>
+        <description>Instructs Zing how to interegate the search string. The value may only be one of the following: 'IR_AND_QUERY', 'IR_AND_OR_QUERY' or 'IR_OR_QUERY'</description>
+        <id>catalog_sr.search_operator</id>
+        <name>Search Operator</name>
+        <sys_class_name>cxs_res_context_config_prop</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2017-12-05 20:45:26</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>4b53a5626f3a4740277218d22e3ee4a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search Operator</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>cxs_res_context_config_prop_4b53a5626f3a4740277218d22e3ee4a1</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2017-12-05 20:45:26</sys_updated_on>
+        <type>choice</type>
+        <value>IR_AND_OR_QUERY</value>
+    </cxs_res_context_config_prop>
+</record_update>

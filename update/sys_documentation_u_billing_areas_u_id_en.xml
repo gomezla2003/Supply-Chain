@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_id" label="ID" language="en" table="u_billing_areas">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_id</element>
+            <help/>
+            <hint/>
+            <label>ID</label>
+            <language>en</language>
+            <name>u_billing_areas</name>
+            <plural>IDs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-09-18 14:34:53</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>91de4a76dbe0afc4a08eaed15b9619e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ID</sys_name>
+            <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+            <sys_update_name>sys_documentation_u_billing_areas_u_id_en</sys_update_name>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-09-18 14:34:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

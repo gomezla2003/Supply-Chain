@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_producer">
+    <sc_cat_item_producer action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <can_cancel>false</can_cancel>
+        <category display_value="">25194814db8b930096b17d8bbf961909</category>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time/>
+        <description/>
+        <entitlement_script/>
+        <group display_value="Supply Chain Analytics" name="Supply Chain Analytics">fd4b5224db31db00b3d8fcfa0c961987</group>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <meta>analytics, report, category management, category, management, data</meta>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Category Management Data Request</name>
+        <no_cart>false</no_cart>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_search>false</no_search>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture/>
+        <post_insert_script/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=fcc6b55adb65174040f8fcfa0c9619fd&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <redirect_url>generated_record</redirect_url>
+        <roles>snc_internal</roles>
+        <sc_catalogs>fa8a5e0f6fbd0f0061f06ea22e3ee404</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <script><![CDATA[current.setValue('item' , 'fcc6b55adb65174040f8fcfa0c9619fd');
+current.setValue('requested_for', producer.name);
+]]></script>
+        <short_description>Category Management Data Request</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item_producer</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:25:04</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>fcc6b55adb65174040f8fcfa0c9619fd</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>Category Management Data Request</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>sc_cat_item_producer_fcc6b55adb65174040f8fcfa0c9619fd</sys_update_name>
+        <sys_updated_by>SHollien</sys_updated_by>
+        <sys_updated_on>2018-08-15 20:08:51</sys_updated_on>
+        <table_name>x_sthc_supply_chai_supply_chain_requests</table_name>
+        <template/>
+        <type>item</type>
+        <u_approval_group_override/>
+        <u_show_on_access_request_guide>false</u_show_on_access_request_guide>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <view/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow display_value="Supply Chain Request">06583d9adb65174040f8fcfa0c96190e</workflow>
+    </sc_cat_item_producer>
+    <sys_translated_text action="delete_multiple" query="documentkey=fcc6b55adb65174040f8fcfa0c9619fd"/>
+    <fx_price action="delete_multiple" query="id=fcc6b55adb65174040f8fcfa0c9619fd"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>fcc6b55adb65174040f8fcfa0c9619fd</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:25:04</sys_created_on>
+        <sys_id>3ee6755adb65174040f8fcfa0c9619d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-20 20:25:04</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>fcc6b55adb65174040f8fcfa0c9619fd</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:25:05</sys_created_on>
+        <sys_id>fee6755adb65174040f8fcfa0c9619d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-20 20:25:05</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

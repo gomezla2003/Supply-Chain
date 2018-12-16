@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2018-12-16 04:55:06">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-01-15 17:31:27</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>5120c87bdb6b0b0074471cb51b961972</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>sys_portal_page_5120c87bdb6b0b0074471cb51b961972</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-01-15 17:31:27</sys_updated_on>
+        <title>PA New Tab</title>
+        <user/>
+        <view>pa_new_tab_150</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">5120c87bdb6b0b0074471cb51b961972</page>
+                <summary>SC Average Case Resolution</summary>
+                <sys_created_by>LGOMEZ</sys_created_by>
+                <sys_created_on>2018-01-15 17:32:15</sys_created_on>
+                <sys_id>0550803fdb6b0b0074471cb51b96190c</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>LGOMEZ</sys_updated_by>
+                <sys_updated_on>2018-01-15 17:32:15</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">d120c87bdb6b0b0074471cb51b961973</grid_canvas>
+                        <height>4</height>
+                        <portal_widget display_value="Created 01-15-2018 10:32:15">0550803fdb6b0b0074471cb51b96190c</portal_widget>
+                        <posx>3</posx>
+                        <posy>0</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:15</sys_created_on>
+                        <sys_customer_update>false</sys_customer_update>
+                        <sys_id>4150803fdb6b0b0074471cb51b96190e</sys_id>
+                        <sys_mod_count>4</sys_mod_count>
+                        <sys_name/>
+                        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+                        <sys_policy/>
+                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_4150803fdb6b0b0074471cb51b96190e</sys_update_name>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:34</sys_updated_on>
+                        <width>3</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:15">0550803fdb6b0b0074471cb51b96190c</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:15</sys_created_on>
+                        <sys_id>0150803fdb6b0b0074471cb51b96190d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:15</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:15">0550803fdb6b0b0074471cb51b96190c</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:15</sys_created_on>
+                        <sys_id>0950803fdb6b0b0074471cb51b96190c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:15</sys_updated_on>
+                        <value>fe1d37ebdbe70b0074471cb51b9619c1</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:15">0550803fdb6b0b0074471cb51b96190c</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:15</sys_created_on>
+                        <sys_id>4950803fdb6b0b0074471cb51b96190d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:15</sys_updated_on>
+                        <value>SC Average Case Resolution</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:15">0550803fdb6b0b0074471cb51b96190c</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:15</sys_created_on>
+                        <sys_id>4d50803fdb6b0b0074471cb51b96190c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:15</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:15">0550803fdb6b0b0074471cb51b96190c</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:15</sys_created_on>
+                        <sys_id>8550803fdb6b0b0074471cb51b96190d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:15</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:15">0550803fdb6b0b0074471cb51b96190c</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:15</sys_created_on>
+                        <sys_id>c150803fdb6b0b0074471cb51b96190d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:15</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">5120c87bdb6b0b0074471cb51b961972</page>
+                <summary>SC Number of Active Cases</summary>
+                <sys_created_by>LGOMEZ</sys_created_by>
+                <sys_created_on>2018-01-15 17:32:20</sys_created_on>
+                <sys_id>0a50c83fdb6b0b0074471cb51b9619d5</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>LGOMEZ</sys_updated_by>
+                <sys_updated_on>2018-01-15 17:32:20</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">d120c87bdb6b0b0074471cb51b961973</grid_canvas>
+                        <height>4</height>
+                        <portal_widget display_value="Created 01-15-2018 10:32:20">0a50c83fdb6b0b0074471cb51b9619d5</portal_widget>
+                        <posx>0</posx>
+                        <posy>0</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:20</sys_created_on>
+                        <sys_customer_update>false</sys_customer_update>
+                        <sys_id>4650c83fdb6b0b0074471cb51b9619d7</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_name/>
+                        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+                        <sys_policy/>
+                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_4650c83fdb6b0b0074471cb51b9619d7</sys_update_name>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:26</sys_updated_on>
+                        <width>3</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:20">0a50c83fdb6b0b0074471cb51b9619d5</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:20</sys_created_on>
+                        <sys_id>0650c83fdb6b0b0074471cb51b9619d6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:20</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:20">0a50c83fdb6b0b0074471cb51b9619d5</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:20</sys_created_on>
+                        <sys_id>0e50c83fdb6b0b0074471cb51b9619d5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:20</sys_updated_on>
+                        <value>e0dcfb2bdbe70b0074471cb51b9619e4</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:20">0a50c83fdb6b0b0074471cb51b9619d5</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:20</sys_created_on>
+                        <sys_id>4250c83fdb6b0b0074471cb51b9619d6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:20</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:20">0a50c83fdb6b0b0074471cb51b9619d5</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:20</sys_created_on>
+                        <sys_id>4e50c83fdb6b0b0074471cb51b9619d6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:20</sys_updated_on>
+                        <value>SC Number of Active Cases</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:20">0a50c83fdb6b0b0074471cb51b9619d5</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:20</sys_created_on>
+                        <sys_id>8a50c83fdb6b0b0074471cb51b9619d6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:20</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:20">0a50c83fdb6b0b0074471cb51b9619d5</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:20</sys_created_on>
+                        <sys_id>c650c83fdb6b0b0074471cb51b9619d6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:20</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">5120c87bdb6b0b0074471cb51b961972</page>
+                <summary>SC On-Hold</summary>
+                <sys_created_by>LGOMEZ</sys_created_by>
+                <sys_created_on>2018-01-15 17:32:05</sys_created_on>
+                <sys_id>2a40c03fdb6b0b0074471cb51b9619d8</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>LGOMEZ</sys_updated_by>
+                <sys_updated_on>2018-01-15 17:32:05</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">d120c87bdb6b0b0074471cb51b961973</grid_canvas>
+                        <height>4</height>
+                        <portal_widget display_value="Created 01-15-2018 10:32:05">2a40c03fdb6b0b0074471cb51b9619d8</portal_widget>
+                        <posx>9</posx>
+                        <posy>0</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:05</sys_created_on>
+                        <sys_customer_update>false</sys_customer_update>
+                        <sys_id>6640c03fdb6b0b0074471cb51b9619da</sys_id>
+                        <sys_mod_count>12</sys_mod_count>
+                        <sys_name/>
+                        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+                        <sys_policy/>
+                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_6640c03fdb6b0b0074471cb51b9619da</sys_update_name>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:46</sys_updated_on>
+                        <width>3</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:05">2a40c03fdb6b0b0074471cb51b9619d8</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:05</sys_created_on>
+                        <sys_id>2640c03fdb6b0b0074471cb51b9619d9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:05</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:05">2a40c03fdb6b0b0074471cb51b9619d8</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:05</sys_created_on>
+                        <sys_id>2e40c03fdb6b0b0074471cb51b9619d8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:05</sys_updated_on>
+                        <value>d00ef727db2b0b0074471cb51b961999</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:05">2a40c03fdb6b0b0074471cb51b9619d8</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:05</sys_created_on>
+                        <sys_id>6240c03fdb6b0b0074471cb51b9619d9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:05</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:05">2a40c03fdb6b0b0074471cb51b9619d8</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:05</sys_created_on>
+                        <sys_id>6e40c03fdb6b0b0074471cb51b9619d9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:05</sys_updated_on>
+                        <value>SC On-Hold</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:05">2a40c03fdb6b0b0074471cb51b9619d8</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:05</sys_created_on>
+                        <sys_id>aa40c03fdb6b0b0074471cb51b9619d9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:05</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:05">2a40c03fdb6b0b0074471cb51b9619d8</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:05</sys_created_on>
+                        <sys_id>e640c03fdb6b0b0074471cb51b9619d9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:05</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">5120c87bdb6b0b0074471cb51b961972</page>
+                <summary>SC Breached Cases</summary>
+                <sys_created_by>LGOMEZ</sys_created_by>
+                <sys_created_on>2018-01-15 17:32:10</sys_created_on>
+                <sys_id>37404c3fdb6b0b0074471cb51b96193f</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>LGOMEZ</sys_updated_by>
+                <sys_updated_on>2018-01-15 17:32:10</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">d120c87bdb6b0b0074471cb51b961973</grid_canvas>
+                        <height>4</height>
+                        <portal_widget display_value="Created 01-15-2018 10:32:10">37404c3fdb6b0b0074471cb51b96193f</portal_widget>
+                        <posx>6</posx>
+                        <posy>0</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:10</sys_created_on>
+                        <sys_customer_update>false</sys_customer_update>
+                        <sys_id>73404c3fdb6b0b0074471cb51b961941</sys_id>
+                        <sys_mod_count>8</sys_mod_count>
+                        <sys_name/>
+                        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+                        <sys_policy/>
+                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_73404c3fdb6b0b0074471cb51b961941</sys_update_name>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:40</sys_updated_on>
+                        <width>3</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:10">37404c3fdb6b0b0074471cb51b96193f</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:10</sys_created_on>
+                        <sys_id>33404c3fdb6b0b0074471cb51b961940</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:10</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:10">37404c3fdb6b0b0074471cb51b96193f</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:10</sys_created_on>
+                        <sys_id>3b404c3fdb6b0b0074471cb51b96193f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:10</sys_updated_on>
+                        <value>b7ddbfe3db2b0b0074471cb51b9619dd</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:10">37404c3fdb6b0b0074471cb51b96193f</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:10</sys_created_on>
+                        <sys_id>7b404c3fdb6b0b0074471cb51b961940</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:10</sys_updated_on>
+                        <value>SC Breached Cases</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:10">37404c3fdb6b0b0074471cb51b96193f</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:10</sys_created_on>
+                        <sys_id>7f404c3fdb6b0b0074471cb51b96193f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:10</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:10">37404c3fdb6b0b0074471cb51b96193f</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:10</sys_created_on>
+                        <sys_id>b7404c3fdb6b0b0074471cb51b961940</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:10</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:10">37404c3fdb6b0b0074471cb51b96193f</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:10</sys_created_on>
+                        <sys_id>f3404c3fdb6b0b0074471cb51b961940</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:10</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">5120c87bdb6b0b0074471cb51b961972</page>
+                <summary>SC  Cases By Priority</summary>
+                <sys_created_by>LGOMEZ</sys_created_by>
+                <sys_created_on>2018-01-15 17:32:00</sys_created_on>
+                <sys_id>514008bbdb6b0b0074471cb51b96190f</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>LGOMEZ</sys_updated_by>
+                <sys_updated_on>2018-01-15 17:32:00</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">d120c87bdb6b0b0074471cb51b961973</grid_canvas>
+                        <height>10</height>
+                        <portal_widget display_value="Created 01-15-2018 10:32:00">514008bbdb6b0b0074471cb51b96190f</portal_widget>
+                        <posx>0</posx>
+                        <posy>4</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:00</sys_created_on>
+                        <sys_customer_update>false</sys_customer_update>
+                        <sys_id>9d4008bbdb6b0b0074471cb51b961910</sys_id>
+                        <sys_mod_count>13</sys_mod_count>
+                        <sys_name/>
+                        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+                        <sys_policy/>
+                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_9d4008bbdb6b0b0074471cb51b961910</sys_update_name>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:57</sys_updated_on>
+                        <width>4</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:00">514008bbdb6b0b0074471cb51b96190f</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:00</sys_created_on>
+                        <sys_id>114008bbdb6b0b0074471cb51b961910</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:00</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:00">514008bbdb6b0b0074471cb51b96190f</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:00</sys_created_on>
+                        <sys_id>554008bbdb6b0b0074471cb51b96190f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:00</sys_updated_on>
+                        <value>f34ef7e7db2b0b0074471cb51b96194c</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:00">514008bbdb6b0b0074471cb51b96190f</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:00</sys_created_on>
+                        <sys_id>5d4008bbdb6b0b0074471cb51b96190f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:00</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:00">514008bbdb6b0b0074471cb51b96190f</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:00</sys_created_on>
+                        <sys_id>954008bbdb6b0b0074471cb51b961910</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:00</sys_updated_on>
+                        <value>SC  Cases By Priority</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:00">514008bbdb6b0b0074471cb51b96190f</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:00</sys_created_on>
+                        <sys_id>994008bbdb6b0b0074471cb51b96190f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:00</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:00">514008bbdb6b0b0074471cb51b96190f</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:32:00</sys_created_on>
+                        <sys_id>d14008bbdb6b0b0074471cb51b961910</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:32:00</sys_updated_on>
+                        <value>semi_donut</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">5120c87bdb6b0b0074471cb51b961972</page>
+                <summary>SC  Cases By Elapsed Time SLA</summary>
+                <sys_created_by>LGOMEZ</sys_created_by>
+                <sys_created_on>2018-01-15 17:31:54</sys_created_on>
+                <sys_id>73308cbbdb6b0b0074471cb51b961985</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>LGOMEZ</sys_updated_by>
+                <sys_updated_on>2018-01-15 17:31:54</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">d120c87bdb6b0b0074471cb51b961973</grid_canvas>
+                        <height>10</height>
+                        <portal_widget display_value="Created 01-15-2018 10:31:54">73308cbbdb6b0b0074471cb51b961985</portal_widget>
+                        <posx>4</posx>
+                        <posy>4</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:31:54</sys_created_on>
+                        <sys_customer_update>false</sys_customer_update>
+                        <sys_id>bf308cbbdb6b0b0074471cb51b961986</sys_id>
+                        <sys_mod_count>16</sys_mod_count>
+                        <sys_name/>
+                        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+                        <sys_policy/>
+                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_bf308cbbdb6b0b0074471cb51b961986</sys_update_name>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:33:03</sys_updated_on>
+                        <width>4</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 01-15-2018 10:31:54">73308cbbdb6b0b0074471cb51b961985</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:31:54</sys_created_on>
+                        <sys_id>33308cbbdb6b0b0074471cb51b961986</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:31:54</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 01-15-2018 10:31:54">73308cbbdb6b0b0074471cb51b961985</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:31:54</sys_created_on>
+                        <sys_id>77308cbbdb6b0b0074471cb51b961985</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:31:54</sys_updated_on>
+                        <value>02af3fa3db6b0b0074471cb51b96199a</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 01-15-2018 10:31:54">73308cbbdb6b0b0074471cb51b961985</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:31:54</sys_created_on>
+                        <sys_id>7f308cbbdb6b0b0074471cb51b961985</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:31:54</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 01-15-2018 10:31:54">73308cbbdb6b0b0074471cb51b961985</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:31:54</sys_created_on>
+                        <sys_id>b7308cbbdb6b0b0074471cb51b961986</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:31:54</sys_updated_on>
+                        <value>SC  Cases By Elapsed Time SLA</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 01-15-2018 10:31:54">73308cbbdb6b0b0074471cb51b961985</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:31:54</sys_created_on>
+                        <sys_id>bb308cbbdb6b0b0074471cb51b961985</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:31:54</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 01-15-2018 10:31:54">73308cbbdb6b0b0074471cb51b961985</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:31:54</sys_created_on>
+                        <sys_id>f3308cbbdb6b0b0074471cb51b961986</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:31:54</sys_updated_on>
+                        <value>semi_donut</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">5120c87bdb6b0b0074471cb51b961972</page>
+                <summary>SC  Cases By State</summary>
+                <sys_created_by>LGOMEZ</sys_created_by>
+                <sys_created_on>2018-01-15 17:31:50</sys_created_on>
+                <sys_id>7e30c0bbdb6b0b0074471cb51b961905</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>LGOMEZ</sys_updated_by>
+                <sys_updated_on>2018-01-15 17:31:50</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">d120c87bdb6b0b0074471cb51b961973</grid_canvas>
+                        <height>10</height>
+                        <portal_widget display_value="Created 01-15-2018 10:31:50">7e30c0bbdb6b0b0074471cb51b961905</portal_widget>
+                        <posx>8</posx>
+                        <posy>4</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:31:50</sys_created_on>
+                        <sys_customer_update>false</sys_customer_update>
+                        <sys_id>7230c0bbdb6b0b0074471cb51b961909</sys_id>
+                        <sys_mod_count>18</sys_mod_count>
+                        <sys_name/>
+                        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+                        <sys_policy/>
+                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_7230c0bbdb6b0b0074471cb51b961909</sys_update_name>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:33:09</sys_updated_on>
+                        <width>4</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 01-15-2018 10:31:50">7e30c0bbdb6b0b0074471cb51b961905</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:31:50</sys_created_on>
+                        <sys_id>3230c0bbdb6b0b0074471cb51b961908</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:31:50</sys_updated_on>
+                        <value>semi_donut</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 01-15-2018 10:31:50">7e30c0bbdb6b0b0074471cb51b961905</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:31:50</sys_created_on>
+                        <sys_id>7e30c0bbdb6b0b0074471cb51b961907</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:31:50</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 01-15-2018 10:31:50">7e30c0bbdb6b0b0074471cb51b961905</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:31:50</sys_created_on>
+                        <sys_id>ba30c0bbdb6b0b0074471cb51b961907</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:31:50</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 01-15-2018 10:31:50">7e30c0bbdb6b0b0074471cb51b961905</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:31:50</sys_created_on>
+                        <sys_id>f230c0bbdb6b0b0074471cb51b961908</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:31:50</sys_updated_on>
+                        <value>SC  Cases By State</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 01-15-2018 10:31:50">7e30c0bbdb6b0b0074471cb51b961905</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:31:50</sys_created_on>
+                        <sys_id>f630c0bbdb6b0b0074471cb51b961907</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:31:50</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 01-15-2018 10:31:50">7e30c0bbdb6b0b0074471cb51b961905</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-01-15 17:31:50</sys_created_on>
+                        <sys_id>fa30c0bbdb6b0b0074471cb51b961906</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-01-15 17:31:50</sys_updated_on>
+                        <value>ec6ebfe7db2b0b0074471cb51b961924</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

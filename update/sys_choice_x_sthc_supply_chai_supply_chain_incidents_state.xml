@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_sthc_supply_chai_supply_chain_incidents" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Open</label>
+            <language>en</language>
+            <name>x_sthc_supply_chai_supply_chain_incidents</name>
+            <sequence>1</sequence>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2017-12-20 19:44:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>8945e6576f43c780277218d22e3ee426</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2017-12-20 19:47:11</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Work In Progress</label>
+            <language>en</language>
+            <name>x_sthc_supply_chai_supply_chain_incidents</name>
+            <sequence>2</sequence>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2017-12-20 19:44:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>a955e6576f43c780277218d22e3ee495</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2017-12-20 19:47:15</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Resolved</label>
+            <language>en</language>
+            <name>x_sthc_supply_chai_supply_chain_incidents</name>
+            <sequence>3</sequence>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2017-12-20 19:45:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>82756e176f43c780277218d22e3ee48e</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2017-12-20 19:47:20</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>On-Hold</label>
+            <language>en</language>
+            <name>x_sthc_supply_chai_supply_chain_incidents</name>
+            <sequence>4</sequence>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2017-12-20 19:45:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>d085ea576f43c780277218d22e3ee4cb</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2017-12-20 19:47:30</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed</label>
+            <language>en</language>
+            <name>x_sthc_supply_chai_supply_chain_incidents</name>
+            <sequence>5</sequence>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2017-12-20 19:44:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>3b55a6576f43c780277218d22e3ee448</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2017-12-20 19:47:28</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cancelled</label>
+            <language>en</language>
+            <name>x_sthc_supply_chai_supply_chain_incidents</name>
+            <sequence>6</sequence>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2017-12-20 19:46:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>05c5ee576f43c780277218d22e3ee4f8</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2017-12-20 19:47:32</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_sthc_supply_chai_supply_chain_incidents</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2017-12-20 19:44:40</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>fc6d5c6bdb4bc304808f68461b9619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+            <sys_update_name>sys_choice_x_sthc_supply_chai_supply_chain_incidents_state</sys_update_name>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2017-12-20 19:44:40</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

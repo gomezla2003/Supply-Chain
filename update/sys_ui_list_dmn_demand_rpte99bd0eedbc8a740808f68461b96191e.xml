@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="dmn_demand" version="2" view="RPTe99bd0eedbc8a740808f68461b96191e">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="dmn_demand" element="NULL" name="dmn_demand" parent="NULL" relationship="NULL" sys_domain="global" view="ed9bd0eedbc8a740808f68461b961924">4f34b862dbc4e740808f68461b961964</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-08-23 16:49:11</sys_created_on>
+            <sys_id>8734b862dbc4e740808f68461b961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-08-23 16:49:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="dmn_demand" element="NULL" name="dmn_demand" parent="NULL" relationship="NULL" sys_domain="global" view="ed9bd0eedbc8a740808f68461b961924">4f34b862dbc4e740808f68461b961964</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-08-23 16:49:11</sys_created_on>
+            <sys_id>0f34b862dbc4e740808f68461b961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-08-23 16:49:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>submitter</element>
+            <list_id display_value="dmn_demand" element="NULL" name="dmn_demand" parent="NULL" relationship="NULL" sys_domain="global" view="ed9bd0eedbc8a740808f68461b961924">4f34b862dbc4e740808f68461b961964</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-08-23 16:49:11</sys_created_on>
+            <sys_id>8f34b862dbc4e740808f68461b961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-08-23 16:49:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="dmn_demand" element="NULL" name="dmn_demand" parent="NULL" relationship="NULL" sys_domain="global" view="ed9bd0eedbc8a740808f68461b961924">4f34b862dbc4e740808f68461b961964</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-08-23 16:49:11</sys_created_on>
+            <sys_id>0334b862dbc4e740808f68461b961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-08-23 16:49:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assignment_group</element>
+            <list_id display_value="dmn_demand" element="NULL" name="dmn_demand" parent="NULL" relationship="NULL" sys_domain="global" view="ed9bd0eedbc8a740808f68461b961924">4f34b862dbc4e740808f68461b961964</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-08-23 16:49:11</sys_created_on>
+            <sys_id>8334b862dbc4e740808f68461b961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-08-23 16:49:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="dmn_demand" element="NULL" name="dmn_demand" parent="NULL" relationship="NULL" sys_domain="global" view="ed9bd0eedbc8a740808f68461b961924">4f34b862dbc4e740808f68461b961964</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-08-23 16:49:11</sys_created_on>
+            <sys_id>0734b862dbc4e740808f68461b961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-08-23 16:49:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>closed_at</element>
+            <list_id display_value="dmn_demand" element="NULL" name="dmn_demand" parent="NULL" relationship="NULL" sys_domain="global" view="ed9bd0eedbc8a740808f68461b961924">4f34b862dbc4e740808f68461b961964</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-08-23 16:49:11</sys_created_on>
+            <sys_id>8734b862dbc4e740808f68461b961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-08-23 16:49:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>closed_by</element>
+            <list_id display_value="dmn_demand" element="NULL" name="dmn_demand" parent="NULL" relationship="NULL" sys_domain="global" view="ed9bd0eedbc8a740808f68461b961924">4f34b862dbc4e740808f68461b961964</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-08-23 16:49:11</sys_created_on>
+            <sys_id>0b34b862dbc4e740808f68461b961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-08-23 16:49:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>dmn_demand</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-08-23 16:49:11</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>4f34b862dbc4e740808f68461b961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>dmn_demand</sys_name>
+            <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+            <sys_update_name>sys_ui_list_dmn_demand_RPTe99bd0eedbc8a740808f68461b96191e</sys_update_name>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-08-23 16:49:11</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpte99bd0eedbc8a740808f68461b96191e" name="RPTe99bd0eedbc8a740808f68461b96191e">ed9bd0eedbc8a740808f68461b961924</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

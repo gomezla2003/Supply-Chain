@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Supply Chain Requests" max_length="40" name="x_sthc_supply_chai_supply_chain_requests" sizeclass="58" type="collection">
+        <element label="Item" max_length="32" name="item" reference="sc_cat_item" type="reference"/>
+        <element label="Requested for" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
+    </element>
+</database>

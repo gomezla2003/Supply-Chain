@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_macro">
+    <sys_ui_macro action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <description>Variable Editor for forms</description>
+        <media_type/>
+        <name>com_glideapp_questionset_default_question_editor_task</name>
+        <scoped_name>x_sthc_supply_chai_com_glideapp_questionset_default_question_editor_task</scoped_name>
+        <sys_class_name>sys_ui_macro</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 21:00:09</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>2cfe3112dba5174040f8fcfa0c9619ff</sys_id>
+        <sys_mod_count>15</sys_mod_count>
+        <sys_name>com_glideapp_questionset_default_question_editor_task</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>sys_ui_macro_2cfe3112dba5174040f8fcfa0c9619ff</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-20 21:30:56</sys_updated_on>
+        <xml><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+    <g:requires name="scripts/js_includes_catalog.js" includes="true"/>
+    <g:requires name="styles/${new CatalogCssSelector().getVariableCss()}" includes="true"/>
+    <g2:evaluate var="jvar_catalog_item">
+       function eval_cat_item() {
+        var cat_item = "";
+		var parent = current.parent;
+		var catItemProducedGr = new GlideRecord("sc_item_produced_record");
+		catItemProducedGr.addQuery("record_key", parent);
+		catItemProducedGr.query();
+		if (catItemProducedGr.next()){
+			cat_item = catItemProducedGr.getValue("producer");
+		}
+        return cat_item;
+       }
+       eval_cat_item();
+    </g2:evaluate>
+
+    <g2:evaluate var="jvar_cat_sets" jelly="true">
+       var jvar_cat_sets = "";
+       var gr = new GlideRecord("io_set_item");
+       gr.addQuery("sc_cat_item", jelly.jvar_catalog_item);
+       gr.query();
+       while (gr.next()) {
+          if (jvar_cat_sets.length > 0)
+             jvar_cat_sets += ",";
+          jvar_cat_sets += gr.variable_set;
+       }
+       jvar_cat_sets;
+    </g2:evaluate>
+
+	<div data-sn-macro-sys-id="${jvar_macro_sys_id}">
+		<j2:if test="$[jvar_catalog_item != '']">
+			<j2:set var="jvar_producer_target_record" value="true"/>
+			<g2:client_script type="catalog_item" catalogItem="$[jvar_catalog_item]"/>
+			<g:inline template="catalog_ui_policy.xml"/>
+			<g2:render_component componentName="com.glideapp.servicecatalog.DefaultQuestionEditor"/>
+		</j2:if>
+		<j2:if test="$[jvar_catalog_item == '']">
+			<!--Render old default editor if catalog item is not found -->
+			<g2:render_component componentName="com.glideapp.questionset.DefaultQuestionEditor"/>
+		</j2:if>
+	</div>
+</j:jelly>]]></xml>
+    </sys_ui_macro>
+</record_update>

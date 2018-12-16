@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_category_description__255_" label="CATEGORY DESCRIPTION (255)" language="en" table="x_sthc_supply_chai_temp_premier_categories">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_category_description__255_</element>
+            <help/>
+            <hint/>
+            <label>CATEGORY DESCRIPTION (255)</label>
+            <language>en</language>
+            <name>x_sthc_supply_chai_temp_premier_categories</name>
+            <plural>CATEGORY DESCRIPTION (255)</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-05-01 15:45:35</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>ff602975dbb11bc0808f68461b961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>CATEGORY DESCRIPTION (255)</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+            <sys_update_name>sys_documentation_x_sthc_supply_chai_temp_premier_categories_u_category_description__255__en</sys_update_name>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-05-01 15:45:35</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

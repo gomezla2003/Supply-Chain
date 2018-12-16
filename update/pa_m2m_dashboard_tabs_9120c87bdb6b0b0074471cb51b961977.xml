@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="Supply Chain Dashboard">2b00843bdb6b0b0074471cb51b96194c</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-01-15 17:31:27</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>9120c87bdb6b0b0074471cb51b961977</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2b00843bdb6b0b0074471cb51b96194c</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_9120c87bdb6b0b0074471cb51b961977</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-01-15 17:31:27</sys_updated_on>
+        <tab display_value="Supply Chain">dd20c87bdb6b0b0074471cb51b961973</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>

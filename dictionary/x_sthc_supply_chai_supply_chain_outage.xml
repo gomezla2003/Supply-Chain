@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci_outage" label="Supply Chain Outage" max_length="40" name="x_sthc_supply_chai_supply_chain_outage" type="collection"/>
+</database>

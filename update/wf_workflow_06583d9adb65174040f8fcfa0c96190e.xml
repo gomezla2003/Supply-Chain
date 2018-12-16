@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="wf_workflow_version">
+    <wf_workflow_version action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_stages>{"activities":{},"ends":["ce58fd9adb65174040f8fcfa0c96195d"],"subflows":[],"stages":{}}</activity_stages>
+        <after_business_rules>false</after_business_rules>
+        <checked_out/>
+        <checked_out_by/>
+        <column_renderer display_value="Workflow-driven">a56213111b030100adca1e094f0713ac</column_renderer>
+        <condition/>
+        <condition_type>run_match</condition_type>
+        <description/>
+        <expected_sequences>02583d9adb65174040f8fcfa0c96190f,13a8b1dadb65174040f8fcfa0c96191d,b2f9351edb65174040f8fcfa0c961920,471a311edb65174040f8fcfa0c961944,ce58fd9adb65174040f8fcfa0c96195d</expected_sequences>
+        <expected_time>1970-01-01 14:00:00</expected_time>
+        <expected_time_type/>
+        <full_sequences>02583d9adb65174040f8fcfa0c96190f,13a8b1dadb65174040f8fcfa0c96191d,b2f9351edb65174040f8fcfa0c961920,471a311edb65174040f8fcfa0c961944,ce58fd9adb65174040f8fcfa0c96195d</full_sequences>
+        <journal/>
+        <max_activity_count>100</max_activity_count>
+        <name>Supply Chain Request</name>
+        <not_cacheable>false</not_cacheable>
+        <on_cancel><![CDATA[// This script executes if the workflow is cancelled.// The global variable context_sys_id contains the sys_id of the cancelled workflow context.]]></on_cancel>
+        <order>100</order>
+        <pin_type>set_by_activity</pin_type>
+        <published>true</published>
+        <relative_duration/>
+        <requires_ert>true</requires_ert>
+        <run_multiple>false</run_multiple>
+        <schedule/>
+        <stage_field/>
+        <stage_order>computed</stage_order>
+        <start display_value="Begin">02583d9adb65174040f8fcfa0c96190f</start>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:31:19</sys_created_on>
+        <sys_id>fa383d9adb65174040f8fcfa0c961909</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_updated_by>CHMCGRAW</sys_updated_by>
+        <sys_updated_on>2018-05-01 20:57:54</sys_updated_on>
+        <table>x_sthc_supply_chai_supply_chain_requests</table>
+        <timezone/>
+        <validated>true</validated>
+        <workflow display_value="Supply Chain Request">06583d9adb65174040f8fcfa0c96190e</workflow>
+    </wf_workflow_version>
+    <wf_workflow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <description/>
+        <name>Supply Chain Request</name>
+        <preview/>
+        <sys_class_name>wf_workflow</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:31:19</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>06583d9adb65174040f8fcfa0c96190e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Supply Chain Request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>wf_workflow_06583d9adb65174040f8fcfa0c96190e</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-20 20:31:19</sys_updated_on>
+        <table>x_sthc_supply_chai_supply_chain_requests</table>
+        <template>false</template>
+        <vars/>
+    </wf_workflow>
+    <wf_stage action="INSERT_OR_UPDATE">
+        <name>Completed</name>
+        <ola>1970-01-01 00:00:00</ola>
+        <order/>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:35:31</sys_created_on>
+        <sys_id>1649f9dadb65174040f8fcfa0c961976</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-20 20:35:31</sys_updated_on>
+        <value/>
+        <workflow_version display_value="Supply Chain Request">fa383d9adb65174040f8fcfa0c961909</workflow_version>
+    </wf_stage>
+    <wf_stage action="INSERT_OR_UPDATE">
+        <name>Fullfilment</name>
+        <ola>1970-01-04 00:00:00</ola>
+        <order/>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:35:24</sys_created_on>
+        <sys_id>5639f5dadb65174040f8fcfa0c961910</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-20 20:35:24</sys_updated_on>
+        <value/>
+        <workflow_version display_value="Supply Chain Request">fa383d9adb65174040f8fcfa0c961909</workflow_version>
+    </wf_stage>
+    <wf_stage action="INSERT_OR_UPDATE">
+        <name>Approval (Not Needed)</name>
+        <ola>1970-01-01 00:00:00</ola>
+        <order/>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:34:54</sys_created_on>
+        <sys_id>9b1979dadb65174040f8fcfa0c9619a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-20 20:34:54</sys_updated_on>
+        <value/>
+        <workflow_version display_value="Supply Chain Request">fa383d9adb65174040f8fcfa0c961909</workflow_version>
+    </wf_stage>
+    <wf_activity action="INSERT_OR_UPDATE">
+        <activity_definition display_value="Begin">c7a5e32c0a0a0b3a002377c24ed8ea76</activity_definition>
+        <activity_definition_updated>false</activity_definition_updated>
+        <databus_lookup_id>1</databus_lookup_id>
+        <height/>
+        <input/>
+        <is_parent>false</is_parent>
+        <name>Begin</name>
+        <new_activity_definition/>
+        <notes/>
+        <out_of_date>false</out_of_date>
+        <parent/>
+        <pinned>false</pinned>
+        <pinned_version/>
+        <stage/>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:31:19</sys_created_on>
+        <sys_id>02583d9adb65174040f8fcfa0c96190f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-20 20:31:19</sys_updated_on>
+        <timeout>1970-01-01 00:00:00</timeout>
+        <vars/>
+        <width>80</width>
+        <workflow_version display_value="Supply Chain Request">fa383d9adb65174040f8fcfa0c961909</workflow_version>
+        <x>20</x>
+        <y>20</y>
+    </wf_activity>
+    <sys_variable_value action="delete_multiple" query="document_key=02583d9adb65174040f8fcfa0c96190f"/>
+    <wf_condition action="INSERT_OR_UPDATE">
+        <activity display_value="Begin">02583d9adb65174040f8fcfa0c96190f</activity>
+        <condition>true</condition>
+        <condition_default/>
+        <condition_type>standard</condition_type>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <is_positive>true</is_positive>
+        <name>Always</name>
+        <order>0</order>
+        <short_description/>
+        <skip_during_generate>false</skip_during_generate>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:31:19</sys_created_on>
+        <sys_id>c658fd9adb65174040f8fcfa0c96195d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-20 20:31:19</sys_updated_on>
+    </wf_condition>
+    <wf_activity action="INSERT_OR_UPDATE">
+        <activity_definition display_value="End">c7a66f7d0a0a0b3a004544a6d2f14076</activity_definition>
+        <activity_definition_updated>false</activity_definition_updated>
+        <databus_lookup_id>2</databus_lookup_id>
+        <height/>
+        <input>{}</input>
+        <is_parent>false</is_parent>
+        <name>End</name>
+        <new_activity_definition/>
+        <notes/>
+        <out_of_date>false</out_of_date>
+        <parent/>
+        <pinned>false</pinned>
+        <pinned_version/>
+        <stage display_value="Completed">1649f9dadb65174040f8fcfa0c961976</stage>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:31:19</sys_created_on>
+        <sys_id>ce58fd9adb65174040f8fcfa0c96195d</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-20 20:40:18</sys_updated_on>
+        <timeout>1970-01-01 00:00:00</timeout>
+        <vars/>
+        <width>80</width>
+        <workflow_version display_value="Supply Chain Request">fa383d9adb65174040f8fcfa0c961909</workflow_version>
+        <x>810</x>
+        <y>25</y>
+    </wf_activity>
+    <sys_variable_value action="delete_multiple" query="document_key=ce58fd9adb65174040f8fcfa0c96195d"/>
+    <wf_activity action="INSERT_OR_UPDATE">
+        <activity_definition display_value="Run Script">db8c65aec0a8016501d00259bc7203a4</activity_definition>
+        <activity_definition_updated>false</activity_definition_updated>
+        <databus_lookup_id>3</databus_lookup_id>
+        <height/>
+        <input>{}</input>
+        <is_parent>false</is_parent>
+        <name>Set Record Details</name>
+        <new_activity_definition/>
+        <notes/>
+        <out_of_date>false</out_of_date>
+        <parent/>
+        <pinned>false</pinned>
+        <pinned_version/>
+        <stage display_value="Approval (Not Needed)">9b1979dadb65174040f8fcfa0c9619a6</stage>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:34:33</sys_created_on>
+        <sys_id>13a8b1dadb65174040f8fcfa0c96191d</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-20 20:39:56</sys_updated_on>
+        <timeout>1970-01-01 00:00:00</timeout>
+        <vars/>
+        <width/>
+        <workflow_version display_value="Supply Chain Request">fa383d9adb65174040f8fcfa0c961909</workflow_version>
+        <x>180</x>
+        <y>21</y>
+    </wf_activity>
+    <sys_variable_value action="delete_multiple" query="document_key=13a8b1dadb65174040f8fcfa0c96191d"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>13a8b1dadb65174040f8fcfa0c96191d</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:34:33</sys_created_on>
+        <sys_id>9519f1dadb65174040f8fcfa0c96190a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-20 20:34:33</sys_updated_on>
+        <value>current.location = current.variables.location;&#13;
+current.short_description = current.item.getDisplayValue();&#13;
+current.assignment_group = current.item.group;&#13;
+current.description = current.item.description;&#13;
+&#13;
+</value>
+        <variable display_value="">c35ddef20a0a0ba96248a7090eccd518</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>13a8b1dadb65174040f8fcfa0c96191d</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:34:33</sys_created_on>
+        <sys_id>9519f1dadb65174040f8fcfa0c96190a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-20 20:34:33</sys_updated_on>
+        <value>current.location = current.variables.location;&#13;
+current.short_description = current.item.getDisplayValue();&#13;
+current.assignment_group = current.item.group;&#13;
+current.description = current.item.description;&#13;
+&#13;
+</value>
+        <variable display_value="">c35ddef20a0a0ba96248a7090eccd518</variable>
+    </sys_variable_value>
+    <wf_condition action="INSERT_OR_UPDATE">
+        <activity display_value="Set Record Details">13a8b1dadb65174040f8fcfa0c96191d</activity>
+        <condition>true</condition>
+        <condition_default/>
+        <condition_type>standard</condition_type>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <is_positive>true</is_positive>
+        <name>Always</name>
+        <order>0</order>
+        <short_description/>
+        <skip_during_generate>false</skip_during_generate>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:34:33</sys_created_on>
+        <sys_id>d919f1dadb65174040f8fcfa0c96190a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-20 20:34:33</sys_updated_on>
+    </wf_condition>
+    <wf_activity action="INSERT_OR_UPDATE">
+        <activity_definition display_value="Set Values">1ca8d7cf0a0a0b265e9a000c2c08248c</activity_definition>
+        <activity_definition_updated>false</activity_definition_updated>
+        <databus_lookup_id>5</databus_lookup_id>
+        <height/>
+        <input>{}</input>
+        <is_parent>false</is_parent>
+        <name>Set to Inactive</name>
+        <new_activity_definition/>
+        <notes/>
+        <out_of_date>false</out_of_date>
+        <parent/>
+        <pinned>false</pinned>
+        <pinned_version/>
+        <stage/>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:39:14</sys_created_on>
+        <sys_id>471a311edb65174040f8fcfa0c961944</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-20 20:39:22</sys_updated_on>
+        <timeout>1970-01-01 00:00:00</timeout>
+        <vars/>
+        <width/>
+        <workflow_version display_value="Supply Chain Request">fa383d9adb65174040f8fcfa0c961909</workflow_version>
+        <x>580</x>
+        <y>21</y>
+    </wf_activity>
+    <sys_variable_value action="delete_multiple" query="document_key=471a311edb65174040f8fcfa0c961944"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>471a311edb65174040f8fcfa0c961944</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:39:14</sys_created_on>
+        <sys_id>4e2a351edb65174040f8fcfa0c9619ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-20 20:39:14</sys_updated_on>
+        <value>active=false^EQ</value>
+        <variable display_value="">1cb38c8f0a0a0b266fb48e08de35f507</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>471a311edb65174040f8fcfa0c961944</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:39:14</sys_created_on>
+        <sys_id>4e2a351edb65174040f8fcfa0c9619ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-20 20:39:14</sys_updated_on>
+        <value>active=false^EQ</value>
+        <variable display_value="">1cb38c8f0a0a0b266fb48e08de35f507</variable>
+    </sys_variable_value>
+    <wf_condition action="INSERT_OR_UPDATE">
+        <activity display_value="Set to Inactive">471a311edb65174040f8fcfa0c961944</activity>
+        <condition>true</condition>
+        <condition_default/>
+        <condition_type>standard</condition_type>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <is_positive>true</is_positive>
+        <name>Always</name>
+        <order>0</order>
+        <short_description/>
+        <skip_during_generate>false</skip_during_generate>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:39:14</sys_created_on>
+        <sys_id>822a751edb65174040f8fcfa0c961900</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-20 20:39:14</sys_updated_on>
+    </wf_condition>
+    <wf_activity action="INSERT_OR_UPDATE">
+        <activity_definition display_value="Wait for condition">d93a02ae0a0a0aa30077abad3fdac035</activity_definition>
+        <activity_definition_updated>false</activity_definition_updated>
+        <databus_lookup_id>4</databus_lookup_id>
+        <height/>
+        <input>{}</input>
+        <is_parent>false</is_parent>
+        <name>Wait for Request to close</name>
+        <new_activity_definition/>
+        <notes/>
+        <out_of_date>false</out_of_date>
+        <parent/>
+        <pinned>false</pinned>
+        <pinned_version/>
+        <stage display_value="Fullfilment">5639f5dadb65174040f8fcfa0c961910</stage>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:38:49</sys_created_on>
+        <sys_id>b2f9351edb65174040f8fcfa0c961920</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-25 22:58:20</sys_updated_on>
+        <timeout>1970-01-01 00:00:00</timeout>
+        <vars/>
+        <width/>
+        <workflow_version display_value="Supply Chain Request">fa383d9adb65174040f8fcfa0c961909</workflow_version>
+        <x>387</x>
+        <y>21</y>
+    </wf_activity>
+    <sys_variable_value action="delete_multiple" query="document_key=b2f9351edb65174040f8fcfa0c961920"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>b2f9351edb65174040f8fcfa0c961920</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:38:49</sys_created_on>
+        <sys_id>4c1ab51edb65174040f8fcfa0c96191a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-20 20:38:49</sys_updated_on>
+        <value>state=3^EQ</value>
+        <variable display_value="">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>b2f9351edb65174040f8fcfa0c961920</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:38:49</sys_created_on>
+        <sys_id>881ab51edb65174040f8fcfa0c96191a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-25 22:58:20</sys_updated_on>
+        <value>// Set the variable 'answer' to true or false to indicate if the condition has been met or not.&#13;
+//answer = true;&#13;
+</value>
+        <variable display_value="">c35debce0a0a0ba96248a709440cf31a</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>b2f9351edb65174040f8fcfa0c961920</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:38:49</sys_created_on>
+        <sys_id>4c1ab51edb65174040f8fcfa0c96191a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-20 20:38:49</sys_updated_on>
+        <value>state=3^EQ</value>
+        <variable display_value="">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>b2f9351edb65174040f8fcfa0c961920</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:38:49</sys_created_on>
+        <sys_id>881ab51edb65174040f8fcfa0c96191a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-25 22:58:20</sys_updated_on>
+        <value>// Set the variable 'answer' to true or false to indicate if the condition has been met or not.&#13;
+//answer = true;&#13;
+</value>
+        <variable display_value="">c35debce0a0a0ba96248a709440cf31a</variable>
+    </sys_variable_value>
+    <wf_condition action="INSERT_OR_UPDATE">
+        <activity display_value="Wait for Request to close">b2f9351edb65174040f8fcfa0c961920</activity>
+        <condition>true</condition>
+        <condition_default/>
+        <condition_type>standard</condition_type>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <is_positive>true</is_positive>
+        <name>Always</name>
+        <order>0</order>
+        <short_description/>
+        <skip_during_generate>false</skip_during_generate>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:38:49</sys_created_on>
+        <sys_id>041ab51edb65174040f8fcfa0c96191b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-20 20:38:49</sys_updated_on>
+    </wf_condition>
+    <wf_transition action="INSERT_OR_UPDATE">
+        <condition display_value="Always">822a751edb65174040f8fcfa0c961900</condition>
+        <from display_value="Set to Inactive">471a311edb65174040f8fcfa0c961944</from>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:39:28</sys_created_on>
+        <sys_id>1d3a35dadb65174040f8fcfa0c9619a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-20 20:39:28</sys_updated_on>
+        <to display_value="End">ce58fd9adb65174040f8fcfa0c96195d</to>
+    </wf_transition>
+    <wf_transition action="INSERT_OR_UPDATE">
+        <condition display_value="Always">041ab51edb65174040f8fcfa0c96191b</condition>
+        <from display_value="Wait for Request to close">b2f9351edb65174040f8fcfa0c961920</from>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:39:23</sys_created_on>
+        <sys_id>583af11edb65174040f8fcfa0c9619f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-20 20:39:23</sys_updated_on>
+        <to display_value="Set to Inactive">471a311edb65174040f8fcfa0c961944</to>
+    </wf_transition>
+    <wf_transition action="INSERT_OR_UPDATE">
+        <condition display_value="Always">c658fd9adb65174040f8fcfa0c96195d</condition>
+        <from display_value="Begin">02583d9adb65174040f8fcfa0c96190f</from>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:39:18</sys_created_on>
+        <sys_id>c32a751edb65174040f8fcfa0c96191b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-20 20:39:18</sys_updated_on>
+        <to display_value="Set Record Details">13a8b1dadb65174040f8fcfa0c96191d</to>
+    </wf_transition>
+    <wf_transition action="INSERT_OR_UPDATE">
+        <condition display_value="Always">d919f1dadb65174040f8fcfa0c96190a</condition>
+        <from display_value="Set Record Details">13a8b1dadb65174040f8fcfa0c96191d</from>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:39:21</sys_created_on>
+        <sys_id>e32a35dadb65174040f8fcfa0c9619a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-20 20:39:21</sys_updated_on>
+        <to display_value="Wait for Request to close">b2f9351edb65174040f8fcfa0c961920</to>
+    </wf_transition>
+    <wf_estimated_runtime_config action="INSERT_OR_UPDATE">
+        <estimated_run_time/>
+        <no_of_data_points>1</no_of_data_points>
+        <percentage_threshold_ert>20</percentage_threshold_ert>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:31:19</sys_created_on>
+        <sys_id>42583d9adb65174040f8fcfa0c96190e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-20 20:31:19</sys_updated_on>
+        <workflow_version display_value="Supply Chain Request">fa383d9adb65174040f8fcfa0c961909</workflow_version>
+    </wf_estimated_runtime_config>
+    <wf_workflow_version action="update_multiple" query="workflow=06583d9adb65174040f8fcfa0c96190e^sys_id!=fa383d9adb65174040f8fcfa0c961909">
+        <published>false</published>
+    </wf_workflow_version>
+</record_update>

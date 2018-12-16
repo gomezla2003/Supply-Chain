@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="assignment_group" label="Assignment Group" language="en" table="x_sthc_supply_chai_premier_categories">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <help/>
+            <hint/>
+            <label>Assignment Group</label>
+            <language>en</language>
+            <name>x_sthc_supply_chai_premier_categories</name>
+            <plural>Assignment Groups</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-07-16 21:38:25</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>d10a0e9edbd39340808f68461b9619ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Assignment Group</sys_name>
+            <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+            <sys_update_name>sys_documentation_x_sthc_supply_chai_premier_categories_assignment_group_en</sys_update_name>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-07-16 21:38:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

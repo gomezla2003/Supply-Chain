@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>active</field>
+        <global>true</global>
+        <isolate_script>false</isolate_script>
+        <messages/>
+        <name>(BP) Hide Choice - Closed</name>
+        <order/>
+        <script><![CDATA[// Hide "Closed" Incident state and State from everyone but itil_admin
+
+function onLoad() {
+   if (g_user.hasRole('admin'))
+      return;
+
+   if (g_form.getValue('state') != '3')
+      g_form.removeOption('state', 3);
+	
+	
+	
+	
+}
+]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2017-12-20 20:13:54</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>5bfb2e5b6f43c780277218d22e3ee450</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>(BP) Hide Choice - Closed</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>sys_script_client_5bfb2e5b6f43c780277218d22e3ee450</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2017-12-20 20:15:50</sys_updated_on>
+        <table>x_sthc_supply_chai_supply_chain_incidents</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

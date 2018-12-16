@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="temp_premier_categories" max_length="40" name="x_sthc_supply_chai_temp_premier_categories" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="import_attribute_name=CATEGORY DESCRIPTION (255),edge_encryption_enabled=true" label="CATEGORY DESCRIPTION (255)" max_length="103" name="u_category_description__255_" type="string"/>
+        <element attributes="import_attribute_name=CODE,edge_encryption_enabled=true" label="CODE" max_length="40" name="u_code" type="string"/>
+    </element>
+</database>

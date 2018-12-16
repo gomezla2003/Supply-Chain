@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ts_group">
+    <ts_group action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Supply Chain Cases</description>
+        <group/>
+        <name>Supply Chain Cases</name>
+        <order>100</order>
+        <roles>admin,x_sthc_supply_chai.user,service_desk</roles>
+        <searched>true</searched>
+        <sys_class_name>ts_group</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-01-15 16:54:11</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b1873ba7dba30b0074471cb51b9619b7</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Supply Chain Cases</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>ts_group_b1873ba7dba30b0074471cb51b9619b7</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-09-24 19:24:18</sys_updated_on>
+        <tables>Supply Chain Incidents</tables>
+    </ts_group>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_sthc_supply_chai_supply_chain_incidents">x_sthc_supply_chai_supply_chain_incidents</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>SC</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2017-10-16 21:40:22</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>d470dc6e6ff98f00277218d22e3ee45d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SC</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>sys_number_d470dc6e6ff98f00277218d22e3ee45d</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2017-10-18 22:26:14</sys_updated_on>
+    </sys_number>
+</record_update>

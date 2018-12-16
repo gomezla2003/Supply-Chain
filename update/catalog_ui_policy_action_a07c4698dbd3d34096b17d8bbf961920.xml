@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Category Management Data Requests">64598254dbd3d34096b17d8bbf9619b7</catalog_item>
+        <catalog_variable>IO:33ddc94ddb219f0040f8fcfa0c961939</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field/>
+        <mandatory>false</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>SHollien</sys_created_by>
+        <sys_created_on>2018-07-10 16:41:29</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a07c4698dbd3d34096b17d8bbf961920</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>hmg</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_a07c4698dbd3d34096b17d8bbf961920</sys_update_name>
+        <sys_updated_by>SHollien</sys_updated_by>
+        <sys_updated_on>2018-07-10 16:41:29</sys_updated_on>
+        <table/>
+        <ui_policy display_value="All facilities only">b51cce58dbd3d34096b17d8bbf96199f</ui_policy>
+        <variable>hmg</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+</record_update>

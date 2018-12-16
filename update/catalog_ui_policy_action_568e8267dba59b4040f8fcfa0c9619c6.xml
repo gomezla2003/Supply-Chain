@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Supply Chain Operations Data Request">a37e211adbed934096b17d8bbf961946</catalog_item>
+        <catalog_variable>IO:8883f1dedbed934096b17d8bbf961949</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field/>
+        <mandatory>false</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>SHollien</sys_created_by>
+        <sys_created_on>2018-04-24 19:21:05</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>568e8267dba59b4040f8fcfa0c9619c6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>hh_corp</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_568e8267dba59b4040f8fcfa0c9619c6</sys_update_name>
+        <sys_updated_by>SHollien</sys_updated_by>
+        <sys_updated_on>2018-04-25 22:43:49</sys_updated_on>
+        <table/>
+        <ui_policy display_value="All facilities only">5c6ecee3dba59b4040f8fcfa0c961968</ui_policy>
+        <variable>hh_corp</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+</record_update>

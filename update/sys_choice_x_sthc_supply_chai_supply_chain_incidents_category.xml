@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="category" table="x_sthc_supply_chai_supply_chain_incidents" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Accounts</label>
+            <language>en</language>
+            <name>x_sthc_supply_chai_supply_chain_incidents</name>
+            <sequence>0</sequence>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-01-15 16:21:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>3f00b3ef6fef830061f06ea22e3ee4fd</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-08-22 20:12:42</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Contracts</label>
+            <language>en</language>
+            <name>x_sthc_supply_chai_supply_chain_incidents</name>
+            <sequence>1</sequence>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-01-15 16:21:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>4620f3ef6fef830061f06ea22e3ee40c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-08-22 20:12:43</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Documentation</label>
+            <language>en</language>
+            <name>x_sthc_supply_chai_supply_chain_incidents</name>
+            <sequence>2</sequence>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-01-15 16:21:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>593033ef6fef830061f06ea22e3ee4e1</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-08-22 20:12:43</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ERP Troublshooting</label>
+            <language>en</language>
+            <name>x_sthc_supply_chai_supply_chain_incidents</name>
+            <sequence>3</sequence>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-07-18 22:55:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>14eea84bdb535f40808f68461b961954</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-08-22 20:12:43</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Order Guide Requests</label>
+            <language>en</language>
+            <name>x_sthc_supply_chai_supply_chain_incidents</name>
+            <sequence>4</sequence>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-03-05 18:43:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>a76660a7db6c9744808f68461b9619e1</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-08-22 20:12:43</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Order Status Request</label>
+            <language>en</language>
+            <name>x_sthc_supply_chai_supply_chain_incidents</name>
+            <sequence>5</sequence>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-07-18 22:54:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>c4aea0c7db535f40808f68461b96190e</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-08-22 20:12:43</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sales Calls</label>
+            <language>en</language>
+            <name>x_sthc_supply_chai_supply_chain_incidents</name>
+            <sequence>6</sequence>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-03-05 18:42:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>7e562c27db6c9744808f68461b9619a5</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-08-22 20:12:43</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Technology Support</label>
+            <language>en</language>
+            <name>x_sthc_supply_chai_supply_chain_incidents</name>
+            <sequence>7</sequence>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-07-18 23:00:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>4fef24c3db935f40808f68461b961917</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-08-22 20:12:43</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Training</label>
+            <language>en</language>
+            <name>x_sthc_supply_chai_supply_chain_incidents</name>
+            <sequence>8</sequence>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-01-15 16:21:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>4b30b3ef6fef830061f06ea22e3ee4e8</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-08-22 20:12:43</sys_updated_on>
+            <value>9</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>User Access</label>
+            <language>en</language>
+            <name>x_sthc_supply_chai_supply_chain_incidents</name>
+            <sequence>9</sequence>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-07-18 22:52:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>d10ea8c3db535f40808f68461b961933</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-08-22 20:12:43</sys_updated_on>
+            <value>10</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_sthc_supply_chai_supply_chain_incidents</name>
+            <sequence>10</sequence>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-08-22 20:12:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b639945adb8ce340808f68461b96199f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-08-22 20:12:43</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <name>x_sthc_supply_chai_supply_chain_incidents</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-01-15 16:21:26</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>bb84fb2fdbefc70074471cb51b96190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>category</sys_name>
+            <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+            <sys_update_name>sys_choice_x_sthc_supply_chai_supply_chain_incidents_category</sys_update_name>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-01-15 16:21:26</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

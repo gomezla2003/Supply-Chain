@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X Sthc Supply Chai Premier Categories" max_length="40" name="u_imp_tmpl_x_sthc_supply_chai_premier_categories" type="collection">
+        <element attributes="import_attribute_name=Code,edge_encryption_enabled=true" label="Code" max_length="40" name="u_code" type="string"/>
+        <element attributes="import_attribute_name=Premier Categories,edge_encryption_enabled=true" label="Premier Categories" max_length="250" name="u_premier_categories" type="string"/>
+    </element>
+</database>

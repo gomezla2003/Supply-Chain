@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" audit="true" extends="task" label="Supply Chain Incidents" max_length="40" name="x_sthc_supply_chai_supply_chain_incidents" sizeclass="154" text_index="true" type="collection">
+        <element label="Caller" mandatory="true" max_length="32" name="caller" reference="sys_user" type="reference"/>
+        <element choice="1" label="Category" mandatory="true" max_length="40" name="category" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Accounts" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Contracts" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Documentation" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="ERP Troublshooting" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="Order Guide Requests" sequence="4" value="5"/>
+                <element inactive_on_update="false" label="Order Status Request" sequence="5" value="6"/>
+                <element inactive_on_update="false" label="Sales Calls" sequence="6" value="7"/>
+                <element inactive_on_update="false" label="Technology Support" sequence="7" value="8"/>
+                <element inactive_on_update="false" label="Training" sequence="8" value="9"/>
+                <element inactive_on_update="false" label="User Access" sequence="9" value="10"/>
+                <element inactive_on_update="false" label="Other" sequence="10" value="Other"/>
+            </choice>
+        </element>
+        <element label="Phone Number" mandatory="true" max_length="40" name="phone_number" type="string"/>
+        <element choice="3" label="Stage" max_length="40" name="stage" read_only="true" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Request Approved" sequence="1" value="request_approved"/>
+                <element inactive_on_update="false" label="Waiting for Approval" sequence="2" value="waiting _for_ Approval"/>
+                <element inactive_on_update="false" label="Fulfillment" sequence="3" value="fulfillment"/>
+                <element inactive_on_update="false" label="Delivery" sequence="4" value="delivery"/>
+            </choice>
+        </element>
+    </element>
+</database>

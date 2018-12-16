@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_item_staging">
+    <sc_ic_item_staging action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <aprvl_defn_changed>false</aprvl_defn_changed>
+        <availability>on_desktop</availability>
+        <cost>0</cost>
+        <counter>0</counter>
+        <description><![CDATA[<p>test</p>]]></description>
+        <desktop_image/>
+        <item_type>sc_cat_item</item_type>
+        <layout_changed>false</layout_changed>
+        <mobile_image/>
+        <name>test</name>
+        <recurring_cost>0</recurring_cost>
+        <recurring_frequency/>
+        <sc_cat_item/>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_categories>d258e415c611227a0013072db7288863</sc_categories>
+        <short_description>test</short_description>
+        <state>draft</state>
+        <sys_class_name>sc_ic_item_staging</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-25 23:22:54</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>887f08c0db351f4040f8fcfa0c9619ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>sc_ic_item_staging_887f08c0db351f4040f8fcfa0c9619ff</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-25 23:22:54</sys_updated_on>
+        <table_name/>
+        <task_defn_changed>false</task_defn_changed>
+        <var_defn_changed>false</var_defn_changed>
+        <var_meta_changed>false</var_meta_changed>
+        <version>1</version>
+    </sc_ic_item_staging>
+    <fx_price action="delete_multiple" query="id=887f08c0db351f4040f8fcfa0c9619ff"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>cost</field>
+        <id>887f08c0db351f4040f8fcfa0c9619ff</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-25 23:22:54</sys_created_on>
+        <sys_id>6c9f8804db351f4040f8fcfa0c96199f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-25 23:22:54</sys_updated_on>
+        <table>sc_ic_item_staging</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_cost</field>
+        <id>887f08c0db351f4040f8fcfa0c9619ff</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-25 23:22:55</sys_created_on>
+        <sys_id>a09f8804db351f4040f8fcfa0c9619a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-04-25 23:22:55</sys_updated_on>
+        <table>sc_ic_item_staging</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>
