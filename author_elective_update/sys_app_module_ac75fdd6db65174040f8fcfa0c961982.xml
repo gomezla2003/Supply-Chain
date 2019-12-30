@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Supply Chain Incidents">fe601c6e6ff98f00277218d22e3ee449</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter table="sc_req_item">cat_item.sc_catalogsLIKEfa8a5e0f6fbd0f0061f06ea22e3ee404^EQ<item endquery="false" field="cat_item.sc_catalogs" goto="false" newquery="false" operator="LIKE" or="false" value="fa8a5e0f6fbd0f0061f06ea22e3ee404"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Supply Chain Request Tasks</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sc_req_item</name>
+        <order>20</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_sthc_supply_chai.user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-04-20 20:18:39</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>ac75fdd6db65174040f8fcfa0c961982</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Requested Item</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>sys_app_module_ac75fdd6db65174040f8fcfa0c961982</sys_update_name>
+        <sys_updated_by>SHollien</sys_updated_by>
+        <sys_updated_on>2018-08-16 16:55:36</sys_updated_on>
+        <timeline_page/>
+        <title>Requested Item</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</application>
+        <comments/>
+        <file_path/>
+        <instance_id>25bc9655a91c5d0058ebf191520622b5</instance_id>
+        <instance_name>shc</instance_name>
+        <name>sys_app_module_ac75fdd6db65174040f8fcfa0c961982</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Supply Chain Incidents">fe601c6e6ff98f00277218d22e3ee449</application><assessment/><content_page/><device_type/><filter table="sc_req_item">cat_item.sc_catalogsLIKEfa8a5e0f6fbd0f0061f06ea22e3ee404^EQ<item endquery="false" field="cat_item.sc_catalogs" goto="false" newquery="false" operator="LIKE" or="false" value="fa8a5e0f6fbd0f0061f06ea22e3ee404"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Supply Chain Request Tasks</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>sc_req_item</name><order>20</order><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_sthc_supply_chai.user</roles><survey/><survey_overwrite>true</survey_overwrite><sys_class_name>sys_app_module</sys_class_name><sys_created_by>LGOMEZ</sys_created_by><sys_created_on>2018-04-20 20:18:39</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>ac75fdd6db65174040f8fcfa0c961982</sys_id><sys_mod_count>6</sys_mod_count><sys_name>Requested Item</sys_name><sys_overrides/><sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope><sys_update_name>sys_app_module_ac75fdd6db65174040f8fcfa0c961982</sys_update_name><sys_updated_by>SHollien</sys_updated_by><sys_updated_on>2018-08-16 16:55:36</sys_updated_on><timeline_page/><title>Requested Item</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1422605414</payload_hash>
+        <record_name>Requested Item</record_name>
+        <reverted_from/>
+        <source>f09dd0abdb4bc304808f68461b9619be</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>SHollien</sys_created_by>
+        <sys_created_on>2018-08-16 16:55:36</sys_created_on>
+        <sys_id>8192f014dbc82b88808f68461b9619dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16543a9f6c10000001</sys_recorded_at>
+        <sys_updated_by>SHollien</sys_updated_by>
+        <sys_updated_on>2018-08-16 16:55:36</sys_updated_on>
+        <type>Module</type>
+        <update_guid>4992f0142cc82b88d5396c64602c18db</update_guid>
+        <update_guid_history>4992f0142cc82b88d5396c64602c18db:1422605414,3d727cd09ac82b8875b0a5c03a61bdc5:227538902,644270d037c82b88af46fe0b85937123:-1083548723,ce40f45450882b885b3dfcba7671cbbf:-1555020117,3710fc14c4882b88f4d455f020cca51b:841369467,4859d33b6caddb404019a9687ec6620d:-26179490,e075fdd6be6517400f7758dc4d9b6784:-1789818331</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">1e353c90db4c2b88808f68461b961929</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>SHollien</sys_created_by>
+        <sys_created_on>2018-08-16 17:07:11</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0e9b743fc3a64bf6babb39cc164ba0e4</sys_id>
+        <sys_metadata>ac75fdd6db65174040f8fcfa0c961982</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requested Item</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_scope_delete display_value="">0449b80765ea48a488f6fef2280def90</sys_scope_delete>
+        <sys_update_name>sys_app_module_ac75fdd6db65174040f8fcfa0c961982</sys_update_name>
+        <sys_update_version display_value="sys_app_module_ac75fdd6db65174040f8fcfa0c961982">8192f014dbc82b88808f68461b9619dc</sys_update_version>
+        <sys_updated_by>SHollien</sys_updated_by>
+        <sys_updated_on>2018-08-16 17:07:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-07-12 22:23:43</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f50e250ddbdf574040f8fcfa0c9619ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_sthc_supply_chai_supply_chain_outage.x_sthc_supply_chai.user</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_security_acl display_value="x_sthc_supply_chai_supply_chain_outage">f50e250ddbdf574040f8fcfa0c9619a7</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f50e250ddbdf574040f8fcfa0c9619ac</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-07-12 22:23:43</sys_updated_on>
+        <sys_user_role display_value="x_sthc_supply_chai.user" name="x_sthc_supply_chai.user">32601c6e6ff98f00277218d22e3ee44e</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</application>
+        <comments/>
+        <file_path/>
+        <instance_id>25bc9655a91c5d0058ebf191520622b5</instance_id>
+        <instance_name>shc</instance_name>
+        <name>sys_security_acl_role_f50e250ddbdf574040f8fcfa0c9619ac</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>LGOMEZ</sys_created_by><sys_created_on>2018-07-12 22:23:43</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>f50e250ddbdf574040f8fcfa0c9619ac</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_sthc_supply_chai_supply_chain_outage.x_sthc_supply_chai.user</sys_name><sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope><sys_security_acl display_value="x_sthc_supply_chai_supply_chain_outage">f50e250ddbdf574040f8fcfa0c9619a7</sys_security_acl><sys_update_name>sys_security_acl_role_f50e250ddbdf574040f8fcfa0c9619ac</sys_update_name><sys_updated_by>LGOMEZ</sys_updated_by><sys_updated_on>2018-07-12 22:23:43</sys_updated_on><sys_user_role display_value="x_sthc_supply_chai.user" name="x_sthc_supply_chai.user">32601c6e6ff98f00277218d22e3ee44e</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>2079439058</payload_hash>
+        <record_name>x_sthc_supply_chai_supply_chain_outage.x_sthc_supply_chai.user</record_name>
+        <reverted_from/>
+        <source>e8f6fd45db9b1b8874471cb51b9619f9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-07-12 23:02:46</sys_created_on>
+        <sys_id>02f6bd85db9b1b8874471cb51b961953</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16490bb86680000001</sys_recorded_at>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-07-12 23:02:46</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>b50e250de4df5740f29114c63732aeaf</update_guid>
+        <update_guid_history>b50e250de4df5740f29114c63732aeaf:2079439058</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">5e22d4d2dbc8e340808f68461b96190f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-08-22 19:41:49</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>0d2499311d414eee87012b38d1e010e1</sys_id>
+        <sys_metadata>f50e250ddbdf574040f8fcfa0c9619ac</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_sthc_supply_chai_supply_chain_outage.x_sthc_supply_chai.user</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_parent display_value="x_sthc_supply_chai_supply_chain_outage">f50e250ddbdf574040f8fcfa0c9619a7</sys_parent>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_scope_delete display_value="">0449b80765ea48a488f6fef2280def90</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_f50e250ddbdf574040f8fcfa0c9619ac</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_f50e250ddbdf574040f8fcfa0c9619ac">02f6bd85db9b1b8874471cb51b961953</sys_update_version>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-08-22 19:41:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

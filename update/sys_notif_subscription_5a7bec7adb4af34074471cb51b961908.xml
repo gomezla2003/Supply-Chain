@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_notif_subscription">
+    <sys_notif_subscription action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <affected_record/>
+        <affected_table/>
+        <condition table="change_request">cmdb_ci=5b8891936f0ad10061f09ea22e3ee4cc^ORcmdb_ci=7941c01e13017a007dc7d3228144b042<item display_table="cmdb_ci" display_value="ServiceNow" endquery="false" field="cmdb_ci" goto="false" newquery="false" operator="=" or="false" value="5b8891936f0ad10061f09ea22e3ee4cc"/>
+            <item display_table="cmdb_ci" display_value="ServiceNow" endquery="false" field="cmdb_ci" goto="false" newquery="false" operator="=" or="true" value="7941c01e13017a007dc7d3228144b042"/>
+        </condition>
+        <devices>f321f9b16f7c910061f09ea22e3ee41e</devices>
+        <filter/>
+        <name>ServiceNow Changes</name>
+        <notification display_value="Change Request - Created">91c89832db42730040f8fcfa0c961982</notification>
+        <schedule/>
+        <sys_class_name>sys_notif_subscription</sys_class_name>
+        <sys_created_by>jcoady</sys_created_by>
+        <sys_created_on>2019-06-18 17:06:38</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5a7bec7adb4af34074471cb51b961908</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ServiceNow Changes</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>sys_notif_subscription_5a7bec7adb4af34074471cb51b961908</sys_update_name>
+        <sys_updated_by>jcoady</sys_updated_by>
+        <sys_updated_on>2019-06-18 17:06:41</sys_updated_on>
+        <user display_value="Juli Coady">3a0131356f7c910061f09ea22e3ee432</user>
+    </sys_notif_subscription>
+</record_update>

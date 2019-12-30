@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>primary</color>
+        <css/>
+        <glyph>book</glyph>
+        <id/>
+        <order>0</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">eaf2e6836ffd0f0061f06ea22e3ee456</sp_column>
+        <sp_widget display_value="KB Most Viewed">7d903b52cb30020000f8d856634c9ce3</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2017-12-20 21:19:13</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c0fa3a1b6f83c780277218d22e3ee44f</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>sp_instance_c0fa3a1b6f83c780277218d22e3ee44f</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2017-12-20 21:26:28</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"max_number": {
+		"value": null,
+		"displayValue": ""
+	},
+	"kb_category": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</application>
+        <comments/>
+        <file_path/>
+        <instance_id>25bc9655a91c5d0058ebf191520622b5</instance_id>
+        <instance_name>shc</instance_name>
+        <name>sp_instance_c0fa3a1b6f83c780277218d22e3ee44f</name>
+        <order/>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;primary&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;book&lt;/glyph&gt;&lt;id/&gt;&lt;order&gt;0&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;eaf2e6836ffd0f0061f06ea22e3ee456&lt;/sp_column&gt;&lt;sp_widget display_value="KB Most Viewed"&gt;7d903b52cb30020000f8d856634c9ce3&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;LGOMEZ&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2017-12-20 21:19:13&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;c0fa3a1b6f83c780277218d22e3ee44f&lt;/sys_id&gt;&lt;sys_mod_count&gt;9&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai"&gt;ba60d82e6ff98f00277218d22e3ee42a&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Supply Chain Incidents"&gt;ba60d82e6ff98f00277218d22e3ee42a&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_c0fa3a1b6f83c780277218d22e3ee44f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;LGOMEZ&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2017-12-20 21:26:28&lt;/sys_updated_on&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"max_number": {
+		"value": null,
+		"displayValue": ""
+	},
+	"kb_category": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1650652083</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>c75d106bdb4bc304808f68461b961972</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2017-12-21 04:29:19</sys_created_on>
+        <sys_id>246d5c6bdb4bc304808f68461b961957</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16077552f640000001</sys_recorded_at>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2017-12-21 04:29:19</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>aa9c3e5b4083c7801271f57cbbb97328</update_guid>
+        <update_guid_history>aa9c3e5b4083c7801271f57cbbb97328:1650652083,33cbf25b1f83c7805b2c626397671b68:1759032852,87cbf25b0a83c780fe2c01d14e940352:-1202203923,087bbe1bf783c7801a805b7332377feb:-73587988,b26bbe1b5183c7804f2a7fe0e56c30c5:-1202203923,ac6b7e1b4e83c7802d7265d20d8ca1c5:1964147438,791bba1bfd83c7806b92c70772d18b28:-1202203923,7c0bb61bca83c7808b4b31f8c4c95ec5:-73587988,e2fa3a1b7083c7800af609b46ff4beab:1430571115,04fa3a1bac83c78022051d5182c22850:338198316</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">1f7025b5dbb11bc0808f68461b9619cd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>SHollien</sys_created_by>
+        <sys_created_on>2018-05-01 15:45:49</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>15c7cab055b24196aa39bff2215560b9</sys_id>
+        <sys_metadata>c0fa3a1b6f83c780277218d22e3ee44f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_scope_delete display_value="">0449b80765ea48a488f6fef2280def90</sys_scope_delete>
+        <sys_update_name>sp_instance_c0fa3a1b6f83c780277218d22e3ee44f</sys_update_name>
+        <sys_update_version display_value="sp_instance_c0fa3a1b6f83c780277218d22e3ee44f">246d5c6bdb4bc304808f68461b961957</sys_update_version>
+        <sys_updated_by>SHollien</sys_updated_by>
+        <sys_updated_on>2018-05-01 15:45:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

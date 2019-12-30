@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog display_value="Supply Chain">fa8a5e0f6fbd0f0061f06ea22e3ee404</sc_catalog>
+        <show_in_cms>false</show_in_cms>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2019-10-02 20:37:41</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>ef54d378dbd0801040f8fcfa0c9619ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vendor Maintenance</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>sc_category_ef54d378dbd0801040f8fcfa0c9619ab</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-10-02 20:37:41</sys_updated_on>
+        <title>Vendor Maintenance</title>
+    </sc_category>
+</record_update>

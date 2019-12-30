@@ -4,13 +4,13 @@
             <element>.begin_split</element>
             <position>0</position>
             <sys_created_by>LGOMEZ</sys_created_by>
-            <sys_created_on>2018-09-24 19:26:49</sys_created_on>
-            <sys_id>443b42b0db306b08ecd688915b961976</sys_id>
+            <sys_created_on>2018-11-15 16:41:05</sys_created_on>
+            <sys_id>efe7156ddb3d2780a08eaed15b96196f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sthc_supply_chai_supply_chain_incidents" sys_domain="global" view="Default view">1e0d8e436fbd0f0061f06ea22e3ee4f3</sys_ui_section>
             <sys_updated_by>LGOMEZ</sys_updated_by>
-            <sys_updated_on>2018-09-24 19:26:49</sys_updated_on>
+            <sys_updated_on>2018-11-15 16:41:05</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>number</element>
             <position>1</position>
             <sys_created_by>LGOMEZ</sys_created_by>
-            <sys_created_on>2018-09-24 19:26:49</sys_created_on>
-            <sys_id>c83b42b0db306b08ecd688915b961976</sys_id>
+            <sys_created_on>2018-11-15 16:41:05</sys_created_on>
+            <sys_id>67e7156ddb3d2780a08eaed15b961970</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sthc_supply_chai_supply_chain_incidents" sys_domain="global" view="Default view">1e0d8e436fbd0f0061f06ea22e3ee4f3</sys_ui_section>
             <sys_updated_by>LGOMEZ</sys_updated_by>
-            <sys_updated_on>2018-09-24 19:26:49</sys_updated_on>
+            <sys_updated_on>2018-11-15 16:41:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>caller</element>
             <position>2</position>
             <sys_created_by>LGOMEZ</sys_created_by>
-            <sys_created_on>2018-09-24 19:26:49</sys_created_on>
-            <sys_id>4c3b42b0db306b08ecd688915b961976</sys_id>
+            <sys_created_on>2018-11-15 16:41:05</sys_created_on>
+            <sys_id>e7e7156ddb3d2780a08eaed15b961970</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sthc_supply_chai_supply_chain_incidents" sys_domain="global" view="Default view">1e0d8e436fbd0f0061f06ea22e3ee4f3</sys_ui_section>
             <sys_updated_by>LGOMEZ</sys_updated_by>
-            <sys_updated_on>2018-09-24 19:26:49</sys_updated_on>
+            <sys_updated_on>2018-11-15 16:41:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>phone_number</element>
             <position>3</position>
             <sys_created_by>LGOMEZ</sys_created_by>
-            <sys_created_on>2018-09-24 19:26:49</sys_created_on>
-            <sys_id>cc3b42b0db306b08ecd688915b961976</sys_id>
+            <sys_created_on>2018-11-15 16:41:05</sys_created_on>
+            <sys_id>6be7156ddb3d2780a08eaed15b961970</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sthc_supply_chai_supply_chain_incidents" sys_domain="global" view="Default view">1e0d8e436fbd0f0061f06ea22e3ee4f3</sys_ui_section>
             <sys_updated_by>LGOMEZ</sys_updated_by>
-            <sys_updated_on>2018-09-24 19:26:49</sys_updated_on>
+            <sys_updated_on>2018-11-15 16:41:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>location</element>
             <position>4</position>
             <sys_created_by>LGOMEZ</sys_created_by>
-            <sys_created_on>2018-09-24 19:26:49</sys_created_on>
-            <sys_id>403b42b0db306b08ecd688915b961977</sys_id>
+            <sys_created_on>2018-11-15 16:41:05</sys_created_on>
+            <sys_id>ebe7156ddb3d2780a08eaed15b961970</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sthc_supply_chai_supply_chain_incidents" sys_domain="global" view="Default view">1e0d8e436fbd0f0061f06ea22e3ee4f3</sys_ui_section>
             <sys_updated_by>LGOMEZ</sys_updated_by>
-            <sys_updated_on>2018-09-24 19:26:49</sys_updated_on>
+            <sys_updated_on>2018-11-15 16:41:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>.split</element>
             <position>5</position>
             <sys_created_by>LGOMEZ</sys_created_by>
-            <sys_created_on>2018-09-24 19:26:49</sys_created_on>
-            <sys_id>d03b42b0db306b08ecd688915b961977</sys_id>
+            <sys_created_on>2018-11-15 16:41:05</sys_created_on>
+            <sys_id>6fe7156ddb3d2780a08eaed15b961970</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sthc_supply_chai_supply_chain_incidents" sys_domain="global" view="Default view">1e0d8e436fbd0f0061f06ea22e3ee4f3</sys_ui_section>
             <sys_updated_by>LGOMEZ</sys_updated_by>
-            <sys_updated_on>2018-09-24 19:26:49</sys_updated_on>
+            <sys_updated_on>2018-11-15 16:41:05</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>state</element>
             <position>6</position>
             <sys_created_by>LGOMEZ</sys_created_by>
-            <sys_created_on>2018-09-24 19:26:49</sys_created_on>
-            <sys_id>543b42b0db306b08ecd688915b961977</sys_id>
+            <sys_created_on>2018-11-15 16:41:05</sys_created_on>
+            <sys_id>efe7156ddb3d2780a08eaed15b961970</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sthc_supply_chai_supply_chain_incidents" sys_domain="global" view="Default view">1e0d8e436fbd0f0061f06ea22e3ee4f3</sys_ui_section>
             <sys_updated_by>LGOMEZ</sys_updated_by>
-            <sys_updated_on>2018-09-24 19:26:49</sys_updated_on>
+            <sys_updated_on>2018-11-15 16:41:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>category</element>
             <position>7</position>
             <sys_created_by>LGOMEZ</sys_created_by>
-            <sys_created_on>2018-09-24 19:26:49</sys_created_on>
-            <sys_id>d43b42b0db306b08ecd688915b961977</sys_id>
+            <sys_created_on>2018-11-15 16:41:05</sys_created_on>
+            <sys_id>63e7156ddb3d2780a08eaed15b961971</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sthc_supply_chai_supply_chain_incidents" sys_domain="global" view="Default view">1e0d8e436fbd0f0061f06ea22e3ee4f3</sys_ui_section>
             <sys_updated_by>LGOMEZ</sys_updated_by>
-            <sys_updated_on>2018-09-24 19:26:49</sys_updated_on>
+            <sys_updated_on>2018-11-15 16:41:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>priority</element>
             <position>8</position>
             <sys_created_by>LGOMEZ</sys_created_by>
-            <sys_created_on>2018-09-24 19:26:49</sys_created_on>
-            <sys_id>583b42b0db306b08ecd688915b961977</sys_id>
+            <sys_created_on>2018-11-15 16:41:05</sys_created_on>
+            <sys_id>e3e7156ddb3d2780a08eaed15b961971</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sthc_supply_chai_supply_chain_incidents" sys_domain="global" view="Default view">1e0d8e436fbd0f0061f06ea22e3ee4f3</sys_ui_section>
             <sys_updated_by>LGOMEZ</sys_updated_by>
-            <sys_updated_on>2018-09-24 19:26:49</sys_updated_on>
+            <sys_updated_on>2018-11-15 16:41:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -130,13 +130,13 @@
             <element>assignment_group</element>
             <position>9</position>
             <sys_created_by>LGOMEZ</sys_created_by>
-            <sys_created_on>2018-09-24 19:26:49</sys_created_on>
-            <sys_id>d83b42b0db306b08ecd688915b961977</sys_id>
+            <sys_created_on>2018-11-15 16:41:06</sys_created_on>
+            <sys_id>67e7156ddb3d2780a08eaed15b961971</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sthc_supply_chai_supply_chain_incidents" sys_domain="global" view="Default view">1e0d8e436fbd0f0061f06ea22e3ee4f3</sys_ui_section>
             <sys_updated_by>LGOMEZ</sys_updated_by>
-            <sys_updated_on>2018-09-24 19:26:49</sys_updated_on>
+            <sys_updated_on>2018-11-15 16:41:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -144,13 +144,13 @@
             <element>assigned_to</element>
             <position>10</position>
             <sys_created_by>LGOMEZ</sys_created_by>
-            <sys_created_on>2018-09-24 19:26:49</sys_created_on>
-            <sys_id>5c3b42b0db306b08ecd688915b961977</sys_id>
+            <sys_created_on>2018-11-15 16:41:06</sys_created_on>
+            <sys_id>e7e7156ddb3d2780a08eaed15b961971</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sthc_supply_chai_supply_chain_incidents" sys_domain="global" view="Default view">1e0d8e436fbd0f0061f06ea22e3ee4f3</sys_ui_section>
             <sys_updated_by>LGOMEZ</sys_updated_by>
-            <sys_updated_on>2018-09-24 19:26:49</sys_updated_on>
+            <sys_updated_on>2018-11-15 16:41:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -158,13 +158,13 @@
             <element>.end_split</element>
             <position>11</position>
             <sys_created_by>LGOMEZ</sys_created_by>
-            <sys_created_on>2018-09-24 19:26:49</sys_created_on>
-            <sys_id>dc3b42b0db306b08ecd688915b961977</sys_id>
+            <sys_created_on>2018-11-15 16:41:06</sys_created_on>
+            <sys_id>6be7156ddb3d2780a08eaed15b961971</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sthc_supply_chai_supply_chain_incidents" sys_domain="global" view="Default view">1e0d8e436fbd0f0061f06ea22e3ee4f3</sys_ui_section>
             <sys_updated_by>LGOMEZ</sys_updated_by>
-            <sys_updated_on>2018-09-24 19:26:49</sys_updated_on>
+            <sys_updated_on>2018-11-15 16:41:06</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -172,13 +172,13 @@
             <element>short_description</element>
             <position>12</position>
             <sys_created_by>LGOMEZ</sys_created_by>
-            <sys_created_on>2018-09-24 19:26:49</sys_created_on>
-            <sys_id>503b42b0db306b08ecd688915b961978</sys_id>
+            <sys_created_on>2018-11-15 16:41:06</sys_created_on>
+            <sys_id>ebe7156ddb3d2780a08eaed15b961971</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sthc_supply_chai_supply_chain_incidents" sys_domain="global" view="Default view">1e0d8e436fbd0f0061f06ea22e3ee4f3</sys_ui_section>
             <sys_updated_by>LGOMEZ</sys_updated_by>
-            <sys_updated_on>2018-09-24 19:26:49</sys_updated_on>
+            <sys_updated_on>2018-11-15 16:41:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -186,13 +186,13 @@
             <element>description</element>
             <position>13</position>
             <sys_created_by>LGOMEZ</sys_created_by>
-            <sys_created_on>2018-09-24 19:26:49</sys_created_on>
-            <sys_id>d03b42b0db306b08ecd688915b961978</sys_id>
+            <sys_created_on>2018-11-15 16:41:06</sys_created_on>
+            <sys_id>6fe7156ddb3d2780a08eaed15b961971</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sthc_supply_chai_supply_chain_incidents" sys_domain="global" view="Default view">1e0d8e436fbd0f0061f06ea22e3ee4f3</sys_ui_section>
             <sys_updated_by>LGOMEZ</sys_updated_by>
-            <sys_updated_on>2018-09-24 19:26:49</sys_updated_on>
+            <sys_updated_on>2018-11-15 16:41:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -200,13 +200,13 @@
             <element>cxs_table_search.xml</element>
             <position>14</position>
             <sys_created_by>LGOMEZ</sys_created_by>
-            <sys_created_on>2018-09-24 19:26:49</sys_created_on>
-            <sys_id>543b42b0db306b08ecd688915b961978</sys_id>
+            <sys_created_on>2018-11-15 16:41:06</sys_created_on>
+            <sys_id>efe7156ddb3d2780a08eaed15b961971</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Contextual Search Results">11eb1622eb1121003623666cd206fe56</sys_ui_formatter>
             <sys_ui_section caption="NULL" display_value="" name="x_sthc_supply_chai_supply_chain_incidents" sys_domain="global" view="Default view">1e0d8e436fbd0f0061f06ea22e3ee4f3</sys_ui_section>
             <sys_updated_by>LGOMEZ</sys_updated_by>
-            <sys_updated_on>2018-09-24 19:26:49</sys_updated_on>
+            <sys_updated_on>2018-11-15 16:41:06</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>

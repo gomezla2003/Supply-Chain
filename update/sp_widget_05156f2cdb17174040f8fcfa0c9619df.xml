@@ -67,7 +67,7 @@ text{
         <sys_created_on>2018-07-11 17:46:54</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>05156f2cdb17174040f8fcfa0c9619df</sys_id>
-        <sys_mod_count>73</sys_mod_count>
+        <sys_mod_count>76</sys_mod_count>
         <sys_name>Outage Header</sys_name>
         <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
         <sys_policy/>
@@ -75,9 +75,8 @@ text{
         <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
         <sys_update_name>sp_widget_05156f2cdb17174040f8fcfa0c9619df</sys_update_name>
         <sys_updated_by>LGOMEZ</sys_updated_by>
-        <sys_updated_on>2018-08-22 19:50:53</sys_updated_on>
+        <sys_updated_on>2019-01-24 19:57:09</sys_updated_on>
         <template><![CDATA[<!-- Outage Info -->
-
 <div id="outageContainer"  >
   <div class="banner" ng-repeat="out in data.outages">
     <li>

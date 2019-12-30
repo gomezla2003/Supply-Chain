@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cxs_res_context_config">
+    <cxs_res_context_config action="DELETE">
+        <active>true</active>
+        <cxs_context_config display_value="Supply Chain">f933ad226f3a4740277218d22e3ee47f</cxs_context_config>
+        <cxs_search_res_config display_value="knowledge">7cb0ca04eb53210070a9666cd206fe2b</cxs_search_res_config>
+        <name>knowledge</name>
+        <search_operator>IR_AND_OR_QUERY</search_operator>
+        <sys_class_name>cxs_res_context_config</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2017-12-05 20:45:26</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>c753e1626f3a4740277218d22e3ee447</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>knowledge</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>cxs_res_context_config_c753e1626f3a4740277218d22e3ee447</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2017-12-05 20:45:26</sys_updated_on>
+    </cxs_res_context_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</application>
+        <comments/>
+        <file_path/>
+        <instance_id>25bc9655a91c5d0058ebf191520622b5</instance_id>
+        <instance_name>shc</instance_name>
+        <name>cxs_res_context_config_c753e1626f3a4740277218d22e3ee447</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cxs_res_context_config"><cxs_res_context_config action="INSERT_OR_UPDATE"><active>true</active><cxs_context_config display_value="Supply Chain">f933ad226f3a4740277218d22e3ee47f</cxs_context_config><cxs_search_res_config display_value="knowledge">7cb0ca04eb53210070a9666cd206fe2b</cxs_search_res_config><name>knowledge</name><search_operator>IR_AND_OR_QUERY</search_operator><sys_class_name>cxs_res_context_config</sys_class_name><sys_created_by>LGOMEZ</sys_created_by><sys_created_on>2017-12-05 20:45:26</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>c753e1626f3a4740277218d22e3ee447</sys_id><sys_mod_count>0</sys_mod_count><sys_name>knowledge</sys_name><sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope><sys_update_name>cxs_res_context_config_c753e1626f3a4740277218d22e3ee447</sys_update_name><sys_updated_by>LGOMEZ</sys_updated_by><sys_updated_on>2017-12-05 20:45:26</sys_updated_on></cxs_res_context_config></record_update>]]></payload>
+        <payload_hash>-538453192</payload_hash>
+        <record_name>knowledge</record_name>
+        <reverted_from/>
+        <source>c75d106bdb4bc304808f68461b961972</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2017-12-21 04:29:17</sys_created_on>
+        <sys_id>c06d1c6bdb4bc304808f68461b961994</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1607755272f0000001</sys_recorded_at>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2017-12-21 04:29:17</sys_updated_on>
+        <type>Resource Configuration</type>
+        <update_guid>cf53e162643a47406c9555396ea5f348</update_guid>
+        <update_guid_history>cf53e162643a47406c9555396ea5f348:-538453192</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">3da9b72fdb270b0074471cb51b9619a3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-01-15 17:03:05</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="cxs_res_context_config">cxs_res_context_config</sys_db_object>
+        <sys_id>4f7a679b2d664431add967c21c26eb89</sys_id>
+        <sys_metadata>c753e1626f3a4740277218d22e3ee447</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>knowledge</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_scope_delete display_value="">0449b80765ea48a488f6fef2280def90</sys_scope_delete>
+        <sys_update_name>cxs_res_context_config_c753e1626f3a4740277218d22e3ee447</sys_update_name>
+        <sys_update_version display_value="cxs_res_context_config_c753e1626f3a4740277218d22e3ee447">c06d1c6bdb4bc304808f68461b961994</sys_update_version>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-01-15 17:03:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

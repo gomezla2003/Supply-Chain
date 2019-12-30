@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Catalog item B">5e1d5a8f6fbd0f0061f06ea22e3ee46e</sc_cat_item>
+        <sc_category display_value="Supply Chain Category B">4adcda0f6fbd0f0061f06ea22e3ee4c4</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2017-10-18 21:12:06</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f52d9a8f6fbd0f0061f06ea22e3ee409</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Supply Chain Category B.Catalog item B</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>sc_cat_item_category_f52d9a8f6fbd0f0061f06ea22e3ee409</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2017-10-18 21:12:06</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</application>
+        <comments/>
+        <file_path/>
+        <instance_id>25bc9655a91c5d0058ebf191520622b5</instance_id>
+        <instance_name>shc</instance_name>
+        <name>sc_cat_item_category_f52d9a8f6fbd0f0061f06ea22e3ee409</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Catalog item B">5e1d5a8f6fbd0f0061f06ea22e3ee46e</sc_cat_item><sc_category display_value="Supply Chain Category B">4adcda0f6fbd0f0061f06ea22e3ee4c4</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>LGOMEZ</sys_created_by><sys_created_on>2017-10-18 21:12:06</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>f52d9a8f6fbd0f0061f06ea22e3ee409</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Supply Chain Category B.Catalog item B</sys_name><sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope><sys_update_name>sc_cat_item_category_f52d9a8f6fbd0f0061f06ea22e3ee409</sys_update_name><sys_updated_by>LGOMEZ</sys_updated_by><sys_updated_on>2017-10-18 21:12:06</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1777148263</payload_hash>
+        <record_name>Supply Chain Category B.Catalog item B</record_name>
+        <reverted_from/>
+        <source>c75d106bdb4bc304808f68461b961972</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2017-12-21 04:29:18</sys_created_on>
+        <sys_id>d06d5c6bdb4bc304808f68461b961919</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16077552af10000001</sys_recorded_at>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2017-12-21 04:29:18</sys_updated_on>
+        <type>Sc Cat Item Category</type>
+        <update_guid>fd2d9a8fbbbd0f002297fbee7abe960b</update_guid>
+        <update_guid_history>fd2d9a8fbbbd0f002297fbee7abe960b:-1777148263</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">01d19debdb8bb70874471cb51b96197e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2019-08-09 20:51:55</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>0ee1a013d10545ad8e79f5bdfafb0911</sys_id>
+        <sys_metadata>f52d9a8f6fbd0f0061f06ea22e3ee409</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Supply Chain Category B.Catalog item B</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_parent display_value="">5e1d5a8f6fbd0f0061f06ea22e3ee46e</sys_parent>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_scope_delete display_value="">0449b80765ea48a488f6fef2280def90</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_f52d9a8f6fbd0f0061f06ea22e3ee409</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_f52d9a8f6fbd0f0061f06ea22e3ee409">d06d5c6bdb4bc304808f68461b961919</sys_update_version>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-08-09 20:51:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

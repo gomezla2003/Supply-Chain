@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2019-05-20 16:49:24</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>fb615355dbe93f8874471cb51b96195f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.snc_internal</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_security_acl display_value="">83615795dbe93f8874471cb51b9619b7</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_fb615355dbe93f8874471cb51b96195f</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-05-20 16:49:24</sys_updated_on>
+        <sys_user_role display_value="snc_internal" name="snc_internal">ac8917196f6e6200277218d22e3ee403</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</application>
+        <comments/>
+        <file_path/>
+        <instance_id>25bc9655a91c5d0058ebf191520622b5</instance_id>
+        <instance_name>shc</instance_name>
+        <name>sys_security_acl_role_fb615355dbe93f8874471cb51b96195f</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>LGOMEZ</sys_created_by><sys_created_on>2019-05-20 16:49:24</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>fb615355dbe93f8874471cb51b96195f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.snc_internal</sys_name><sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope><sys_security_acl display_value="">83615795dbe93f8874471cb51b9619b7</sys_security_acl><sys_update_name>sys_security_acl_role_fb615355dbe93f8874471cb51b96195f</sys_update_name><sys_updated_by>LGOMEZ</sys_updated_by><sys_updated_on>2019-05-20 16:49:24</sys_updated_on><sys_user_role display_value="snc_internal" name="snc_internal">ac8917196f6e6200277218d22e3ee403</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1922489465</payload_hash>
+        <record_name>.snc_internal</record_name>
+        <reverted_from/>
+        <source>f09dd0abdb4bc304808f68461b9619be</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2019-05-20 16:49:24</sys_created_on>
+        <sys_id>36811bd9dbe93f8874471cb51b96191a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ad625d2df0000001</sys_recorded_at>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-05-20 16:49:24</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>fa811bd9fce93f88320b9d9e9adbc719</update_guid>
+        <update_guid_history>fa811bd9fce93f88320b9d9e9adbc719:1922489465</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">f942db15db2d3f8874471cb51b96192d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2019-05-20 16:52:36</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>3757d5e47f674db693d5de93a14d99c1</sys_id>
+        <sys_metadata>fb615355dbe93f8874471cb51b96195f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.snc_internal</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_scope_delete display_value="">0449b80765ea48a488f6fef2280def90</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_fb615355dbe93f8874471cb51b96195f</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_fb615355dbe93f8874471cb51b96195f">36811bd9dbe93f8874471cb51b96191a</sys_update_version>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-05-20 16:52:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

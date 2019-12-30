@@ -25,4 +25,5 @@
         <sys_updated_on>2017-12-20 21:28:48</sys_updated_on>
         <title>Supply Chain Ticket</title>
     </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=2c2db29b6f83c780277218d22e3ee4d0"/>
 </record_update>

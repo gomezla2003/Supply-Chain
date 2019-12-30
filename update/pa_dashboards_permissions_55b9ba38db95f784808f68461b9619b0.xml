@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="INSERT_OR_UPDATE">
+        <dashboard display_value="Clinic Immersion">2eb665cbdb49f704808f68461b9619c3</dashboard>
+        <delete>false</delete>
+        <group/>
+        <identity>9dd736c46fd4710068ceda0cbb3ee476</identity>
+        <read>true</read>
+        <role/>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2019-05-06 15:32:35</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>55b9ba38db95f784808f68461b9619b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9dd736c46fd4710068ceda0cbb3ee476</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_55b9ba38db95f784808f68461b9619b0</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-05-06 15:32:35</sys_updated_on>
+        <type>3</type>
+        <user display_value="Louie Gomez">9dd736c46fd4710068ceda0cbb3ee476</user>
+        <write>true</write>
+    </pa_dashboards_permissions>
+</record_update>

@@ -34,7 +34,7 @@
         <mandatory>false</mandatory>
         <message/>
         <message_html><![CDATA[<p>&nbsp;</p>
-<p><img style="hspace: 5px; align: left;" title="HonorHealth" src="hh_logo.pngx" alt="HonorHealth" width="100" height="50" align="left" border="0" hspace="5" vspace="0" /></p>
+<p><img style="hspace: 5px; align: left;" title="HonorHealth" src="hh_logo.pngx" alt="HonorHealth" width="170" height="50" align="left" border="0" hspace="5" vspace="0" /></p>
 <p>&nbsp;</p>
 <p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>Supply Chain&nbsp;Request&nbsp;Number: ${number} has been&nbsp;opened</strong></span></p>
 <hr style="height: 2px; border: none; color: #000; background-color: #72246c;" />
@@ -43,7 +43,7 @@
 <p><strong><span style="font-size: 12pt;">Description </span></strong><span style="font-size: 12pt;">${short_description}</span></p>
 <p>&nbsp;</p>
 <p><span style="font-size: 12pt;">Click&nbsp;<a title="here" href="supply_chain?sys_id=${sys_id}&amp;view=sp&amp;id=supply_chain_ticket&amp;table=x_sthc_supply_chai_supply_chain_requests">here</a>&nbsp;for more information on your request or to write additional comments. You can also reply to this email to&nbsp;add additional comments.</span></p>
-<p><strong><span style="font-size: 12pt;">Your HonorHealth Supply Chain&nbsp;Service Desk&nbsp;<br />(480) 587 - 7277&nbsp;</span></strong></p>
+<p><strong><span style="font-size: 12pt;">Your HonorHealth Supply Chain&nbsp;Service Desk&nbsp;<br />(480) 882 -&nbsp;4357<br /></span></strong></p>
 <hr style="height: 2px; border: none; color: #000; background-color: #72246c;" />
 <p>&nbsp;</p>
 <p>&nbsp;</p>]]></message_html>
@@ -68,7 +68,7 @@
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>1149fd64db79d700a1dd7d8bbf9619ed</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>Supply Chain Request opened (Customer)</sys_name>
         <sys_overrides/>
         <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
@@ -77,10 +77,11 @@
         <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
         <sys_update_name>sysevent_email_action_1149fd64db79d700a1dd7d8bbf9619ed</sys_update_name>
         <sys_updated_by>LGOMEZ</sys_updated_by>
-        <sys_updated_on>2018-08-01 17:41:30</sys_updated_on>
+        <sys_updated_on>2019-07-17 19:56:44</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>
         <weight>5</weight>
+        <x_ctv_sc_notify_in_connect>false</x_ctv_sc_notify_in_connect>
     </sysevent_email_action>
 </record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id display_value="Supply Chain Team" name="Supply Chain Team">6ed547d013a6be047dc7d3228144b0a9</group_id>
+        <report_id display_value="SC  Cases By Priority">f34ef7e7db2b0b0074471cb51b96194c</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2019-06-19 17:22:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0dd8350bdb023b40808f68461b961985</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f34ef7e7db2b0b0074471cb51b96194c</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>sys_report_users_groups_0dd8350bdb023b40808f68461b961985</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-06-19 17:22:34</sys_updated_on>
+        <user_id/>
+    </sys_report_users_groups>
+</record_update>

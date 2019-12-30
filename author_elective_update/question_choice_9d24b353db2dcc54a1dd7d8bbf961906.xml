@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <misc>0</misc>
+        <order>100</order>
+        <question display_value="User Type">3ae33f13db2dcc54a1dd7d8bbf961975</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2019-12-11 20:39:48</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>9d24b353db2dcc54a1dd7d8bbf961906</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Physician </sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>question_choice_9d24b353db2dcc54a1dd7d8bbf961906</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-12-11 20:39:48</sys_updated_on>
+        <text>Physician </text>
+        <value>physician </value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=9d24b353db2dcc54a1dd7d8bbf961906"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>9d24b353db2dcc54a1dd7d8bbf961906</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2019-12-11 20:39:48</sys_created_on>
+        <sys_id>78347b13db2dcc54a1dd7d8bbf96193d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-12-11 20:39:48</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>9d24b353db2dcc54a1dd7d8bbf961906</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2019-12-11 20:39:48</sys_created_on>
+        <sys_id>30347b13db2dcc54a1dd7d8bbf96193d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-12-11 20:39:48</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</application>
+        <comments/>
+        <file_path/>
+        <instance_id>7ba7aed978585d004bfab063d5850db9</instance_id>
+        <instance_name>shctest</instance_name>
+        <name>question_choice_9d24b353db2dcc54a1dd7d8bbf961906</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><misc>0</misc><order>100</order><question display_value="User Type">3ae33f13db2dcc54a1dd7d8bbf961975</question><rec_misc>0</rec_misc><sys_class_name>question_choice</sys_class_name><sys_created_by>LGOMEZ</sys_created_by><sys_created_on>2019-12-11 20:39:48</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>9d24b353db2dcc54a1dd7d8bbf961906</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Physician </sys_name><sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope><sys_update_name>question_choice_9d24b353db2dcc54a1dd7d8bbf961906</sys_update_name><sys_updated_by>LGOMEZ</sys_updated_by><sys_updated_on>2019-12-11 20:39:48</sys_updated_on><text>Physician </text><value>physician </value></question_choice><fx_price action="delete_multiple" query="id=9d24b353db2dcc54a1dd7d8bbf961906"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>misc</field><id>9d24b353db2dcc54a1dd7d8bbf961906</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>LGOMEZ</sys_created_by><sys_created_on>2019-12-11 20:39:48</sys_created_on><sys_id>78347b13db2dcc54a1dd7d8bbf96193d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>LGOMEZ</sys_updated_by><sys_updated_on>2019-12-11 20:39:48</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>rec_misc</field><id>9d24b353db2dcc54a1dd7d8bbf961906</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>LGOMEZ</sys_created_by><sys_created_on>2019-12-11 20:39:48</sys_created_on><sys_id>30347b13db2dcc54a1dd7d8bbf96193d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>LGOMEZ</sys_updated_by><sys_updated_on>2019-12-11 20:39:48</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>-1923427143</payload_hash>
+        <record_name>Physician </record_name>
+        <reverted_from/>
+        <source>f09dd0abdb4bc304808f68461b9619be</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2019-12-11 20:39:48</sys_created_on>
+        <sys_id>78347b13db2dcc54a1dd7d8bbf96193f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ef6b070df0000001</sys_recorded_at>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-12-11 20:39:48</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>70347b131d2dcc54ca25210e292d823f</update_guid>
+        <update_guid_history>70347b131d2dcc54ca25210e292d823f:-1923427143</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 12-18-2019 11:09:38">81f45b69db7104d4a1dd7d8bbf96194e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>lgomez</sys_created_by>
+        <sys_created_on>2019-12-18 18:09:38</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>4197ef67a4174f38be5cb48abd275304</sys_id>
+        <sys_metadata>9d24b353db2dcc54a1dd7d8bbf961906</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Physician </sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_parent display_value="User Type">3ae33f13db2dcc54a1dd7d8bbf961975</sys_parent>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_scope_delete display_value="">0449b80765ea48a488f6fef2280def90</sys_scope_delete>
+        <sys_update_name>question_choice_9d24b353db2dcc54a1dd7d8bbf961906</sys_update_name>
+        <sys_update_version display_value="question_choice_9d24b353db2dcc54a1dd7d8bbf961906">78347b13db2dcc54a1dd7d8bbf96193f</sys_update_version>
+        <sys_updated_by>lgomez</sys_updated_by>
+        <sys_updated_on>2019-12-18 18:09:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

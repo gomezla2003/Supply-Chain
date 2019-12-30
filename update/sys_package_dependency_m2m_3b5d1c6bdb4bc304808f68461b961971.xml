@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Execution Plan Plugin" source="com.glide.execution_plan">2170ea156f10110061f09ea22e3ee417</dependency>
+        <min_version/>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2017-12-21 04:29:16</sys_created_on>
+        <sys_id>3b5d1c6bdb4bc304808f68461b961971</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2017-12-21 04:29:16</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

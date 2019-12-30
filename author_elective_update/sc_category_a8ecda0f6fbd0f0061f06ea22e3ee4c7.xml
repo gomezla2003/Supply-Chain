@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="DELETE">
+        <active>false</active>
+        <description>description</description>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer/>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog display_value="Supply Chain">fa8a5e0f6fbd0f0061f06ea22e3ee404</sc_catalog>
+        <show_in_cms>false</show_in_cms>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2017-10-18 21:10:55</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a8ecda0f6fbd0f0061f06ea22e3ee4c7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Supply Chain Category C</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>sc_category_a8ecda0f6fbd0f0061f06ea22e3ee4c7</sys_update_name>
+        <sys_updated_by>SHollien</sys_updated_by>
+        <sys_updated_on>2018-04-26 20:48:26</sys_updated_on>
+        <title>Supply Chain Category C</title>
+    </sc_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</application>
+        <comments/>
+        <file_path/>
+        <instance_id>25bc9655a91c5d0058ebf191520622b5</instance_id>
+        <instance_name>shc</instance_name>
+        <name>sc_category_a8ecda0f6fbd0f0061f06ea22e3ee4c7</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category"><sc_category action="INSERT_OR_UPDATE"><active>false</active><description>description</description><entitlement_script/><header_icon/><homepage_image/><homepage_renderer/><icon/><image/><location/><mobile_hide_description>false</mobile_hide_description><mobile_picture/><mobile_subcategory_render_type>list</mobile_subcategory_render_type><module/><order>0</order><parent/><roles/><sc_catalog display_value="Supply Chain">fa8a5e0f6fbd0f0061f06ea22e3ee404</sc_catalog><show_in_cms>false</show_in_cms><sys_class_name>sc_category</sys_class_name><sys_created_by>LGOMEZ</sys_created_by><sys_created_on>2017-10-18 21:10:55</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>a8ecda0f6fbd0f0061f06ea22e3ee4c7</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Supply Chain Category C</sys_name><sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope><sys_update_name>sc_category_a8ecda0f6fbd0f0061f06ea22e3ee4c7</sys_update_name><sys_updated_by>SHollien</sys_updated_by><sys_updated_on>2018-04-26 20:48:26</sys_updated_on><title>Supply Chain Category C</title></sc_category></record_update>]]></payload>
+        <payload_hash>-1068587984</payload_hash>
+        <record_name>Supply Chain Category C</record_name>
+        <reverted_from/>
+        <source>7060a935dbb11bc0808f68461b961967</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>SHollien</sys_created_by>
+        <sys_created_on>2018-05-01 15:45:44</sys_created_on>
+        <sys_id>d270a1b5dbb11bc0808f68461b961934</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1631c618b350000001</sys_recorded_at>
+        <sys_updated_by>SHollien</sys_updated_by>
+        <sys_updated_on>2018-05-01 15:45:44</sys_updated_on>
+        <type>Category</type>
+        <update_guid>2fc57cd007b19700be3f2d0adb489841</update_guid>
+        <update_guid_history>2fc57cd007b19700be3f2d0adb489841:-1068587984,ecec568f25bd0f0065ab1c10146390ad:683123989</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">25b255e3dbcbb70874471cb51b961937</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2019-08-09 20:55:46</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sc_category">sc_category</sys_db_object>
+        <sys_id>9963f119ce904500a852b44dd2a42640</sys_id>
+        <sys_metadata>a8ecda0f6fbd0f0061f06ea22e3ee4c7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Supply Chain Category C</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_scope_delete display_value="">0449b80765ea48a488f6fef2280def90</sys_scope_delete>
+        <sys_update_name>sc_category_a8ecda0f6fbd0f0061f06ea22e3ee4c7</sys_update_name>
+        <sys_update_version display_value="sc_category_a8ecda0f6fbd0f0061f06ea22e3ee4c7">d270a1b5dbb11bc0808f68461b961934</sys_update_version>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-08-09 20:55:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

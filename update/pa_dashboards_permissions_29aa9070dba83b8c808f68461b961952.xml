@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="INSERT_OR_UPDATE">
+        <dashboard display_value="Supply Chain Dashboard">2b00843bdb6b0b0074471cb51b96194c</dashboard>
+        <delete>false</delete>
+        <group/>
+        <identity>1240269edb174fc474471cb51b9619a1</identity>
+        <read>true</read>
+        <role/>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2019-03-29 21:10:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>29aa9070dba83b8c808f68461b961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1240269edb174fc474471cb51b9619a1</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_29aa9070dba83b8c808f68461b961952</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-03-29 21:10:34</sys_updated_on>
+        <type>3</type>
+        <user display_value="Jessica Turnock">1240269edb174fc474471cb51b9619a1</user>
+        <write>true</write>
+    </pa_dashboards_permissions>
+</record_update>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <misc>0</misc>
+        <order>100</order>
+        <question display_value="Change Requested">5df88e00dbfdc494b3d8fcfa0c9619de</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>lgomez</sys_created_by>
+        <sys_created_on>2019-12-18 21:43:13</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>22c50c31db7904d4a1dd7d8bbf961910</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vendor Name Change</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>question_choice_22c50c31db7904d4a1dd7d8bbf961910</sys_update_name>
+        <sys_updated_by>lgomez</sys_updated_by>
+        <sys_updated_on>2019-12-18 21:43:13</sys_updated_on>
+        <text>Vendor Name Change</text>
+        <value/>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=22c50c31db7904d4a1dd7d8bbf961910"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>22c50c31db7904d4a1dd7d8bbf961910</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>lgomez</sys_created_by>
+        <sys_created_on>2019-12-18 21:43:13</sys_created_on>
+        <sys_id>71d58cfddb3904d4a1dd7d8bbf9619d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>lgomez</sys_updated_by>
+        <sys_updated_on>2019-12-18 21:43:13</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>22c50c31db7904d4a1dd7d8bbf961910</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>lgomez</sys_created_by>
+        <sys_created_on>2019-12-18 21:43:13</sys_created_on>
+        <sys_id>b1d58cfddb3904d4a1dd7d8bbf9619d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>lgomez</sys_updated_by>
+        <sys_updated_on>2019-12-18 21:43:13</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

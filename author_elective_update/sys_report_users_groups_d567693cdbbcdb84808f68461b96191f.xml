@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="DELETE">
+        <group_id/>
+        <report_id display_value="">dd67693cdbbcdb84808f68461b96191e</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-03-09 20:39:16</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>d567693cdbbcdb84808f68461b96191f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dd67693cdbbcdb84808f68461b96191e</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>sys_report_users_groups_d567693cdbbcdb84808f68461b96191f</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-03-09 20:39:16</sys_updated_on>
+        <user_id display_value="Louie Gomez">9dd736c46fd4710068ceda0cbb3ee476</user_id>
+    </sys_report_users_groups>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</application>
+        <comments/>
+        <file_path/>
+        <instance_id>25bc9655a91c5d0058ebf191520622b5</instance_id>
+        <instance_name>shc</instance_name>
+        <name>sys_report_users_groups_d567693cdbbcdb84808f68461b96191f</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups"><sys_report_users_groups action="INSERT_OR_UPDATE"><group_id/><report_id display_value="">dd67693cdbbcdb84808f68461b96191e</report_id><sys_class_name>sys_report_users_groups</sys_class_name><sys_created_by>LGOMEZ</sys_created_by><sys_created_on>2018-03-09 20:39:16</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>d567693cdbbcdb84808f68461b96191f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>dd67693cdbbcdb84808f68461b96191e</sys_name><sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope><sys_update_name>sys_report_users_groups_d567693cdbbcdb84808f68461b96191f</sys_update_name><sys_updated_by>LGOMEZ</sys_updated_by><sys_updated_on>2018-03-09 20:39:16</sys_updated_on><user_id display_value="Louie Gomez">9dd736c46fd4710068ceda0cbb3ee476</user_id></sys_report_users_groups></record_update>]]></payload>
+        <payload_hash>-1745806001</payload_hash>
+        <record_name>dd67693cdbbcdb84808f68461b96191e</record_name>
+        <reverted_from/>
+        <source>f09dd0abdb4bc304808f68461b9619be</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-03-09 20:39:16</sys_created_on>
+        <sys_id>5967217cdbbcdb84808f68461b96199c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1620c7d3af20000001</sys_recorded_at>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-03-09 20:39:16</sys_updated_on>
+        <type>Report Users and Groups</type>
+        <update_guid>1167217ce3bcdb847ed092bd40125b9c</update_guid>
+        <update_guid_history>1167217ce3bcdb847ed092bd40125b9c:-1745806001</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-03-09 20:46:40</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_report_users_groups">sys_report_users_groups</sys_db_object>
+        <sys_id>58564b9c8e2d491cb3113251f0e934b9</sys_id>
+        <sys_metadata>d567693cdbbcdb84808f68461b96191f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dd67693cdbbcdb84808f68461b96191e</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_scope_delete display_value="">0449b80765ea48a488f6fef2280def90</sys_scope_delete>
+        <sys_update_name>sys_report_users_groups_d567693cdbbcdb84808f68461b96191f</sys_update_name>
+        <sys_update_version display_value="sys_report_users_groups_d567693cdbbcdb84808f68461b96191f">5967217cdbbcdb84808f68461b96199c</sys_update_version>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-03-09 20:46:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

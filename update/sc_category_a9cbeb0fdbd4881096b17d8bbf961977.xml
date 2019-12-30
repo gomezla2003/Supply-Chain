@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Details">6bfb2caa3742300054b6a3549dbe5d2f</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog display_value="Supply Chain">fa8a5e0f6fbd0f0061f06ea22e3ee404</sc_catalog>
+        <show_in_cms>false</show_in_cms>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2019-10-09 22:06:17</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a9cbeb0fdbd4881096b17d8bbf961977</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Exception Management</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>sc_category_a9cbeb0fdbd4881096b17d8bbf961977</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-10-09 22:06:17</sys_updated_on>
+        <title>Exception Management</title>
+    </sc_category>
+</record_update>

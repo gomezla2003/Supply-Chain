@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Vendor Record Change Request">b2a453f8dbd0801040f8fcfa0c961957</catalog_item>
+        <catalog_variable>IO:5b455b7cdbd0801040f8fcfa0c9619bb</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>400</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>SHollien</sys_created_by>
+        <sys_created_on>2019-12-13 21:10:36</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>106ec64cdbfdc494b3d8fcfa0c96195e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bank_info</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_106ec64cdbfdc494b3d8fcfa0c96195e</sys_update_name>
+        <sys_updated_by>SHollien</sys_updated_by>
+        <sys_updated_on>2019-12-13 21:10:36</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Change Requested - AP Loc Chgs">93fd4e48dbfdc494b3d8fcfa0c961972</ui_policy>
+        <variable>bank_info</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</application>
+        <comments/>
+        <file_path/>
+        <instance_id>7ba7aed978585d004bfab063d5850db9</instance_id>
+        <instance_name>shctest</instance_name>
+        <name>catalog_ui_policy_action_106ec64cdbfdc494b3d8fcfa0c96195e</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Vendor Record Change Request">b2a453f8dbd0801040f8fcfa0c961957</catalog_item><catalog_variable>IO:5b455b7cdbd0801040f8fcfa0c9619bb</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>ignore</mandatory><order>400</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>SHollien</sys_created_by><sys_created_on>2019-12-13 21:10:36</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>106ec64cdbfdc494b3d8fcfa0c96195e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>bank_info</sys_name><sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope><sys_update_name>catalog_ui_policy_action_106ec64cdbfdc494b3d8fcfa0c96195e</sys_update_name><sys_updated_by>SHollien</sys_updated_by><sys_updated_on>2019-12-13 21:10:36</sys_updated_on><table/><ui_policy display_value="Change Requested - AP Loc Chgs">93fd4e48dbfdc494b3d8fcfa0c961972</ui_policy><variable>bank_info</variable><variable_set/><visible>true</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>735278841</payload_hash>
+        <record_name>bank_info</record_name>
+        <reverted_from/>
+        <source>902806ccdbbdc494b3d8fcfa0c9619fe</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>SHollien</sys_created_by>
+        <sys_created_on>2019-12-13 21:10:37</sys_created_on>
+        <sys_id>176e420cdbfdc494b3d8fcfa0c96195a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f01195cde0000001</sys_recorded_at>
+        <sys_updated_by>SHollien</sys_updated_by>
+        <sys_updated_on>2019-12-13 21:10:37</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>1f6e420c49fdc4942ee69b037309c759</update_guid>
+        <update_guid_history>1f6e420c49fdc4942ee69b037309c759:735278841</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 12-18-2019 14:45:21">45568c71db7904d4a1dd7d8bbf961987</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>lgomez</sys_created_by>
+        <sys_created_on>2019-12-18 21:45:21</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>87d3b18a2ba94344985c85b2429278e9</sys_id>
+        <sys_metadata>106ec64cdbfdc494b3d8fcfa0c96195e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bank_info</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_scope_delete display_value="">0449b80765ea48a488f6fef2280def90</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_106ec64cdbfdc494b3d8fcfa0c96195e</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_106ec64cdbfdc494b3d8fcfa0c96195e">176e420cdbfdc494b3d8fcfa0c96195a</sys_update_version>
+        <sys_updated_by>lgomez</sys_updated_by>
+        <sys_updated_on>2019-12-18 21:45:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -65,14 +65,15 @@ GlideSysAttachment.copy('incident', current.sys_id, 'x_sthc_supply_chai_supply_c
 var sysID = sc.insert();
 
 //current.close_code = 'Idea';
-current.u_customer_contacted = '3';
-current.close_notes = "Converted into SupplyChain Queue " + sc.number;
+//current.u_customer_contacted = '3';
+//current.close_notes = "Converted into SupplyChain Queue " + sc.number;
 current.incident_state = '501';
-current.state = '501';
+//current.state = '501';
 current.work_notes = "Incident transfered to Supply Chain Queue. " + sc.number;
-Current.setValue('assigned_to','');
-current.setValue('assignment_group','032d2edb6f43c780277218d22e3ee482');
-current.setValue('active','false');
+//Current.setValue('assigned_to','');
+//current.setValue('assignment_group','032d2edb6f43c780277218d22e3ee482');
+//current.setValue('active','false');
+	current.active = false;
 
 
 var mySysID = current.update();
@@ -102,7 +103,7 @@ rel.insert();
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>5b9710d2db8c630096b17d8bbf961983</sys_id>
-        <sys_mod_count>15</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_name>Send to Supply Chain Queue</sys_name>
         <sys_overrides/>
         <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
@@ -111,8 +112,9 @@ rel.insert();
         <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
         <sys_update_name>sys_ui_action_5b9710d2db8c630096b17d8bbf961983</sys_update_name>
         <sys_updated_by>LGOMEZ</sys_updated_by>
-        <sys_updated_on>2018-08-30 22:00:59</sys_updated_on>
+        <sys_updated_on>2018-12-18 22:12:40</sys_updated_on>
         <table>incident</table>
+        <u_ctv>false</u_ctv>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>
     </sys_ui_action>

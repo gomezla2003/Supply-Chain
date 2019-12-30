@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Vendor Record Change Request">b2a453f8dbd0801040f8fcfa0c961957</catalog_item>
+        <catalog_variable>IO:666557fcdbd0801040f8fcfa0c961921</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>300</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>SHollien</sys_created_by>
+        <sys_created_on>2019-12-13 21:10:16</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>eb4e064cdbfdc494b3d8fcfa0c9619fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pymt_terms</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_eb4e064cdbfdc494b3d8fcfa0c9619fd</sys_update_name>
+        <sys_updated_by>SHollien</sys_updated_by>
+        <sys_updated_on>2019-12-13 21:10:16</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Change Requested - AP Loc Chgs">93fd4e48dbfdc494b3d8fcfa0c961972</ui_policy>
+        <variable>pymt_terms</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</application>
+        <comments/>
+        <file_path/>
+        <instance_id>7ba7aed978585d004bfab063d5850db9</instance_id>
+        <instance_name>shctest</instance_name>
+        <name>catalog_ui_policy_action_eb4e064cdbfdc494b3d8fcfa0c9619fd</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Vendor Record Change Request">b2a453f8dbd0801040f8fcfa0c961957</catalog_item><catalog_variable>IO:666557fcdbd0801040f8fcfa0c961921</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>ignore</mandatory><order>300</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>SHollien</sys_created_by><sys_created_on>2019-12-13 21:10:16</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>eb4e064cdbfdc494b3d8fcfa0c9619fd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>pymt_terms</sys_name><sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope><sys_update_name>catalog_ui_policy_action_eb4e064cdbfdc494b3d8fcfa0c9619fd</sys_update_name><sys_updated_by>SHollien</sys_updated_by><sys_updated_on>2019-12-13 21:10:16</sys_updated_on><table/><ui_policy display_value="Change Requested - AP Loc Chgs">93fd4e48dbfdc494b3d8fcfa0c961972</ui_policy><variable>pymt_terms</variable><variable_set/><visible>true</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>420181088</payload_hash>
+        <record_name>pymt_terms</record_name>
+        <reverted_from/>
+        <source>902806ccdbbdc494b3d8fcfa0c9619fe</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>SHollien</sys_created_by>
+        <sys_created_on>2019-12-13 21:10:16</sys_created_on>
+        <sys_id>165e424cdbfdc494b3d8fcfa0c96195d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f01190ce00000001</sys_recorded_at>
+        <sys_updated_by>SHollien</sys_updated_by>
+        <sys_updated_on>2019-12-13 21:10:16</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>1e5e424ccffdc494b5a7e233709ec15c</update_guid>
+        <update_guid_history>1e5e424ccffdc494b5a7e233709ec15c:420181088</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 12-18-2019 14:45:21">d9568c71db7904d4a1dd7d8bbf9619b3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>lgomez</sys_created_by>
+        <sys_created_on>2019-12-18 21:45:21</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>5cb79d7774204d59a8b5dff7963bf969</sys_id>
+        <sys_metadata>eb4e064cdbfdc494b3d8fcfa0c9619fd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pymt_terms</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_scope_delete display_value="">0449b80765ea48a488f6fef2280def90</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_eb4e064cdbfdc494b3d8fcfa0c9619fd</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_eb4e064cdbfdc494b3d8fcfa0c9619fd">165e424cdbfdc494b3d8fcfa0c96195d</sys_update_version>
+        <sys_updated_by>lgomez</sys_updated_by>
+        <sys_updated_on>2019-12-18 21:45:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

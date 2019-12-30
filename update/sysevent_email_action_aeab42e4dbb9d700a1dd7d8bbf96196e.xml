@@ -38,8 +38,7 @@
         <item_table/>
         <mandatory>false</mandatory>
         <message/>
-        <message_html><![CDATA[<p>&nbsp;</p>
-<p><img style="hspace: 5px; align: left;" title="HonorHealth" src="hh_logo.pngx" alt="HonorHealth" width="100" height="50" align="left" border="0" hspace="5" vspace="0" /></p>
+        <message_html><![CDATA[<p><img style="hspace: 5px; align: left;" title="HonorHealth" src="hh_logo.pngx" alt="HonorHealth" width="170" height="50" align="left" border="0" hspace="5" vspace="0" /></p>
 <p>&nbsp;</p>
 <p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>Supply Chain&nbsp;Request&nbsp;Number: ${number} has&nbsp;been assigned to your group</strong></span></p>
 <hr style="height: 3px; border: none; color: #000; background-color: #72246c;" />
@@ -81,7 +80,7 @@
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>aeab42e4dbb9d700a1dd7d8bbf96196e</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Supply Chain REQ Assigned to my Group</sys_name>
         <sys_overrides/>
         <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
@@ -90,10 +89,11 @@
         <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
         <sys_update_name>sysevent_email_action_aeab42e4dbb9d700a1dd7d8bbf96196e</sys_update_name>
         <sys_updated_by>LGOMEZ</sys_updated_by>
-        <sys_updated_on>2018-08-01 17:41:11</sys_updated_on>
+        <sys_updated_on>2019-02-12 19:33:44</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>
         <weight>0</weight>
+        <x_ctv_sc_notify_in_connect>false</x_ctv_sc_notify_in_connect>
     </sysevent_email_action>
 </record_update>

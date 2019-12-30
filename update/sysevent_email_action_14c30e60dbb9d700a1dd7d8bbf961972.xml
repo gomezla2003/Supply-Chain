@@ -7,7 +7,7 @@
         <affected_field_on_event/>
         <category display_value="Supply Chain" name="Supply Chain">70b87964db79d700a1dd7d8bbf961981</category>
         <collection>x_sthc_supply_chai_supply_chain_requests</collection>
-        <condition table="x_sthc_supply_chai_supply_chain_requests">stateCHANGESTO3^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="CHANGESTO" or="false" value="3"/>
+        <condition table="x_sthc_supply_chai_supply_chain_requests">stateCHANGESTO3^EQ<item display_value="Closed Complete" endquery="false" field="state" goto="false" newquery="false" operator="CHANGESTO" or="false" value="3"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <content_type>multipart/mixed</content_type>
@@ -16,7 +16,9 @@
         <digest_from/>
         <digest_html/>
         <digest_reply_to/>
-        <digest_separator_html><![CDATA[<br><hr><br>]]></digest_separator_html>
+        <digest_separator_html><![CDATA[<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>]]></digest_separator_html>
         <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
         <digest_subject/>
         <digest_template/>
@@ -36,7 +38,7 @@
         <mandatory>false</mandatory>
         <message/>
         <message_html><![CDATA[<p><br />&nbsp;</p>
-<p><img style="hspace: 5px; align: left;" title="HonorHealth" src="hh_logo.pngx" alt="HonorHealth" width="100" height="50" align="left" border="0" hspace="5" vspace="0" /></p>
+<p><img style="hspace: 5px; align: left;" title="HonorHealth" src="hh_logo.pngx" alt="HonorHealth" width="170" height="50" align="left" border="0" hspace="5" vspace="0" /></p>
 <p>&nbsp;</p>
 <p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>Supply Chain&nbsp;Request&nbsp;Number: ${number} has been completed</strong></span></p>
 <hr style="height: 2px; border: none; color: #000; background-color: #72246c;" />
@@ -49,7 +51,7 @@
 </div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong><span style="font-size: 12pt;">Your HonorHealth Supply Chain&nbsp;Service Desk&nbsp;<br />(480) 587 - 7277</span></strong></p>
+<p><strong><span style="font-size: 12pt;">Your HonorHealth Supply Chain&nbsp;Service Desk&nbsp;<br />(480) 882 -&nbsp;4357<br /></span></strong></p>
 <hr style="height: 2px; border: none; color: #000; background-color: #72246c;" />
 <p>&nbsp;</p>]]></message_html>
         <message_list/>
@@ -73,7 +75,7 @@
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>14c30e60dbb9d700a1dd7d8bbf961972</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>Supply Chain Request Closed (Customer)</sys_name>
         <sys_overrides/>
         <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
@@ -82,10 +84,11 @@
         <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
         <sys_update_name>sysevent_email_action_14c30e60dbb9d700a1dd7d8bbf961972</sys_update_name>
         <sys_updated_by>LGOMEZ</sys_updated_by>
-        <sys_updated_on>2018-08-01 17:40:28</sys_updated_on>
+        <sys_updated_on>2019-07-17 19:59:22</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>
         <weight>0</weight>
+        <x_ctv_sc_notify_in_connect>false</x_ctv_sc_notify_in_connect>
     </sysevent_email_action>
 </record_update>

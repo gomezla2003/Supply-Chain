@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Requests for Contract Uploads ">ee86cf47dbd0881096b17d8bbf961993</catalog_item>
+        <catalog_variable>IO:bdbd4f0bdb14881096b17d8bbf961901</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2019-10-09 19:57:42</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f35e8b4bdb14881096b17d8bbf961951</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>effective_date</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_f35e8b4bdb14881096b17d8bbf961951</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-10-09 19:57:42</sys_updated_on>
+        <table/>
+        <ui_policy display_value="GPO Local">cbfd834bdb14881096b17d8bbf96195f</ui_policy>
+        <variable>effective_date</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

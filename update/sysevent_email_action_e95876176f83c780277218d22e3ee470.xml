@@ -7,7 +7,7 @@
         <affected_field_on_event/>
         <category display_value="Incident" name="Incident">7d7c928f13f003000f3f76d66144b0b2</category>
         <collection>x_sthc_supply_chai_supply_chain_incidents</collection>
-        <condition table="x_sthc_supply_chai_supply_chain_incidents">sys_class_name=x_sthc_supply_chai_supply_chain_incidents^EQ<item endquery="false" field="sys_class_name" goto="false" newquery="false" operator="=" or="false" value="x_sthc_supply_chai_supply_chain_incidents"/>
+        <condition table="x_sthc_supply_chai_supply_chain_incidents">sys_class_name=x_sthc_supply_chai_supply_chain_incidents^EQ<item display_value="Supply Chain Incidents" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="=" or="false" value="x_sthc_supply_chai_supply_chain_incidents"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <content_type>multipart/mixed</content_type>
@@ -36,12 +36,12 @@
         <mandatory>false</mandatory>
         <message/>
         <message_html><![CDATA[<p>&nbsp;</p>
-<p><img style="hspace: 5px; align: left;" title="HonorHealth" src="hh_logo.pngx" alt="HonorHealth" width="100" height="50" align="left" border="" hspace="5" vspace="" /></p>
+<p><img style="hspace: 5px; align: left;" title="HonorHealth" src="hh_logo.pngx" alt="HonorHealth" width="170" height="50" align="left" border="" hspace="5" vspace="" /></p>
 <p>&nbsp;</p>
 <p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>Supply Chain&nbsp;Case&nbsp;Number: ${number} has&nbsp;been assigned to your team</strong></span></p>
 <hr style="height: 3px; border: none; color: #000; background-color: #72246c;" />
 <div style="background-color: #fcf4ff; border: .5px solid #72246c;">
-<p><span style="font-size: 12pt;"><strong>HR Case Number:</strong> ${number}</span></p>
+<p><span style="font-size: 12pt;"><strong>Case Number:</strong> ${number}</span></p>
 <p><span style="font-size: 12pt;"><strong>Opened for:</strong> ${caller}</span></p>
 <p><span style="font-size: 12pt;"><strong>Priority:</strong> ${priority}</span></p>
 <p><span style="font-size: 12pt;"><strong>Category:</strong> ${category}<br /></span></p>
@@ -82,7 +82,7 @@
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>e95876176f83c780277218d22e3ee470</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Supply Chain Assigned to your group</sys_name>
         <sys_overrides/>
         <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
@@ -91,10 +91,11 @@
         <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
         <sys_update_name>sysevent_email_action_e95876176f83c780277218d22e3ee470</sys_update_name>
         <sys_updated_by>LGOMEZ</sys_updated_by>
-        <sys_updated_on>2018-01-25 16:59:25</sys_updated_on>
+        <sys_updated_on>2019-10-30 17:07:36</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>
         <weight>5</weight>
+        <x_ctv_sc_notify_in_connect>false</x_ctv_sc_notify_in_connect>
     </sysevent_email_action>
 </record_update>

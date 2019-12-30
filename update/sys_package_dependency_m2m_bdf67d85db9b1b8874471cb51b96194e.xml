@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Configuration Management (CMDB)" source="com.snc.cmdb">19af12916f10110061f09ea22e3ee4df</dependency>
+        <min_version/>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-07-12 23:02:45</sys_created_on>
+        <sys_id>bdf67d85db9b1b8874471cb51b96194e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-07-12 23:02:45</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

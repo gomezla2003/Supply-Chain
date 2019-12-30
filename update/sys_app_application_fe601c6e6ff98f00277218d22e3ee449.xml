@@ -7,14 +7,14 @@
         <hint/>
         <name>Supply Chain Incidents</name>
         <order/>
-        <roles>x_sthc_supply_chai.user</roles>
+        <roles>x_sthc_supply_chai.user,Exception_Management</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>LGOMEZ</sys_created_by>
         <sys_created_on>2017-10-16 21:40:16</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>fe601c6e6ff98f00277218d22e3ee449</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Supply Chain Incidents</sys_name>
         <sys_overrides/>
         <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
@@ -23,7 +23,7 @@
         <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
         <sys_update_name>sys_app_application_fe601c6e6ff98f00277218d22e3ee449</sys_update_name>
         <sys_updated_by>LGOMEZ</sys_updated_by>
-        <sys_updated_on>2018-05-03 16:32:11</sys_updated_on>
+        <sys_updated_on>2019-05-20 16:13:36</sys_updated_on>
         <title>Supply Chain Incidents</title>
         <view_name/>
     </sys_app_application>

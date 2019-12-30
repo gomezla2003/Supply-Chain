@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <size>4</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">2eb24b53dbd9970096b17d8bbf961949</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>SHollien</sys_created_by>
+        <sys_created_on>2018-04-11 18:14:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>7eb2c317dbd9970096b17d8bbf9619d1</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>sp_column_7eb2c317dbd9970096b17d8bbf9619d1</sys_update_name>
+        <sys_updated_by>SHollien</sys_updated_by>
+        <sys_updated_on>2018-09-14 17:35:28</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</application>
+        <comments/>
+        <file_path/>
+        <instance_id>25bc9655a91c5d0058ebf191520622b5</instance_id>
+        <instance_name>shc</instance_name>
+        <name>sp_column_7eb2c317dbd9970096b17d8bbf9619d1</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>1</order><size>4</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">2eb24b53dbd9970096b17d8bbf961949</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>SHollien</sys_created_by><sys_created_on>2018-04-11 18:14:32</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>7eb2c317dbd9970096b17d8bbf9619d1</sys_id><sys_mod_count>2</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope><sys_update_name>sp_column_7eb2c317dbd9970096b17d8bbf9619d1</sys_update_name><sys_updated_by>SHollien</sys_updated_by><sys_updated_on>2018-09-14 17:35:28</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>1696174449</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>1483b36fdb187f0c808f68461b96198a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>SHollien</sys_created_by>
+        <sys_created_on>2019-03-26 15:45:49</sys_created_on>
+        <sys_id>8383b76fdb187f0c808f68461b9619aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>169baadd8ee0000001</sys_recorded_at>
+        <sys_updated_by>SHollien</sys_updated_by>
+        <sys_updated_on>2019-03-26 15:45:49</sys_updated_on>
+        <type>Column</type>
+        <update_guid>27c1de2d4a6c63806451cd366d6e0c92</update_guid>
+        <update_guid_history>27c1de2d4a6c63806451cd366d6e0c92:1696174449,c6c1de2df16c6380cd8657aa94cfef11:-2022673933,76b2c3175dd997004177710e213a99d2:-1446555019</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">2dbdcd74db0d3740808f68461b961984</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2019-04-23 21:25:03</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>74005d271abd450fbd8909d11145b001</sys_id>
+        <sys_metadata>7eb2c317dbd9970096b17d8bbf9619d1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_scope_delete display_value="">0449b80765ea48a488f6fef2280def90</sys_scope_delete>
+        <sys_update_name>sp_column_7eb2c317dbd9970096b17d8bbf9619d1</sys_update_name>
+        <sys_update_version display_value="sp_column_7eb2c317dbd9970096b17d8bbf9619d1">8383b76fdb187f0c808f68461b9619aa</sys_update_version>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-04-23 21:25:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

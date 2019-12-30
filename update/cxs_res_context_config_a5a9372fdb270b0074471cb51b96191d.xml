@@ -2,8 +2,10 @@
     <cxs_res_context_config action="INSERT_OR_UPDATE">
         <active>true</active>
         <cxs_context_config display_value="Supply Chain">f933ad226f3a4740277218d22e3ee47f</cxs_context_config>
-        <cxs_search_res_config display_value="knowledge">2da08a04eb53210070a9666cd206fefb</cxs_search_res_config>
+        <cxs_search_res_config display_value="Knowledge Articles">2da08a04eb53210070a9666cd206fefb</cxs_search_res_config>
+        <default_search>false</default_search>
         <name>knowledge</name>
+        <order>100</order>
         <search_operator>IR_AND_OR_QUERY</search_operator>
         <sys_class_name>cxs_res_context_config</sys_class_name>
         <sys_created_by>LGOMEZ</sys_created_by>

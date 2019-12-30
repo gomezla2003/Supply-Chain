@@ -6,7 +6,7 @@
         <css/>
         <glyph/>
         <id/>
-        <order>1</order>
+        <order>2</order>
         <roles/>
         <short_description/>
         <size>md</size>
@@ -17,7 +17,7 @@
         <sys_created_on>2017-10-18 21:21:30</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>eb4f52036ffd0f0061f06ea22e3ee4a9</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name/>
         <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
         <sys_policy/>
@@ -25,7 +25,7 @@
         <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
         <sys_update_name>sp_instance_eb4f52036ffd0f0061f06ea22e3ee4a9</sys_update_name>
         <sys_updated_by>SHollien</sys_updated_by>
-        <sys_updated_on>2018-07-11 15:48:13</sys_updated_on>
+        <sys_updated_on>2019-03-26 16:49:39</sys_updated_on>
         <title/>
         <url/>
         <widget_parameters><![CDATA[{
@@ -35,4 +35,5 @@
 	}
 }]]></widget_parameters>
     </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=eb4f52036ffd0f0061f06ea22e3ee4a9"/>
 </record_update>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Employee/Employed Physician Vendor">4ddcd25fdb09bbc040f8fcfa0c9619cb</catalog_item>
+        <catalog_variable>IO:5595bf53db2dcc54a1dd7d8bbf9619b9</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>lgomez</sys_created_by>
+        <sys_created_on>2019-12-18 18:07:40</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>1c849fe5db7104d4a1dd7d8bbf961990</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>banking_name</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_1c849fe5db7104d4a1dd7d8bbf961990</sys_update_name>
+        <sys_updated_by>lgomez</sys_updated_by>
+        <sys_updated_on>2019-12-18 18:07:40</sys_updated_on>
+        <table/>
+        <ui_policy display_value="User type is Employee2">08849fe5db7104d4a1dd7d8bbf961952</ui_policy>
+        <variable>banking_name</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</application>
+        <comments/>
+        <file_path/>
+        <instance_id>7ba7aed978585d004bfab063d5850db9</instance_id>
+        <instance_name>shctest</instance_name>
+        <name>catalog_ui_policy_action_1c849fe5db7104d4a1dd7d8bbf961990</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Employee/Employed Physician Vendor">4ddcd25fdb09bbc040f8fcfa0c9619cb</catalog_item><catalog_variable>IO:5595bf53db2dcc54a1dd7d8bbf9619b9</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>true</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>lgomez</sys_created_by><sys_created_on>2019-12-18 18:07:40</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>1c849fe5db7104d4a1dd7d8bbf961990</sys_id><sys_mod_count>0</sys_mod_count><sys_name>banking_name</sys_name><sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope><sys_update_name>catalog_ui_policy_action_1c849fe5db7104d4a1dd7d8bbf961990</sys_update_name><sys_updated_by>lgomez</sys_updated_by><sys_updated_on>2019-12-18 18:07:40</sys_updated_on><table/><ui_policy display_value="User type is Employee2">08849fe5db7104d4a1dd7d8bbf961952</ui_policy><variable>banking_name</variable><variable_set/><visible>true</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>811353698</payload_hash>
+        <record_name>banking_name</record_name>
+        <reverted_from/>
+        <source>f09dd0abdb4bc304808f68461b9619be</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>lgomez</sys_created_by>
+        <sys_created_on>2019-12-18 18:07:40</sys_created_on>
+        <sys_id>94849fe5db7104d4a1dd7d8bbf961993</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f1a31aa7c0000001</sys_recorded_at>
+        <sys_updated_by>lgomez</sys_updated_by>
+        <sys_updated_on>2019-12-18 18:07:40</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>9c849fe5a37104d4a3c264474f152292</update_guid>
+        <update_guid_history>9c849fe5a37104d4a3c264474f152292:811353698</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 12-18-2019 11:46:09">145d9be1dbf104d4a1dd7d8bbf961936</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>lgomez</sys_created_by>
+        <sys_created_on>2019-12-18 18:46:09</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>01976420928347d880fdbaa28936e440</sys_id>
+        <sys_metadata>1c849fe5db7104d4a1dd7d8bbf961990</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>banking_name</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_scope_delete display_value="">0449b80765ea48a488f6fef2280def90</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_1c849fe5db7104d4a1dd7d8bbf961990</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_1c849fe5db7104d4a1dd7d8bbf961990">94849fe5db7104d4a1dd7d8bbf961993</sys_update_version>
+        <sys_updated_by>lgomez</sys_updated_by>
+        <sys_updated_on>2019-12-18 18:46:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

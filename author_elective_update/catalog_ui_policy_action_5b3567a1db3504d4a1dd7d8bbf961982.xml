@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Employee/Employed Physician Vendor">4ddcd25fdb09bbc040f8fcfa0c9619cb</catalog_item>
+        <catalog_variable>IO:6d3677d3db2dcc54a1dd7d8bbf9619e2</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>lgomez</sys_created_by>
+        <sys_created_on>2019-12-18 19:20:54</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5b3567a1db3504d4a1dd7d8bbf961982</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>contact_phone_number</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_5b3567a1db3504d4a1dd7d8bbf961982</sys_update_name>
+        <sys_updated_by>lgomez</sys_updated_by>
+        <sys_updated_on>2019-12-18 19:20:54</sys_updated_on>
+        <table/>
+        <ui_policy display_value="User type is Physician">1ba1aba9dbf104d4a1dd7d8bbf9619dc</ui_policy>
+        <variable>contact_phone_number</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</application>
+        <comments/>
+        <file_path/>
+        <instance_id>7ba7aed978585d004bfab063d5850db9</instance_id>
+        <instance_name>shctest</instance_name>
+        <name>catalog_ui_policy_action_5b3567a1db3504d4a1dd7d8bbf961982</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Employee/Employed Physician Vendor">4ddcd25fdb09bbc040f8fcfa0c9619cb</catalog_item><catalog_variable>IO:6d3677d3db2dcc54a1dd7d8bbf9619e2</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>lgomez</sys_created_by><sys_created_on>2019-12-18 19:20:54</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>5b3567a1db3504d4a1dd7d8bbf961982</sys_id><sys_mod_count>0</sys_mod_count><sys_name>contact_phone_number</sys_name><sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope><sys_update_name>catalog_ui_policy_action_5b3567a1db3504d4a1dd7d8bbf961982</sys_update_name><sys_updated_by>lgomez</sys_updated_by><sys_updated_on>2019-12-18 19:20:54</sys_updated_on><table/><ui_policy display_value="User type is Physician">1ba1aba9dbf104d4a1dd7d8bbf9619dc</ui_policy><variable>contact_phone_number</variable><variable_set/><visible>true</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-351048302</payload_hash>
+        <record_name>contact_phone_number</record_name>
+        <reverted_from/>
+        <source>f09dd0abdb4bc304808f68461b9619be</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>lgomez</sys_created_by>
+        <sys_created_on>2019-12-18 19:20:54</sys_created_on>
+        <sys_id>0545a7a1db3504d4a1dd7d8bbf961951</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f1a74b6f20000001</sys_recorded_at>
+        <sys_updated_by>lgomez</sys_updated_by>
+        <sys_updated_on>2019-12-18 19:20:54</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>0d45a7a1103504d499a27e6950b68c50</update_guid>
+        <update_guid_history>0d45a7a1103504d499a27e6950b68c50:-351048302</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 12-18-2019 14:13:39">f81fb3a1db3904d4a1dd7d8bbf961933</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>lgomez</sys_created_by>
+        <sys_created_on>2019-12-18 21:13:39</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>0252b70d7b59474280126179f1078c91</sys_id>
+        <sys_metadata>5b3567a1db3504d4a1dd7d8bbf961982</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>contact_phone_number</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_scope_delete display_value="">0449b80765ea48a488f6fef2280def90</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_5b3567a1db3504d4a1dd7d8bbf961982</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_5b3567a1db3504d4a1dd7d8bbf961982">0545a7a1db3504d4a1dd7d8bbf961951</sys_update_version>
+        <sys_updated_by>lgomez</sys_updated_by>
+        <sys_updated_on>2019-12-18 21:13:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

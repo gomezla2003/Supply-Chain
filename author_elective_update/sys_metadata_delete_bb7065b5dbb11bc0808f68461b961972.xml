@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="stage" table="x_sthc_supply_chai_supply_chain_incidents" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>stage</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Request Approved</label>
+            <language>en</language>
+            <name>x_sthc_supply_chai_supply_chain_incidents</name>
+            <sequence>1</sequence>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-04-04 15:34:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>70fa1a816f1d5384277218d22e3ee46c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-04-04 15:34:59</sys_updated_on>
+            <value>request_approved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>stage</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Waiting for Approval</label>
+            <language>en</language>
+            <name>x_sthc_supply_chai_supply_chain_incidents</name>
+            <sequence>2</sequence>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-04-04 15:36:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>253b1ec16f1d5384277218d22e3ee48b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-04-04 15:36:19</sys_updated_on>
+            <value>waiting _for_ Approval</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>stage</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fulfillment</label>
+            <language>en</language>
+            <name>x_sthc_supply_chai_supply_chain_incidents</name>
+            <sequence>3</sequence>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-04-04 15:37:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>787b9ec16f1d5384277218d22e3ee441</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-04-04 15:37:00</sys_updated_on>
+            <value>fulfillment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>stage</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Delivery</label>
+            <language>en</language>
+            <name>x_sthc_supply_chai_supply_chain_incidents</name>
+            <sequence>4</sequence>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-04-04 15:37:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>479b96c16f1d5384277218d22e3ee474</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-04-04 15:37:31</sys_updated_on>
+            <value>delivery</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>stage</element>
+            <name>x_sthc_supply_chai_supply_chain_incidents</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-04-04 15:34:46</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>da0b9ac16f1d5384277218d22e3ee4da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>stage</sys_name>
+            <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+            <sys_update_name>sys_choice_x_sthc_supply_chai_supply_chain_incidents_stage</sys_update_name>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-04-04 15:34:46</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</application>
+        <comments/>
+        <file_path/>
+        <instance_id>25bc9655a91c5d0058ebf191520622b5</instance_id>
+        <instance_name>shc</instance_name>
+        <name>sys_choice_x_sthc_supply_chai_supply_chain_incidents_stage</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="stage" table="x_sthc_supply_chai_supply_chain_incidents" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>stage</element><hint/><inactive>false</inactive><label>Request Approved</label><language>en</language><name>x_sthc_supply_chai_supply_chain_incidents</name><sequence>1</sequence><sys_created_by>SHollien</sys_created_by><sys_created_on>2018-04-04 15:34:46</sys_created_on><sys_domain>global</sys_domain><sys_id>70fa1a816f1d5384277218d22e3ee46c</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>SHollien</sys_updated_by><sys_updated_on>2018-04-04 15:34:59</sys_updated_on><value>request_approved</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>stage</element><hint/><inactive>false</inactive><label>Waiting for Approval</label><language>en</language><name>x_sthc_supply_chai_supply_chain_incidents</name><sequence>2</sequence><sys_created_by>SHollien</sys_created_by><sys_created_on>2018-04-04 15:36:05</sys_created_on><sys_domain>global</sys_domain><sys_id>253b1ec16f1d5384277218d22e3ee48b</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>SHollien</sys_updated_by><sys_updated_on>2018-04-04 15:36:19</sys_updated_on><value>waiting _for_ Approval</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>stage</element><hint/><inactive>false</inactive><label>Fulfillment</label><language>en</language><name>x_sthc_supply_chai_supply_chain_incidents</name><sequence>3</sequence><sys_created_by>SHollien</sys_created_by><sys_created_on>2018-04-04 15:37:00</sys_created_on><sys_domain>global</sys_domain><sys_id>787b9ec16f1d5384277218d22e3ee441</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>SHollien</sys_updated_by><sys_updated_on>2018-04-04 15:37:00</sys_updated_on><value>fulfillment</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>stage</element><hint/><inactive>false</inactive><label>Delivery</label><language>en</language><name>x_sthc_supply_chai_supply_chain_incidents</name><sequence>4</sequence><sys_created_by>SHollien</sys_created_by><sys_created_on>2018-04-04 15:37:31</sys_created_on><sys_domain>global</sys_domain><sys_id>479b96c16f1d5384277218d22e3ee474</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>SHollien</sys_updated_by><sys_updated_on>2018-04-04 15:37:31</sys_updated_on><value>delivery</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>stage</element><name>x_sthc_supply_chai_supply_chain_incidents</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>SHollien</sys_created_by><sys_created_on>2018-04-04 15:34:46</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>da0b9ac16f1d5384277218d22e3ee4da</sys_id><sys_mod_count>0</sys_mod_count><sys_name>stage</sys_name><sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope><sys_update_name>sys_choice_x_sthc_supply_chai_supply_chain_incidents_stage</sys_update_name><sys_updated_by>SHollien</sys_updated_by><sys_updated_on>2018-04-04 15:34:46</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-1227538186</payload_hash>
+        <record_name>Supply Chain Incidents.Stage</record_name>
+        <reverted_from/>
+        <source>7060a935dbb11bc0808f68461b961967</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>SHollien</sys_created_by>
+        <sys_created_on>2018-05-01 15:45:50</sys_created_on>
+        <sys_id>337065b5dbb11bc0808f68461b961979</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1631c61a3760000001</sys_recorded_at>
+        <sys_updated_by>SHollien</sys_updated_by>
+        <sys_updated_on>2018-05-01 15:45:50</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>a6abdac14b1d5384308c09b72e9bd90a</update_guid>
+        <update_guid_history>a6abdac14b1d5384308c09b72e9bd90a:-1227538186,cf8b92c16a1d5384e79d658ecda71e85:2026364193,b86bdac1221d53848ac8938f7ff31976:1383715713,6d5bd2c1611d5384c8e12be5ac745d12:-132768331,191b9ac1161d53843bbebc22105815e1:-1222634686,5e0b9ac1b21d538470e834f335ec2cdb:-414484366</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>SHollien</sys_created_by>
+        <sys_created_on>2019-10-16 17:14:51</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>bb7065b5dbb11bc0808f68461b961972</sys_id>
+        <sys_metadata>bb7065b5dbb11bc0808f68461b961972</sys_metadata>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>stage</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_scope_delete display_value="">0449b80765ea48a488f6fef2280def90</sys_scope_delete>
+        <sys_update_name>sys_metadata_delete_bb7065b5dbb11bc0808f68461b961972</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_sthc_supply_chai_supply_chain_incidents_stage">337065b5dbb11bc0808f68461b961979</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-10-23 00:00:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cxs_table_config">
     <cxs_table_config action="INSERT_OR_UPDATE">
         <active>true</active>
+        <agent_intel_tab_active>true</agent_intel_tab_active>
         <allow_expand_collapse>true</allow_expand_collapse>
         <cxs_context_config display_value="Supply Chain">f933ad226f3a4740277218d22e3ee47f</cxs_context_config>
+        <enable_source_selector>false</enable_source_selector>
         <kb_attachment>embed_article</kb_attachment>
         <limit>10</limit>
         <match_condition table="x_sthc_supply_chai_supply_chain_incidents">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
@@ -20,21 +22,22 @@
         <search_as_field>assigned_to</search_as_field>
         <search_as_results_msg>Some results may not be displayed due to security constraints</search_as_results_msg>
         <search_as_script/>
+        <show_searcher_first>false</show_searcher_first>
         <sys_class_name>cxs_table_config</sys_class_name>
         <sys_created_by>LGOMEZ</sys_created_by>
         <sys_created_on>2017-12-05 20:46:17</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>908361626f3a4740277218d22e3ee4ee</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Supply Chain Incidents [x_sthc_supply_chai_supply_chain_incidents]</sys_name>
         <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
         <sys_update_name>cxs_table_config_908361626f3a4740277218d22e3ee4ee</sys_update_name>
-        <sys_updated_by>LGOMEZ</sys_updated_by>
-        <sys_updated_on>2018-01-15 17:06:09</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-11-10 16:59:12</sys_updated_on>
         <table>x_sthc_supply_chai_supply_chain_incidents</table>
         <ui_type>platform</ui_type>
     </cxs_table_config>

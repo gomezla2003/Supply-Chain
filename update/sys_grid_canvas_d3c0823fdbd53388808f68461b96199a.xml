@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA Incidents Resolved">9cc058466fb9464068ceda0cbb3ee4ab</legacy_page>
+        <name>PA Incidents Resolved</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2019-05-15 19:05:44</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>d3c0823fdbd53388808f68461b96199a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Incidents Resolved</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>sys_grid_canvas_d3c0823fdbd53388808f68461b96199a</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-05-15 19:05:44</sys_updated_on>
+    </sys_grid_canvas>
+</record_update>

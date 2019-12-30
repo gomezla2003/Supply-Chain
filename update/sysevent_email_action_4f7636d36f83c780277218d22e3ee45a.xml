@@ -2,7 +2,7 @@
     <sysevent_email_action action="INSERT_OR_UPDATE">
         <action_insert>true</action_insert>
         <action_update>false</action_update>
-        <active>true</active>
+        <active>false</active>
         <advanced_condition/>
         <affected_field_on_event/>
         <category display_value="Incident" name="Incident">7d7c928f13f003000f3f76d66144b0b2</category>
@@ -34,9 +34,9 @@
         <mandatory>false</mandatory>
         <message/>
         <message_html><![CDATA[<p>&nbsp;</p>
-<p><img style="hspace: 5px; align: left;" title="HonorHealth" src="hh_logo.pngx" alt="HonorHealth" width="100" height="50" align="left" border="" hspace="5" vspace="" /></p>
+<p><img style="hspace: 5px; align: left;" title="HonorHealth" src="hh_logo.pngx" alt="HonorHealth" width="170" height="50" align="left" border="" hspace="5" vspace="" /></p>
 <p>&nbsp;</p>
-<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>Supplay Chain Case&nbsp;Number: ${number} has been&nbsp;Closed</strong></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>Supply Chain Case&nbsp;Number: ${number} has been&nbsp;Closed</strong></span></p>
 <hr style="height: 2px; border: none; color: #000; background-color: #72246c;" />
 <p><span style="font-size: 12pt;"> Since we have not received your response in the specified period of time, your Supply Chain&nbsp;case ${number} has now been closed automatically and marked as Close Complete.&nbsp;</span></p>
 <p><strong><span style="font-size: 12pt;">Case Number: </span></strong><span style="font-size: 12pt;">${number}</span></p>
@@ -67,7 +67,7 @@
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>4f7636d36f83c780277218d22e3ee45a</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Supply Chain Case  Time Up (Customer)</sys_name>
         <sys_overrides/>
         <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
@@ -76,10 +76,11 @@
         <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
         <sys_update_name>sysevent_email_action_4f7636d36f83c780277218d22e3ee45a</sys_update_name>
         <sys_updated_by>LGOMEZ</sys_updated_by>
-        <sys_updated_on>2018-08-01 17:45:02</sys_updated_on>
+        <sys_updated_on>2019-07-17 19:59:01</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>
         <weight>5</weight>
+        <x_ctv_sc_notify_in_connect>false</x_ctv_sc_notify_in_connect>
     </sysevent_email_action>
 </record_update>

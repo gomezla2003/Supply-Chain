@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>false</global>
+        <group/>
+        <link_element/>
+        <name>new change</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description/>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-12-18 21:56:08</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>097c549cdb626f80ecd688915b96195b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>new change</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>sys_template_097c549cdb626f80ecd688915b96195b</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-12-18 21:56:08</sys_updated_on>
+        <table>change_request</table>
+        <template>assigned_to=9dd736c46fd4710068ceda0cbb3ee476^assignment_group=17e153986f565200277218d22e3ee4ec^backout_plan=Any data discrepancies must be manually addressed one by one.^category=Application^change_plan=Create update set.&#13;
+Load data in DEV instance (create import set and transform map or use alternative method).&#13;
+System admin or process owner to validate data (including record counts before and after).&#13;
+Move update set to TEST instance.&#13;
+Load data into TEST instance using import set and transform map created in DEV.&#13;
+System admin or process owner to validate data (including record counts before and after).&#13;
+Move update set to production instance.&#13;
+Load data into production instance, as above.&#13;
+System admin or process owner to validate data (including record counts before and after).^cmdb_ci=5b8891936f0ad10061f09ea22e3ee4cc^description=Updates to Demand module&#13;
+&#13;
+1.	New Demand Types! You may need to update any filters to include these new types.&#13;
+a.	Procedural(Cardiology, Radiology, PeriOp)&#13;
+b.	Pharmacy&#13;
+c.	Lab&#13;
+2.	Automatic State change to "New/Manager Approved" when you re-assign the demand. This allows the newly assigned team to set the correct status when it enters their queue. &#13;
+3.	Adding the 'release' field to Demand tasks. Many of you utilize the release field on the Demand form, you will not be able to utilize the same feature on the demand task side. If you are interested in using release for your demands, please let me know.  &#13;
+4.	New Demand States &#13;
+a.	"Awaiting Vendor"&#13;
+b.	"On-Hold"&#13;
+5.	New Notification when Demand tasks are completed. If you own the parent Demand ticket, you will now get notified via email when your child demand tasks have been completed allowing you to respond faster.&#13;
+^end_date=01-02-2019 13:59:53^requested_by=9dd736c46fd4710068ceda0cbb3ee476^start_date=01-02-2019 13:59:53^test_plan=Create update set.&#13;
+Load data in DEV instance (create import set and transform map or use alternative method).&#13;
+System admin or process owner to validate data (including record counts before and after).&#13;
+Move update set to TEST instance.&#13;
+Load data into TEST instance using import set and transform map created in DEV.&#13;
+System admin or process owner to validate data (including record counts before and after).&#13;
+Move update set to production instance.&#13;
+Load data into production instance, as above.&#13;
+System admin or process owner to validate data (including record counts before and after).^u_business_owner_signoff=Work management team^u_change_submitted_within_the_designated_change_window=false^u_downtime=No^u_ephi=No^u_subcategory=Maintenance^u_test_results=Passed^u_users_affected=None, no downtime required^EQ</template>
+        <user display_value="Louie Gomez">9dd736c46fd4710068ceda0cbb3ee476</user>
+        <view/>
+    </sys_template>
+</record_update>

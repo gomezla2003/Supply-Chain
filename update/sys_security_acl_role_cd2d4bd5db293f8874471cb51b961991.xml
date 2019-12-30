@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2019-05-20 16:30:09</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>cd2d4bd5db293f8874471cb51b961991</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.Exception_Management</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_security_acl display_value="x_sthc_supply_chai_supply_chain_incidents.assignment_group">b42d4bd5db293f8874471cb51b96198d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_cd2d4bd5db293f8874471cb51b961991</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-05-20 16:30:09</sys_updated_on>
+        <sys_user_role display_value="Exception_Management" name="Exception_Management">f73df9f7db553388808f68461b961988</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

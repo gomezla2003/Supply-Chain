@@ -9,13 +9,13 @@
         <kb_article/>
         <kb_category/>
         <kb_topic/>
-        <order>0</order>
+        <order>1</order>
         <roles/>
         <sc_cat_item/>
         <sc_category/>
         <short_description>Browser and search for articles, rate or submit feedback</short_description>
         <size>md</size>
-        <sp_column display_value="1">fab24b53dbd9970096b17d8bbf96194b</sp_column>
+        <sp_column display_value="1">39896375db31270040f8fcfa0c961956</sp_column>
         <sp_page display_value="kb_category">0e461a2147132100ba13a5554ee4900e</sp_page>
         <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
         <sys_class_name>sp_instance_link</sys_class_name>
@@ -23,15 +23,15 @@
         <sys_created_on>2017-10-18 21:34:28</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>ed4262cf6fbd0f0061f06ea22e3ee413</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_name>Knowledge Base</sys_name>
         <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
         <sys_update_name>sp_instance_link_ed4262cf6fbd0f0061f06ea22e3ee413</sys_update_name>
-        <sys_updated_by>SHollien</sys_updated_by>
-        <sys_updated_on>2018-04-11 18:14:36</sys_updated_on>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-10-09 22:25:48</sys_updated_on>
         <title>Knowledge Base</title>
         <type>page</type>
         <url/>
@@ -42,4 +42,5 @@
 	}
 }]]></widget_parameters>
     </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=ed4262cf6fbd0f0061f06ea22e3ee413"/>
 </record_update>

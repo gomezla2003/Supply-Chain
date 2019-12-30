@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2018-12-16 04:56:41">
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2019-12-30 21:20:46">
     <sys_portal_page action="INSERT_OR_UPDATE">
         <layout/>
         <order/>
@@ -36,30 +36,6 @@
                 <sys_mod_count>1</sys_mod_count>
                 <sys_updated_by>LGOMEZ</sys_updated_by>
                 <sys_updated_on>2018-01-15 17:32:15</sys_updated_on>
-                <related_items_node>
-                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-                        <grid_canvas display_value="PA New Tab">d120c87bdb6b0b0074471cb51b961973</grid_canvas>
-                        <height>4</height>
-                        <portal_widget display_value="Created 01-15-2018 10:32:15">0550803fdb6b0b0074471cb51b96190c</portal_widget>
-                        <posx>3</posx>
-                        <posy>0</posy>
-                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
-                        <sys_created_by>LGOMEZ</sys_created_by>
-                        <sys_created_on>2018-01-15 17:32:15</sys_created_on>
-                        <sys_customer_update>false</sys_customer_update>
-                        <sys_id>4150803fdb6b0b0074471cb51b96190e</sys_id>
-                        <sys_mod_count>4</sys_mod_count>
-                        <sys_name/>
-                        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
-                        <sys_policy/>
-                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-                        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
-                        <sys_update_name>sys_grid_canvas_pane_4150803fdb6b0b0074471cb51b96190e</sys_update_name>
-                        <sys_updated_by>LGOMEZ</sys_updated_by>
-                        <sys_updated_on>2018-01-15 17:32:34</sys_updated_on>
-                        <width>3</width>
-                    </sys_grid_canvas_pane>
-                </related_items_node>
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
@@ -117,6 +93,17 @@
                         <value>single_score</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:15">0550803fdb6b0b0074471cb51b96190c</portal_section>
+                        <sys_created_by>system</sys_created_by>
+                        <sys_created_on>2019-01-19 13:02:29</sys_created_on>
+                        <sys_id>87351b1edb032300a08eaed15b961983</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>system</sys_updated_by>
+                        <sys_updated_on>2019-01-19 13:02:29</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
                         <portal_section display_value="Created 01-15-2018 10:32:15">0550803fdb6b0b0074471cb51b96190c</portal_section>
                         <sys_created_by>LGOMEZ</sys_created_by>
@@ -140,30 +127,6 @@
                 <sys_mod_count>1</sys_mod_count>
                 <sys_updated_by>LGOMEZ</sys_updated_by>
                 <sys_updated_on>2018-01-15 17:32:20</sys_updated_on>
-                <related_items_node>
-                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-                        <grid_canvas display_value="PA New Tab">d120c87bdb6b0b0074471cb51b961973</grid_canvas>
-                        <height>4</height>
-                        <portal_widget display_value="Created 01-15-2018 10:32:20">0a50c83fdb6b0b0074471cb51b9619d5</portal_widget>
-                        <posx>0</posx>
-                        <posy>0</posy>
-                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
-                        <sys_created_by>LGOMEZ</sys_created_by>
-                        <sys_created_on>2018-01-15 17:32:20</sys_created_on>
-                        <sys_customer_update>false</sys_customer_update>
-                        <sys_id>4650c83fdb6b0b0074471cb51b9619d7</sys_id>
-                        <sys_mod_count>1</sys_mod_count>
-                        <sys_name/>
-                        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
-                        <sys_policy/>
-                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-                        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
-                        <sys_update_name>sys_grid_canvas_pane_4650c83fdb6b0b0074471cb51b9619d7</sys_update_name>
-                        <sys_updated_by>LGOMEZ</sys_updated_by>
-                        <sys_updated_on>2018-01-15 17:32:26</sys_updated_on>
-                        <width>3</width>
-                    </sys_grid_canvas_pane>
-                </related_items_node>
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
@@ -221,6 +184,17 @@
                         <value>single_score</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:20">0a50c83fdb6b0b0074471cb51b9619d5</portal_section>
+                        <sys_created_by>system</sys_created_by>
+                        <sys_created_on>2019-01-19 13:02:29</sys_created_on>
+                        <sys_id>c3351b1edb032300a08eaed15b961988</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>system</sys_updated_by>
+                        <sys_updated_on>2019-01-19 13:02:29</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
                         <portal_section display_value="Created 01-15-2018 10:32:20">0a50c83fdb6b0b0074471cb51b9619d5</portal_section>
                         <sys_created_by>LGOMEZ</sys_created_by>
@@ -237,6 +211,166 @@
                 <dropzone/>
                 <offset/>
                 <page display_value="PA New Tab">5120c87bdb6b0b0074471cb51b961972</page>
+                <summary>Supply chain open cases by category</summary>
+                <sys_created_by>LGOMEZ</sys_created_by>
+                <sys_created_on>2019-04-10 18:36:33</sys_created_on>
+                <sys_id>1e7aa564db38bf4874471cb51b9619b7</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>LGOMEZ</sys_updated_by>
+                <sys_updated_on>2019-04-10 18:36:33</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 04-10-2019 11:36:33">1e7aa564db38bf4874471cb51b9619b7</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2019-04-10 18:36:33</sys_created_on>
+                        <sys_id>1a7aa564db38bf4874471cb51b9619b9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2019-04-10 18:36:33</sys_updated_on>
+                        <value>semi_donut</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 04-10-2019 11:36:33">1e7aa564db38bf4874471cb51b9619b7</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2019-04-10 18:36:33</sys_created_on>
+                        <sys_id>567aa564db38bf4874471cb51b9619b8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2019-04-10 18:36:33</sys_updated_on>
+                        <value>6b5aa524db38bf4874471cb51b9619c5</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 04-10-2019 11:36:33">1e7aa564db38bf4874471cb51b9619b7</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2019-04-10 18:36:33</sys_created_on>
+                        <sys_id>567aa564db38bf4874471cb51b9619b9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2019-04-10 18:36:33</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 04-10-2019 11:36:33">1e7aa564db38bf4874471cb51b9619b7</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2019-04-10 18:36:33</sys_created_on>
+                        <sys_id>927aa564db38bf4874471cb51b9619b9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2019-04-10 18:36:33</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 04-10-2019 11:36:33">1e7aa564db38bf4874471cb51b9619b7</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2019-04-10 18:36:33</sys_created_on>
+                        <sys_id>da7aa564db38bf4874471cb51b9619b9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2019-04-10 18:36:33</sys_updated_on>
+                        <value>Supply chain open cases by category</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 04-10-2019 11:36:33">1e7aa564db38bf4874471cb51b9619b7</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2019-04-10 18:36:33</sys_created_on>
+                        <sys_id>de7aa564db38bf4874471cb51b9619b8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2019-04-10 18:36:33</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">5120c87bdb6b0b0074471cb51b961972</page>
+                <summary>Exception Management Cases Aging</summary>
+                <sys_created_by>JTURNOCK</sys_created_by>
+                <sys_created_on>2019-05-23 22:40:47</sys_created_on>
+                <sys_id>1fbebb92dbe5fb80808f68461b9619e8</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>JTURNOCK</sys_updated_by>
+                <sys_updated_on>2019-05-23 22:40:47</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 05-23-2019 15:40:47">1fbebb92dbe5fb80808f68461b9619e8</portal_section>
+                        <sys_created_by>JTURNOCK</sys_created_by>
+                        <sys_created_on>2019-05-23 22:40:47</sys_created_on>
+                        <sys_id>1bbebb92dbe5fb80808f68461b9619ea</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>JTURNOCK</sys_updated_by>
+                        <sys_updated_on>2019-05-23 22:40:47</sys_updated_on>
+                        <value>semi_donut</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 05-23-2019 15:40:47">1fbebb92dbe5fb80808f68461b9619e8</portal_section>
+                        <sys_created_by>JTURNOCK</sys_created_by>
+                        <sys_created_on>2019-05-23 22:40:47</sys_created_on>
+                        <sys_id>57bebb92dbe5fb80808f68461b9619e9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>JTURNOCK</sys_updated_by>
+                        <sys_updated_on>2019-05-23 22:40:47</sys_updated_on>
+                        <value>cbaeb792dbe5fb80808f68461b961901</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 05-23-2019 15:40:47">1fbebb92dbe5fb80808f68461b9619e8</portal_section>
+                        <sys_created_by>JTURNOCK</sys_created_by>
+                        <sys_created_on>2019-05-23 22:40:47</sys_created_on>
+                        <sys_id>57bebb92dbe5fb80808f68461b9619ea</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>JTURNOCK</sys_updated_by>
+                        <sys_updated_on>2019-05-23 22:40:47</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 05-23-2019 15:40:47">1fbebb92dbe5fb80808f68461b9619e8</portal_section>
+                        <sys_created_by>JTURNOCK</sys_created_by>
+                        <sys_created_on>2019-05-23 22:40:47</sys_created_on>
+                        <sys_id>93bebb92dbe5fb80808f68461b9619ea</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>JTURNOCK</sys_updated_by>
+                        <sys_updated_on>2019-05-23 22:40:47</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 05-23-2019 15:40:47">1fbebb92dbe5fb80808f68461b9619e8</portal_section>
+                        <sys_created_by>JTURNOCK</sys_created_by>
+                        <sys_created_on>2019-05-23 22:40:47</sys_created_on>
+                        <sys_id>dbbebb92dbe5fb80808f68461b9619ea</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>JTURNOCK</sys_updated_by>
+                        <sys_updated_on>2019-05-23 22:40:47</sys_updated_on>
+                        <value>Exception Management Cases Aging</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 05-23-2019 15:40:47">1fbebb92dbe5fb80808f68461b9619e8</portal_section>
+                        <sys_created_by>JTURNOCK</sys_created_by>
+                        <sys_created_on>2019-05-23 22:40:47</sys_created_on>
+                        <sys_id>dfbebb92dbe5fb80808f68461b9619e9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>JTURNOCK</sys_updated_by>
+                        <sys_updated_on>2019-05-23 22:40:47</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">5120c87bdb6b0b0074471cb51b961972</page>
                 <summary>SC On-Hold</summary>
                 <sys_created_by>LGOMEZ</sys_created_by>
                 <sys_created_on>2018-01-15 17:32:05</sys_created_on>
@@ -244,30 +378,6 @@
                 <sys_mod_count>1</sys_mod_count>
                 <sys_updated_by>LGOMEZ</sys_updated_by>
                 <sys_updated_on>2018-01-15 17:32:05</sys_updated_on>
-                <related_items_node>
-                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-                        <grid_canvas display_value="PA New Tab">d120c87bdb6b0b0074471cb51b961973</grid_canvas>
-                        <height>4</height>
-                        <portal_widget display_value="Created 01-15-2018 10:32:05">2a40c03fdb6b0b0074471cb51b9619d8</portal_widget>
-                        <posx>9</posx>
-                        <posy>0</posy>
-                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
-                        <sys_created_by>LGOMEZ</sys_created_by>
-                        <sys_created_on>2018-01-15 17:32:05</sys_created_on>
-                        <sys_customer_update>false</sys_customer_update>
-                        <sys_id>6640c03fdb6b0b0074471cb51b9619da</sys_id>
-                        <sys_mod_count>12</sys_mod_count>
-                        <sys_name/>
-                        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
-                        <sys_policy/>
-                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-                        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
-                        <sys_update_name>sys_grid_canvas_pane_6640c03fdb6b0b0074471cb51b9619da</sys_update_name>
-                        <sys_updated_by>LGOMEZ</sys_updated_by>
-                        <sys_updated_on>2018-01-15 17:32:46</sys_updated_on>
-                        <width>3</width>
-                    </sys_grid_canvas_pane>
-                </related_items_node>
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
@@ -325,6 +435,17 @@
                         <value>single_score</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:05">2a40c03fdb6b0b0074471cb51b9619d8</portal_section>
+                        <sys_created_by>system</sys_created_by>
+                        <sys_created_on>2019-01-19 13:02:29</sys_created_on>
+                        <sys_id>df351b1edb032300a08eaed15b961998</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>system</sys_updated_by>
+                        <sys_updated_on>2019-01-19 13:02:29</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
                         <portal_section display_value="Created 01-15-2018 10:32:05">2a40c03fdb6b0b0074471cb51b9619d8</portal_section>
                         <sys_created_by>LGOMEZ</sys_created_by>
@@ -349,30 +470,17 @@
                 <sys_updated_by>LGOMEZ</sys_updated_by>
                 <sys_updated_on>2018-01-15 17:32:10</sys_updated_on>
                 <related_items_node>
-                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-                        <grid_canvas display_value="PA New Tab">d120c87bdb6b0b0074471cb51b961973</grid_canvas>
-                        <height>4</height>
-                        <portal_widget display_value="Created 01-15-2018 10:32:10">37404c3fdb6b0b0074471cb51b96193f</portal_widget>
-                        <posx>6</posx>
-                        <posy>0</posy>
-                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
-                        <sys_created_by>LGOMEZ</sys_created_by>
-                        <sys_created_on>2018-01-15 17:32:10</sys_created_on>
-                        <sys_customer_update>false</sys_customer_update>
-                        <sys_id>73404c3fdb6b0b0074471cb51b961941</sys_id>
-                        <sys_mod_count>8</sys_mod_count>
-                        <sys_name/>
-                        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
-                        <sys_policy/>
-                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-                        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
-                        <sys_update_name>sys_grid_canvas_pane_73404c3fdb6b0b0074471cb51b961941</sys_update_name>
-                        <sys_updated_by>LGOMEZ</sys_updated_by>
-                        <sys_updated_on>2018-01-15 17:32:40</sys_updated_on>
-                        <width>3</width>
-                    </sys_grid_canvas_pane>
-                </related_items_node>
-                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 01-15-2018 10:32:10">37404c3fdb6b0b0074471cb51b96193f</portal_section>
+                        <sys_created_by>system</sys_created_by>
+                        <sys_created_on>2019-01-19 13:02:29</sys_created_on>
+                        <sys_id>1f351b1edb032300a08eaed15b9619a0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>system</sys_updated_by>
+                        <sys_updated_on>2019-01-19 13:02:29</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
                         <portal_section display_value="Created 01-15-2018 10:32:10">37404c3fdb6b0b0074471cb51b96193f</portal_section>
@@ -453,30 +561,6 @@
                 <sys_updated_by>LGOMEZ</sys_updated_by>
                 <sys_updated_on>2018-01-15 17:32:00</sys_updated_on>
                 <related_items_node>
-                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-                        <grid_canvas display_value="PA New Tab">d120c87bdb6b0b0074471cb51b961973</grid_canvas>
-                        <height>10</height>
-                        <portal_widget display_value="Created 01-15-2018 10:32:00">514008bbdb6b0b0074471cb51b96190f</portal_widget>
-                        <posx>0</posx>
-                        <posy>4</posy>
-                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
-                        <sys_created_by>LGOMEZ</sys_created_by>
-                        <sys_created_on>2018-01-15 17:32:00</sys_created_on>
-                        <sys_customer_update>false</sys_customer_update>
-                        <sys_id>9d4008bbdb6b0b0074471cb51b961910</sys_id>
-                        <sys_mod_count>13</sys_mod_count>
-                        <sys_name/>
-                        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
-                        <sys_policy/>
-                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-                        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
-                        <sys_update_name>sys_grid_canvas_pane_9d4008bbdb6b0b0074471cb51b961910</sys_update_name>
-                        <sys_updated_by>LGOMEZ</sys_updated_by>
-                        <sys_updated_on>2018-01-15 17:32:57</sys_updated_on>
-                        <width>4</width>
-                    </sys_grid_canvas_pane>
-                </related_items_node>
-                <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
                         <portal_section display_value="Created 01-15-2018 10:32:00">514008bbdb6b0b0074471cb51b96190f</portal_section>
@@ -549,102 +633,78 @@
                 <dropzone/>
                 <offset/>
                 <page display_value="PA New Tab">5120c87bdb6b0b0074471cb51b961972</page>
-                <summary>SC  Cases By Elapsed Time SLA</summary>
-                <sys_created_by>LGOMEZ</sys_created_by>
-                <sys_created_on>2018-01-15 17:31:54</sys_created_on>
-                <sys_id>73308cbbdb6b0b0074471cb51b961985</sys_id>
+                <summary>Vendor Requests by State</summary>
+                <sys_created_by>JTURNOCK</sys_created_by>
+                <sys_created_on>2019-04-19 21:33:47</sys_created_on>
+                <sys_id>52596c63dbf8bb84808f68461b9619ba</sys_id>
                 <sys_mod_count>1</sys_mod_count>
-                <sys_updated_by>LGOMEZ</sys_updated_by>
-                <sys_updated_on>2018-01-15 17:31:54</sys_updated_on>
-                <related_items_node>
-                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-                        <grid_canvas display_value="PA New Tab">d120c87bdb6b0b0074471cb51b961973</grid_canvas>
-                        <height>10</height>
-                        <portal_widget display_value="Created 01-15-2018 10:31:54">73308cbbdb6b0b0074471cb51b961985</portal_widget>
-                        <posx>4</posx>
-                        <posy>4</posy>
-                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
-                        <sys_created_by>LGOMEZ</sys_created_by>
-                        <sys_created_on>2018-01-15 17:31:54</sys_created_on>
-                        <sys_customer_update>false</sys_customer_update>
-                        <sys_id>bf308cbbdb6b0b0074471cb51b961986</sys_id>
-                        <sys_mod_count>16</sys_mod_count>
-                        <sys_name/>
-                        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
-                        <sys_policy/>
-                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-                        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
-                        <sys_update_name>sys_grid_canvas_pane_bf308cbbdb6b0b0074471cb51b961986</sys_update_name>
-                        <sys_updated_by>LGOMEZ</sys_updated_by>
-                        <sys_updated_on>2018-01-15 17:33:03</sys_updated_on>
-                        <width>4</width>
-                    </sys_grid_canvas_pane>
-                </related_items_node>
+                <sys_updated_by>JTURNOCK</sys_updated_by>
+                <sys_updated_on>2019-04-19 21:33:47</sys_updated_on>
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 01-15-2018 10:31:54">73308cbbdb6b0b0074471cb51b961985</portal_section>
-                        <sys_created_by>LGOMEZ</sys_created_by>
-                        <sys_created_on>2018-01-15 17:31:54</sys_created_on>
-                        <sys_id>33308cbbdb6b0b0074471cb51b961986</sys_id>
+                        <portal_section display_value="Created 04-19-2019 14:33:47">52596c63dbf8bb84808f68461b9619ba</portal_section>
+                        <sys_created_by>JTURNOCK</sys_created_by>
+                        <sys_created_on>2019-04-19 21:33:47</sys_created_on>
+                        <sys_id>12596c63dbf8bb84808f68461b9619bb</sys_id>
                         <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>LGOMEZ</sys_updated_by>
-                        <sys_updated_on>2018-01-15 17:31:54</sys_updated_on>
+                        <sys_updated_by>JTURNOCK</sys_updated_by>
+                        <sys_updated_on>2019-04-19 21:33:47</sys_updated_on>
                         <value>true</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 01-15-2018 10:31:54">73308cbbdb6b0b0074471cb51b961985</portal_section>
-                        <sys_created_by>LGOMEZ</sys_created_by>
-                        <sys_created_on>2018-01-15 17:31:54</sys_created_on>
-                        <sys_id>77308cbbdb6b0b0074471cb51b961985</sys_id>
+                        <portal_section display_value="Created 04-19-2019 14:33:47">52596c63dbf8bb84808f68461b9619ba</portal_section>
+                        <sys_created_by>JTURNOCK</sys_created_by>
+                        <sys_created_on>2019-04-19 21:33:47</sys_created_on>
+                        <sys_id>56596c63dbf8bb84808f68461b9619ba</sys_id>
                         <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>LGOMEZ</sys_updated_by>
-                        <sys_updated_on>2018-01-15 17:31:54</sys_updated_on>
-                        <value>02af3fa3db6b0b0074471cb51b96199a</value>
+                        <sys_updated_by>JTURNOCK</sys_updated_by>
+                        <sys_updated_on>2019-04-19 21:33:47</sys_updated_on>
+                        <value>8f196823dbf8bb84808f68461b9619e1</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 01-15-2018 10:31:54">73308cbbdb6b0b0074471cb51b961985</portal_section>
-                        <sys_created_by>LGOMEZ</sys_created_by>
-                        <sys_created_on>2018-01-15 17:31:54</sys_created_on>
-                        <sys_id>7f308cbbdb6b0b0074471cb51b961985</sys_id>
+                        <portal_section display_value="Created 04-19-2019 14:33:47">52596c63dbf8bb84808f68461b9619ba</portal_section>
+                        <sys_created_by>JTURNOCK</sys_created_by>
+                        <sys_created_on>2019-04-19 21:33:47</sys_created_on>
+                        <sys_id>5e596c63dbf8bb84808f68461b9619ba</sys_id>
                         <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>LGOMEZ</sys_updated_by>
-                        <sys_updated_on>2018-01-15 17:31:54</sys_updated_on>
+                        <sys_updated_by>JTURNOCK</sys_updated_by>
+                        <sys_updated_on>2019-04-19 21:33:47</sys_updated_on>
                         <value>report_widget_description</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 01-15-2018 10:31:54">73308cbbdb6b0b0074471cb51b961985</portal_section>
-                        <sys_created_by>LGOMEZ</sys_created_by>
-                        <sys_created_on>2018-01-15 17:31:54</sys_created_on>
-                        <sys_id>b7308cbbdb6b0b0074471cb51b961986</sys_id>
+                        <portal_section display_value="Created 04-19-2019 14:33:47">52596c63dbf8bb84808f68461b9619ba</portal_section>
+                        <sys_created_by>JTURNOCK</sys_created_by>
+                        <sys_created_on>2019-04-19 21:33:47</sys_created_on>
+                        <sys_id>96596c63dbf8bb84808f68461b9619bb</sys_id>
                         <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>LGOMEZ</sys_updated_by>
-                        <sys_updated_on>2018-01-15 17:31:54</sys_updated_on>
-                        <value>SC  Cases By Elapsed Time SLA</value>
+                        <sys_updated_by>JTURNOCK</sys_updated_by>
+                        <sys_updated_on>2019-04-19 21:33:47</sys_updated_on>
+                        <value>Vendor Requests by State</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 01-15-2018 10:31:54">73308cbbdb6b0b0074471cb51b961985</portal_section>
-                        <sys_created_by>LGOMEZ</sys_created_by>
-                        <sys_created_on>2018-01-15 17:31:54</sys_created_on>
-                        <sys_id>bb308cbbdb6b0b0074471cb51b961985</sys_id>
+                        <portal_section display_value="Created 04-19-2019 14:33:47">52596c63dbf8bb84808f68461b9619ba</portal_section>
+                        <sys_created_by>JTURNOCK</sys_created_by>
+                        <sys_created_on>2019-04-19 21:33:47</sys_created_on>
+                        <sys_id>9a596c63dbf8bb84808f68461b9619ba</sys_id>
                         <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>LGOMEZ</sys_updated_by>
-                        <sys_updated_on>2018-01-15 17:31:54</sys_updated_on>
+                        <sys_updated_by>JTURNOCK</sys_updated_by>
+                        <sys_updated_on>2019-04-19 21:33:47</sys_updated_on>
                         <value>com.glide.ui.portal.RenderReport</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 01-15-2018 10:31:54">73308cbbdb6b0b0074471cb51b961985</portal_section>
-                        <sys_created_by>LGOMEZ</sys_created_by>
-                        <sys_created_on>2018-01-15 17:31:54</sys_created_on>
-                        <sys_id>f3308cbbdb6b0b0074471cb51b961986</sys_id>
+                        <portal_section display_value="Created 04-19-2019 14:33:47">52596c63dbf8bb84808f68461b9619ba</portal_section>
+                        <sys_created_by>JTURNOCK</sys_created_by>
+                        <sys_created_on>2019-04-19 21:33:47</sys_created_on>
+                        <sys_id>d2596c63dbf8bb84808f68461b9619bb</sys_id>
                         <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>LGOMEZ</sys_updated_by>
-                        <sys_updated_on>2018-01-15 17:31:54</sys_updated_on>
+                        <sys_updated_by>JTURNOCK</sys_updated_by>
+                        <sys_updated_on>2019-04-19 21:33:47</sys_updated_on>
                         <value>semi_donut</value>
                     </sys_portal_preferences>
                 </related_items_node>
@@ -660,30 +720,6 @@
                 <sys_mod_count>1</sys_mod_count>
                 <sys_updated_by>LGOMEZ</sys_updated_by>
                 <sys_updated_on>2018-01-15 17:31:50</sys_updated_on>
-                <related_items_node>
-                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-                        <grid_canvas display_value="PA New Tab">d120c87bdb6b0b0074471cb51b961973</grid_canvas>
-                        <height>10</height>
-                        <portal_widget display_value="Created 01-15-2018 10:31:50">7e30c0bbdb6b0b0074471cb51b961905</portal_widget>
-                        <posx>8</posx>
-                        <posy>4</posy>
-                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
-                        <sys_created_by>LGOMEZ</sys_created_by>
-                        <sys_created_on>2018-01-15 17:31:50</sys_created_on>
-                        <sys_customer_update>false</sys_customer_update>
-                        <sys_id>7230c0bbdb6b0b0074471cb51b961909</sys_id>
-                        <sys_mod_count>18</sys_mod_count>
-                        <sys_name/>
-                        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
-                        <sys_policy/>
-                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-                        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
-                        <sys_update_name>sys_grid_canvas_pane_7230c0bbdb6b0b0074471cb51b961909</sys_update_name>
-                        <sys_updated_by>LGOMEZ</sys_updated_by>
-                        <sys_updated_on>2018-01-15 17:33:09</sys_updated_on>
-                        <width>4</width>
-                    </sys_grid_canvas_pane>
-                </related_items_node>
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
@@ -750,6 +786,166 @@
                         <sys_updated_by>LGOMEZ</sys_updated_by>
                         <sys_updated_on>2018-01-15 17:31:50</sys_updated_on>
                         <value>ec6ebfe7db2b0b0074471cb51b961924</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">5120c87bdb6b0b0074471cb51b961972</page>
+                <summary>Supply Chain Training Task</summary>
+                <sys_created_by>LGOMEZ</sys_created_by>
+                <sys_created_on>2019-09-25 17:40:39</sys_created_on>
+                <sys_id>99c8a62edb08cc105c77a1ac0b961975</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>LGOMEZ</sys_updated_by>
+                <sys_updated_on>2019-09-25 17:40:39</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 09-25-2019 10:40:39">99c8a62edb08cc105c77a1ac0b961975</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2019-09-25 17:40:39</sys_created_on>
+                        <sys_id>21c8a26edb08cc105c77a1ac0b961990</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2019-09-25 17:40:39</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 09-25-2019 10:40:39">99c8a62edb08cc105c77a1ac0b961975</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2019-09-25 17:40:39</sys_created_on>
+                        <sys_id>25c8a26edb08cc105c77a1ac0b96198f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2019-09-25 17:40:39</sys_updated_on>
+                        <value>06d6aeaadbc4cc105c77a1ac0b9619a4</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 09-25-2019 10:40:39">99c8a62edb08cc105c77a1ac0b961975</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2019-09-25 17:40:39</sys_created_on>
+                        <sys_id>2dc8a26edb08cc105c77a1ac0b961990</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2019-09-25 17:40:39</sys_updated_on>
+                        <value>Supply Chain Training Task</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 09-25-2019 10:40:39">99c8a62edb08cc105c77a1ac0b961975</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2019-09-25 17:40:39</sys_created_on>
+                        <sys_id>69c8a26edb08cc105c77a1ac0b961990</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2019-09-25 17:40:39</sys_updated_on>
+                        <value>donut</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 09-25-2019 10:40:39">99c8a62edb08cc105c77a1ac0b961975</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2019-09-25 17:40:39</sys_created_on>
+                        <sys_id>a5c8a26edb08cc105c77a1ac0b961990</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2019-09-25 17:40:39</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 09-25-2019 10:40:39">99c8a62edb08cc105c77a1ac0b961975</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2019-09-25 17:40:39</sys_created_on>
+                        <sys_id>e1c8a26edb08cc105c77a1ac0b961990</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2019-09-25 17:40:39</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">5120c87bdb6b0b0074471cb51b961972</page>
+                <summary>SC Tasks</summary>
+                <sys_created_by>LGOMEZ</sys_created_by>
+                <sys_created_on>2019-07-31 18:52:01</sys_created_on>
+                <sys_id>c5102620db43bb0474471cb51b961936</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>LGOMEZ</sys_updated_by>
+                <sys_updated_on>2019-07-31 18:52:01</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 07-31-2019 11:52:01">c5102620db43bb0474471cb51b961936</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2019-07-31 18:52:01</sys_created_on>
+                        <sys_id>01102620db43bb0474471cb51b961937</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2019-07-31 18:52:01</sys_updated_on>
+                        <value>0a4112b0db463b8474471cb51b9619d0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 07-31-2019 11:52:01">c5102620db43bb0474471cb51b961936</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2019-07-31 18:52:01</sys_created_on>
+                        <sys_id>0d102620db43bb0474471cb51b961937</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2019-07-31 18:52:01</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 07-31-2019 11:52:01">c5102620db43bb0474471cb51b961936</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2019-07-31 18:52:01</sys_created_on>
+                        <sys_id>45102620db43bb0474471cb51b961938</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2019-07-31 18:52:01</sys_updated_on>
+                        <value>SC Tasks</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 07-31-2019 11:52:01">c5102620db43bb0474471cb51b961936</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2019-07-31 18:52:01</sys_created_on>
+                        <sys_id>49102620db43bb0474471cb51b961937</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2019-07-31 18:52:01</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 07-31-2019 11:52:01">c5102620db43bb0474471cb51b961936</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2019-07-31 18:52:01</sys_created_on>
+                        <sys_id>81102620db43bb0474471cb51b961938</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2019-07-31 18:52:01</sys_updated_on>
+                        <value>semi_donut</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 07-31-2019 11:52:01">c5102620db43bb0474471cb51b961936</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2019-07-31 18:52:01</sys_created_on>
+                        <sys_id>cd102620db43bb0474471cb51b961937</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2019-07-31 18:52:01</sys_updated_on>
+                        <value>true</value>
                     </sys_portal_preferences>
                 </related_items_node>
             </sys_portal>

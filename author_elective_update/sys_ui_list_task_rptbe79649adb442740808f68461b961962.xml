@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="task" version="2" view="RPTbe79649adb442740808f68461b961962">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="8b79649adb442740808f68461b96196a">c379649adb442740808f68461b96196b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-08-22 21:23:43</sys_created_on>
+            <sys_id>0f79649adb442740808f68461b96196b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-08-22 21:23:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="8b79649adb442740808f68461b96196a">c379649adb442740808f68461b96196b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-08-22 21:23:43</sys_created_on>
+            <sys_id>8379649adb442740808f68461b96196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-08-22 21:23:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_by</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="8b79649adb442740808f68461b96196a">c379649adb442740808f68461b96196b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-08-22 21:23:43</sys_created_on>
+            <sys_id>0779649adb442740808f68461b96196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-08-22 21:23:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="8b79649adb442740808f68461b96196a">c379649adb442740808f68461b96196b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-08-22 21:23:43</sys_created_on>
+            <sys_id>8779649adb442740808f68461b96196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-08-22 21:23:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assignment_group</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="8b79649adb442740808f68461b96196a">c379649adb442740808f68461b96196b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-08-22 21:23:43</sys_created_on>
+            <sys_id>0b79649adb442740808f68461b96196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-08-22 21:23:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="8b79649adb442740808f68461b96196a">c379649adb442740808f68461b96196b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-08-22 21:23:43</sys_created_on>
+            <sys_id>8b79649adb442740808f68461b96196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-08-22 21:23:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>closed_at</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="8b79649adb442740808f68461b96196a">c379649adb442740808f68461b96196b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-08-22 21:23:43</sys_created_on>
+            <sys_id>0f79649adb442740808f68461b96196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-08-22 21:23:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>closed_by</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="8b79649adb442740808f68461b96196a">c379649adb442740808f68461b96196b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-08-22 21:23:43</sys_created_on>
+            <sys_id>8f79649adb442740808f68461b96196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-08-22 21:23:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>task</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>SHollien</sys_created_by>
+            <sys_created_on>2018-08-22 21:23:43</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>c379649adb442740808f68461b96196b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>task</sys_name>
+            <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+            <sys_update_name>sys_ui_list_task_RPTbe79649adb442740808f68461b961962</sys_update_name>
+            <sys_updated_by>SHollien</sys_updated_by>
+            <sys_updated_on>2018-08-22 21:23:43</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rptbe79649adb442740808f68461b961962" name="RPTbe79649adb442740808f68461b961962">8b79649adb442740808f68461b96196a</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</application>
+        <comments/>
+        <file_path/>
+        <instance_id>25bc9655a91c5d0058ebf191520622b5</instance_id>
+        <instance_name>shc</instance_name>
+        <name>sys_ui_list_task_RPTbe79649adb442740808f68461b961962</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="task" version="2" view="RPTbe79649adb442740808f68461b961962"><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>number</element><list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="8b79649adb442740808f68461b96196a">c379649adb442740808f68461b96196b</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>SHollien</sys_created_by><sys_created_on>2018-08-22 21:23:43</sys_created_on><sys_id>0f79649adb442740808f68461b96196b</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>SHollien</sys_updated_by><sys_updated_on>2018-08-22 21:23:43</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_created_on</element><list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="8b79649adb442740808f68461b96196a">c379649adb442740808f68461b96196b</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>SHollien</sys_created_by><sys_created_on>2018-08-22 21:23:43</sys_created_on><sys_id>8379649adb442740808f68461b96196c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>SHollien</sys_updated_by><sys_updated_on>2018-08-22 21:23:43</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_created_by</element><list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="8b79649adb442740808f68461b96196a">c379649adb442740808f68461b96196b</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>SHollien</sys_created_by><sys_created_on>2018-08-22 21:23:43</sys_created_on><sys_id>0779649adb442740808f68461b96196c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>SHollien</sys_updated_by><sys_updated_on>2018-08-22 21:23:43</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>short_description</element><list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="8b79649adb442740808f68461b96196a">c379649adb442740808f68461b96196b</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>SHollien</sys_created_by><sys_created_on>2018-08-22 21:23:43</sys_created_on><sys_id>8779649adb442740808f68461b96196c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>SHollien</sys_updated_by><sys_updated_on>2018-08-22 21:23:43</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>assignment_group</element><list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="8b79649adb442740808f68461b96196a">c379649adb442740808f68461b96196b</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>SHollien</sys_created_by><sys_created_on>2018-08-22 21:23:43</sys_created_on><sys_id>0b79649adb442740808f68461b96196c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>SHollien</sys_updated_by><sys_updated_on>2018-08-22 21:23:43</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>assigned_to</element><list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="8b79649adb442740808f68461b96196a">c379649adb442740808f68461b96196b</list_id><max_value>false</max_value><min_value>false</min_value><position>5</position><sum>false</sum><sys_created_by>SHollien</sys_created_by><sys_created_on>2018-08-22 21:23:43</sys_created_on><sys_id>8b79649adb442740808f68461b96196c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>SHollien</sys_updated_by><sys_updated_on>2018-08-22 21:23:43</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>closed_at</element><list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="8b79649adb442740808f68461b96196a">c379649adb442740808f68461b96196b</list_id><max_value>false</max_value><min_value>false</min_value><position>6</position><sum>false</sum><sys_created_by>SHollien</sys_created_by><sys_created_on>2018-08-22 21:23:43</sys_created_on><sys_id>0f79649adb442740808f68461b96196c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>SHollien</sys_updated_by><sys_updated_on>2018-08-22 21:23:43</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>closed_by</element><list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="8b79649adb442740808f68461b96196a">c379649adb442740808f68461b96196b</list_id><max_value>false</max_value><min_value>false</min_value><position>7</position><sum>false</sum><sys_created_by>SHollien</sys_created_by><sys_created_on>2018-08-22 21:23:43</sys_created_on><sys_id>8f79649adb442740808f68461b96196c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>SHollien</sys_updated_by><sys_updated_on>2018-08-22 21:23:43</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>task</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>SHollien</sys_created_by><sys_created_on>2018-08-22 21:23:43</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>c379649adb442740808f68461b96196b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>task</sys_name><sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope><sys_update_name>sys_ui_list_task_RPTbe79649adb442740808f68461b961962</sys_update_name><sys_updated_by>SHollien</sys_updated_by><sys_updated_on>2018-08-22 21:23:43</sys_updated_on><sys_user/><view display_value="Rptbe79649adb442740808f68461b961962" name="RPTbe79649adb442740808f68461b961962">8b79649adb442740808f68461b96196a</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>-550511694</payload_hash>
+        <record_name>Task</record_name>
+        <reverted_from/>
+        <source>f09dd0abdb4bc304808f68461b9619be</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>SHollien</sys_created_by>
+        <sys_created_on>2018-08-22 21:23:43</sys_created_on>
+        <sys_id>0779649adb442740808f68461b961970</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>165638596940000001</sys_recorded_at>
+        <sys_updated_by>SHollien</sys_updated_by>
+        <sys_updated_on>2018-08-22 21:23:43</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>8f79649ad9442740ef1c492dbd6ef56f</update_guid>
+        <update_guid_history>8f79649ad9442740ef1c492dbd6ef56f:-550511694</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>SHollien</sys_created_by>
+        <sys_created_on>2018-08-23 16:23:19</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>88b34b1faf4348e089d7db606f854100</sys_id>
+        <sys_metadata>c379649adb442740808f68461b96196b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>task</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_parent display_value="Task">2fcf9a916f10110061f09ea22e3ee44e</sys_parent>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_scope_delete display_value="">0449b80765ea48a488f6fef2280def90</sys_scope_delete>
+        <sys_update_name>sys_ui_list_task_RPTbe79649adb442740808f68461b961962</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_task_RPTbe79649adb442740808f68461b961962">0779649adb442740808f68461b961970</sys_update_version>
+        <sys_updated_by>SHollien</sys_updated_by>
+        <sys_updated_on>2018-08-23 16:23:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

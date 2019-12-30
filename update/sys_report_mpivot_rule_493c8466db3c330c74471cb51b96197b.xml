@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_mpivot_rule">
+    <sys_report_mpivot_rule action="INSERT_OR_UPDATE">
+        <bg_color>background-color:</bg_color>
+        <bg_color_id/>
+        <color>background-color:#008000</color>
+        <color_id display_value="Green">65b302aea9fe3dba00a530d65ecc2106</color_id>
+        <operator>&lt;</operator>
+        <order>1</order>
+        <report_id display_value="SC Breached Cases">b7ddbfe3db2b0b0074471cb51b9619dd</report_id>
+        <sys_class_name>sys_report_mpivot_rule</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2019-04-16 16:52:55</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>493c8466db3c330c74471cb51b96197b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>&lt;</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>sys_report_mpivot_rule_493c8466db3c330c74471cb51b96197b</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-04-16 16:54:15</sys_updated_on>
+        <value1>1</value1>
+        <value2/>
+    </sys_report_mpivot_rule>
+</record_update>

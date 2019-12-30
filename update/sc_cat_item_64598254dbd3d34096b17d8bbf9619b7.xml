@@ -1,35 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
     <sc_cat_item action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <availability>on_both</availability>
         <billable>false</billable>
-        <category display_value="Supply Chain Requests">b117d8e06f55df44277218d22e3ee4c8</category>
+        <category display_value="Forms">b117d8e06f55df44277218d22e3ee4c8</category>
         <cost>0</cost>
         <custom_cart/>
         <delivery_plan/>
         <delivery_plan_script/>
         <delivery_time/>
         <description/>
+        <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
-        <group display_value="Supply Chain Analytics" name="Supply Chain Analytics">fd4b5224db31db00b3d8fcfa0c961987</group>
+        <group display_value="Supply Chain Service Desk" name="Supply Chain Service Desk">032d2edb6f43c780277218d22e3ee482</group>
         <hide_sp>false</hide_sp>
         <icon/>
         <ignore_price>true</ignore_price>
         <image/>
         <list_price>0</list_price>
         <location/>
+        <mandatory_attachment>false</mandatory_attachment>
         <meta>category, management</meta>
         <mobile_hide_price>false</mobile_hide_price>
         <mobile_picture/>
         <mobile_picture_type>use_desktop_picture</mobile_picture_type>
         <model/>
         <name>Category Management Data Requests</name>
+        <no_attachment_v2>false</no_attachment_v2>
         <no_cart>true</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
         <no_order>false</no_order>
         <no_order_now>false</no_order_now>
         <no_proceed_checkout>false</no_proceed_checkout>
         <no_quantity>true</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
         <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
         <omit_price>true</omit_price>
         <order>0</order>
         <ordered_item_link/>
@@ -38,6 +45,7 @@
         <price>0</price>
         <recurring_frequency/>
         <recurring_price>0</recurring_price>
+        <request_method/>
         <roles>snc_internal</roles>
         <sc_catalogs>fa8a5e0f6fbd0f0061f06ea22e3ee404</sc_catalogs>
         <sc_ic_item_staging/>
@@ -50,15 +58,15 @@
         <sys_created_on>2018-07-10 16:28:56</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>64598254dbd3d34096b17d8bbf9619b7</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_name>Category Management Data Requests</sys_name>
         <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
         <sys_update_name>sc_cat_item_64598254dbd3d34096b17d8bbf9619b7</sys_update_name>
-        <sys_updated_by>SHollien</sys_updated_by>
-        <sys_updated_on>2018-08-15 20:11:20</sys_updated_on>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-10-25 20:06:29</sys_updated_on>
         <template/>
         <type>item</type>
         <u_approval_group_override/>

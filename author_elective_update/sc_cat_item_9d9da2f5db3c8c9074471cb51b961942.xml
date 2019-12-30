@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="DELETE">
+        <active>true</active>
+        <availability>on_both</availability>
+        <billable>false</billable>
+        <category display_value="Forms">b117d8e06f55df44277218d22e3ee4c8</category>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-04 00:00:00</delivery_time>
+        <description/>
+        <entitlement_script/>
+        <group display_value="Supply Chain Service Desk" name="Supply Chain Service Desk">032d2edb6f43c780277218d22e3ee482</group>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Copy of Training Request</name>
+        <no_cart>true</no_cart>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>true</no_quantity>
+        <no_search>false</no_search>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=9d9da2f5db3c8c9074471cb51b961942&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <roles>snc_internal</roles>
+        <sc_catalogs>fa8a5e0f6fbd0f0061f06ea22e3ee404</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <short_description>Copy of Training Request</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2019-10-30 16:53:18</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>9d9da2f5db3c8c9074471cb51b961942</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copy of Training Request</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_update_name>sc_cat_item_9d9da2f5db3c8c9074471cb51b961942</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-10-30 16:53:18</sys_updated_on>
+        <template/>
+        <type>item</type>
+        <u_approval_group_override/>
+        <u_show_on_access_request_guide>false</u_show_on_access_request_guide>
+        <use_sc_layout>false</use_sc_layout>
+        <vendor/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow display_value="Supply Chain Svc Deskw/o Appr">d825accedb0048108bd686171b96192b</workflow>
+    </sc_cat_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=9d9da2f5db3c8c9074471cb51b961942"/>
+    <fx_price action="delete_multiple" query="id=9d9da2f5db3c8c9074471cb51b961942"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>9d9da2f5db3c8c9074471cb51b961942</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2019-10-30 16:53:19</sys_created_on>
+        <sys_id>dd9d2639db3c8c9074471cb51b96194a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-10-30 16:53:19</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>9d9da2f5db3c8c9074471cb51b961942</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2019-10-30 16:53:19</sys_created_on>
+        <sys_id>199d2639db3c8c9074471cb51b96194b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-10-30 16:53:19</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</application>
+        <comments/>
+        <file_path/>
+        <instance_id>25bc9655a91c5d0058ebf191520622b5</instance_id>
+        <instance_name>shc</instance_name>
+        <name>sc_cat_item_9d9da2f5db3c8c9074471cb51b961942</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item"><sc_cat_item action="INSERT_OR_UPDATE"><active>true</active><availability>on_both</availability><billable>false</billable><category display_value="Forms">b117d8e06f55df44277218d22e3ee4c8</category><cost>0</cost><custom_cart/><delivery_plan/><delivery_plan_script/><delivery_time>1970-01-04 00:00:00</delivery_time><description/><entitlement_script/><group display_value="Supply Chain Service Desk" name="Supply Chain Service Desk">032d2edb6f43c780277218d22e3ee482</group><hide_sp>false</hide_sp><icon/><ignore_price>true</ignore_price><image/><list_price>0</list_price><location/><meta/><mobile_hide_price>false</mobile_hide_price><mobile_picture/><mobile_picture_type>use_desktop_picture</mobile_picture_type><model/><name>Copy of Training Request</name><no_cart>true</no_cart><no_order>false</no_order><no_order_now>false</no_order_now><no_proceed_checkout>false</no_proceed_checkout><no_quantity>true</no_quantity><no_search>false</no_search><omit_price>false</omit_price><order>0</order><ordered_item_link/><picture/><preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=9d9da2f5db3c8c9074471cb51b961942&amp;sysparm_preview=true", "summary");</preview><price>0</price><recurring_frequency/><recurring_price>0</recurring_price><roles>snc_internal</roles><sc_catalogs>fa8a5e0f6fbd0f0061f06ea22e3ee404</sc_catalogs><sc_ic_item_staging/><sc_ic_version/><short_description>Copy of Training Request</short_description><show_variable_help_on_load>false</show_variable_help_on_load><start_closed>false</start_closed><sys_class_name>sc_cat_item</sys_class_name><sys_created_by>LGOMEZ</sys_created_by><sys_created_on>2019-10-30 16:53:18</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>9d9da2f5db3c8c9074471cb51b961942</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Copy of Training Request</sys_name><sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope><sys_update_name>sc_cat_item_9d9da2f5db3c8c9074471cb51b961942</sys_update_name><sys_updated_by>LGOMEZ</sys_updated_by><sys_updated_on>2019-10-30 16:53:18</sys_updated_on><template/><type>item</type><u_approval_group_override/><u_show_on_access_request_guide>false</u_show_on_access_request_guide><use_sc_layout>false</use_sc_layout><vendor/><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><workflow display_value="Supply Chain Svc Deskw/o Appr">d825accedb0048108bd686171b96192b</workflow></sc_cat_item><sys_translated_text action="delete_multiple" query="documentkey=9d9da2f5db3c8c9074471cb51b961942"/><fx_price action="delete_multiple" query="id=9d9da2f5db3c8c9074471cb51b961942"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>price</field><id>9d9da2f5db3c8c9074471cb51b961942</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>LGOMEZ</sys_created_by><sys_created_on>2019-10-30 16:53:19</sys_created_on><sys_id>dd9d2639db3c8c9074471cb51b96194a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>LGOMEZ</sys_updated_by><sys_updated_on>2019-10-30 16:53:19</sys_updated_on><table>sc_cat_item</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>recurring_price</field><id>9d9da2f5db3c8c9074471cb51b961942</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>LGOMEZ</sys_created_by><sys_created_on>2019-10-30 16:53:19</sys_created_on><sys_id>199d2639db3c8c9074471cb51b96194b</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>LGOMEZ</sys_updated_by><sys_updated_on>2019-10-30 16:53:19</sys_updated_on><table>sc_cat_item</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>-219766064</payload_hash>
+        <record_name>Copy of Training Request</record_name>
+        <reverted_from/>
+        <source>78d02e556f10110061f09ea22e3ee49e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2019-10-30 16:53:19</sys_created_on>
+        <sys_id>999d2639db3c8c9074471cb51b961950</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e1d95fccd0000001</sys_recorded_at>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-10-30 16:53:19</sys_updated_on>
+        <type>Catalog Item</type>
+        <update_guid>919d26391f3c8c9038f48e3a05244e50</update_guid>
+        <update_guid_history>919d26391f3c8c9038f48e3a05244e50:-219766064</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">24bdeab9db3c8c9074471cb51b961959</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2019-10-30 16:53:48</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sc_cat_item">sc_cat_item</sys_db_object>
+        <sys_id>10faab6a237f4e6582d55ccb943e7bc1</sys_id>
+        <sys_metadata>9d9da2f5db3c8c9074471cb51b961942</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copy of Training Request</sys_name>
+        <sys_package display_value="Supply Chain Incidents" source="x_sthc_supply_chai">ba60d82e6ff98f00277218d22e3ee42a</sys_package>
+        <sys_parent display_value="Forms">b117d8e06f55df44277218d22e3ee4c8</sys_parent>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain Incidents">ba60d82e6ff98f00277218d22e3ee42a</sys_scope>
+        <sys_scope_delete display_value="">0449b80765ea48a488f6fef2280def90</sys_scope_delete>
+        <sys_update_name>sc_cat_item_9d9da2f5db3c8c9074471cb51b961942</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_9d9da2f5db3c8c9074471cb51b961942">999d2639db3c8c9074471cb51b961950</sys_update_version>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-10-30 16:53:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
