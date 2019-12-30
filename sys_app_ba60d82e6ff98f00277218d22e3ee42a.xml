@@ -25,14 +25,14 @@
         <sys_created_by>LGOMEZ</sys_created_by>
         <sys_created_on>2017-10-16 21:40:19</sys_created_on>
         <sys_id>ba60d82e6ff98f00277218d22e3ee42a</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_updated_by>lgomez</sys_updated_by>
-        <sys_updated_on>2019-12-30 21:15:46</sys_updated_on>
+        <sys_updated_on>2019-12-30 21:24:00</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role display_value="x_sthc_supply_chai.user" name="x_sthc_supply_chai.user">32601c6e6ff98f00277218d22e3ee44e</user_role>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.3</version>
+        <version>1.0.4</version>
     </sys_app>
 </record_update>
